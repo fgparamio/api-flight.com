@@ -1,8 +1,18 @@
-# api-flight.com GNU Source Code
+# api-flight.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU Source Code
 
-View Page: [https://api-flight.com/](https://api-flight.com/)
+## This source code is GNU
+---
+
+[Read about GNU source code](https://en.wikipedia.org/wiki/GNU)
+
+---
+
+View Page:&nbsp;&nbsp;&nbsp;[https://api-flight.com/](https://api-flight.com/)
+
+---
 
 ## Microservices Go Scrapers
+---
 
 Application built with:
 
@@ -20,40 +30,42 @@ gopkg.in/headzoo/surf.v1
 
 ```
 
-## Available Scripts
-
 ### To Run Application
+---
 
 ```
 
 go run vivacolombia_scraper.go
 
-
 ```
 
 ## Annex: Low cost airlines
+---
 
-[https://es.wikipedia.org/wiki/Anexo:Aerol%C3%ADneas_de_bajo_costo#Am%C3%A9rica_del_Sur_y_Am%C3%A9rica_Central](Low Costo Airlines in the world)
+[Low Cost Airlines in the world](https://es.wikipedia.org/wiki/Anexo:Aerol%C3%ADneas_de_bajo_costo)
 
 
 ## Next airlines to integrate
 
-- Flybondi
-- Azul Linhas Aéreas Brasileiras
-- Gol Líneas Aéreas
-- Webjet
-- Sky Airline
-- Latin American Wings
-- JetSmart
-- EasyFly
-- Viva Colombia ------------------------------- (Implemented)
-- LANZA Cerrada
-- Wingo
-- Veca Airlines
-- Aero Continente cerrada
-- Peruvian Airlines
-- Star Perú
-- Viva Air
-- Rutas Aéreas de Venezuela
-- Volaris
+---
+|  Airlines                              |              Status
+| :-------------------------------------- |------------------------------------:|
+|  Flybondi                              |                                     |
+|  Azul Linhas Aéreas Brasileiras        |                                     |
+|  Gol Líneas Aéreas                     |                                     |
+|  Webjet                                |                                     |  
+|  Sky Airline                           |                                     |
+|  Latin American Wings                  |                                     |
+|  JetSmart                              |                                     |
+|  EasyFly                               |                                     |
+|  Viva Colombia                         |           (Implemented)             |
+|  LANZA Cerrada                         |                                     |
+|  Wingo                                 |                                     |
+|  Veca Airlines                         |                                     |
+|  Peruvian Airlines                     |                                     |
+|  Star Perú                             |                                     |
+|  Viva Air                              |                                     |
+|  Rutas Aéreas de Venezuela             |                                     |
+|  Volaris                               |                                     |
+--- 
 
