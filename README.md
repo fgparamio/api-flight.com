@@ -54,20 +54,20 @@ go run vivacolombia_scraper.go
 
 |  Airlines                              |              Status                 |                               URL                             |  
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  Flybondi                              |                                     | https://www.flybondi.com                                      |
-|  Azul                                  |                                     | https://www.voeazul.com.br                                    |
-|  Gol Líneas Aéreas                     |                                     | https://www.voegol.com.br                                     |
-|  Sky Airline                           |                                     | https://www.skyairline.com                                    | 
-|  Latin American Wings                  |                                     | https://www.vuelalaw.com                                      | 
-|  JetSmart                              |                                     | https://jetsmart.com                                          | 
-|  EasyFly                               |                                     | https://www.easyfly.com.co                                    | 
 |  Viva Colombia                         |           (Implemented)             | https://vivacolombia.co                                       | 
-|  Wingo                                 |                                     | https://www.wingo.com                                         | 
-|  Veca Airlines                         |                                     | http://www.vecaairlines.com                                   |  
-|  Peruvian Airlines                     |                                     | http://www.peruvian.pe/pe                                     | 
-|  Star Perú                             |                                     | http://www.starperu.com                                       | 
-|  Viva Air                              |                                     | https://www.vivaair.com                                       | 
-|  Rutas Aéreas de Venezuela             |                                     | http://www.venezolana.aero                                    | 
-|  Volaris                               |                                     | https://www.volaris.com                                       | 
+|  Volaris                               |            (Doing)                  | https://www.volaris.com                                       | 
+|  Flybondi                              |            (To Do)                  | https://www.flybondi.com                                      |
+|  Azul                                  |            (To Do)                  | https://www.voeazul.com.br                                    |
+|  Gol Líneas Aéreas                     |            (To Do)                  | https://www.voegol.com.br                                     |
+|  Sky Airline                           |            (To Do)                  | https://www.skyairline.com                                    | 
+|  Latin American Wings                  |            (To Do)                  | https://www.vuelalaw.com                                      | 
+|  JetSmart                              |            (To Do)                  | https://jetsmart.com                                          | 
+|  EasyFly                               |            (To Do)                  | https://www.easyfly.com.co                                    | 
+|  Wingo                                 |            (To Do)                  | https://www.wingo.com                                         | 
+|  Veca Airlines                         |            (To Do)                  | http://www.vecaairlines.com                                   |  
+|  Peruvian Airlines                     |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
+|  Star Perú                             |            (To Do)                  | http://www.starperu.com                                       | 
+|  Viva Air                              |            (To Do)                  | https://www.vivaair.com                                       | 
+|  Rutas Aéreas de Venezuela             |            (To Do)                  | http://www.venezolana.aero                                    | 
 --- 
 
