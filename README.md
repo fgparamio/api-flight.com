@@ -52,22 +52,22 @@ go run vivacolombia_scraper.go
 
 <br />
 
-|  Airlines                              |              Status                 |                               URL                             |  
+| LATAM Airlines                         |            Status                   |                               URL                             |  
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  Viva Colombia                         |           (Implemented)             | https://vivacolombia.co                                       | 
-|  Volaris                               |            (Doing)                  | https://www.volaris.com                                       | 
-|  Flybondi                              |            (To Do)                  | https://www.flybondi.com                                      |
+|  Viva Colombia                         |            (Done)                   | https://vivacolombia.co                                       | 
+|  Volaris                               |            (Done)                   | https://www.volaris.com                                       | 
 |  Azul                                  |            (To Do)                  | https://www.voeazul.com.br                                    |
-|  Gol Líneas Aéreas                     |            (To Do)                  | https://www.voegol.com.br                                     |
+|  Wingo                                 |            (To Do)                  | https://www.wingo.com                                         | 
 |  Sky Airline                           |            (To Do)                  | https://www.skyairline.com                                    | 
+|  Viva Air                              |            (To Do)                  | https://www.vivaair.com                                       | 
+|  EasyFly                               |            (To Do)                  | https://www.easyfly.com.co                                    | 
+|  Flybondi                              |            (To Do)                  | https://www.flybondi.com                                      |
+|  Gol Líneas Aéreas                     |            (To Do)                  | https://www.voegol.com.br                                     |
 |  Latin American Wings                  |            (To Do)                  | https://www.vuelalaw.com                                      | 
 |  JetSmart                              |            (To Do)                  | https://jetsmart.com                                          | 
-|  EasyFly                               |            (To Do)                  | https://www.easyfly.com.co                                    | 
-|  Wingo                                 |            (To Do)                  | https://www.wingo.com                                         | 
 |  Veca Airlines                         |            (To Do)                  | http://www.vecaairlines.com                                   |  
 |  Peruvian Airlines                     |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
 |  Star Perú                             |            (To Do)                  | http://www.starperu.com                                       | 
-|  Viva Air                              |            (To Do)                  | https://www.vivaair.com                                       | 
 |  Rutas Aéreas de Venezuela             |            (To Do)                  | http://www.venezolana.aero                                    | 
 --- 
 
