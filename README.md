@@ -1,4 +1,4 @@
-# **api-flight.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU GPL Source Code**
+# **api-flight.com &nbsp;&nbsp;GNU GPL Source Code**
 
 ## **This Source Code is GNU GPL**
 ---
@@ -12,8 +12,45 @@
 **View Page:&nbsp;&nbsp;&nbsp;[https://api-flight.com/](https://api-flight.com/)**
 
 ---
+## Go Frameworks used 
 
-## Microservices Go Scrapers
+[Golang Colly - Elegant Scraper and Crawler Framework](https://github.com/gocolly/colly)
+<br />
+[Golang Surf - Stateful programmatic web browsing in Go](http://surf.readthedocs.io)
+<br />
+[Golang Gorilla - A Web Toolkit](http://www.gorillatoolkit.org)
+<br />
+[Golang Gizmo - A Microservice Toolkit](https://github.com/NYTimes/gizmo)
+<br />
+[JsonQ - Simple Json access for Golang](https://github.com/jmoiron/jsonq)
+
+## Microservices Frameworks 
+
+[Kubernetes - Production-Grade Container Orchestration](https://kubernetes.io)
+<br />
+[Netflix OSS - Zero To Docker ](https://netflix.github.io)
+<br />
+[Docker - Leading software containerization Platform](https://www.docker.com/)
+<br />
+[Amazon EKS - Highly available and scalable Kubernetes service](https://aws.amazon.com/eks)
+
+## Big Data Framewroks
+
+[Genie - Distributed Big Data Orchestration Service](https://github.com/Netflix/genie)
+<br />
+[Inviso - Ability to search for Hadoop jobs](https://github.com/Netflix/inviso)
+<br />
+[Lipstick - Graphica Depiction](https://github.com/Netflix/lipstick)
+<br />
+[Tensor Flow - Open Source Machine Learning](https://www.tensorflow.org)
+<br />
+[Apache Flink - Open Source Stream Processing](https://flink.apache.org)
+<br />
+[Apache Spark - Engine for large-scale Data Processing](https://spark.apache.org)
+
+
+---
+## Back Microservices Go Scrapers
 ---
 
 Application built with:
@@ -29,6 +66,8 @@ Go Libraries in this project:
 ```
 github.com/jmoiron/jsonq
 gopkg.in/headzoo/surf.v1
+github.com/gocolly/colly
+
  
 ```
 
