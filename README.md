@@ -48,6 +48,14 @@
 <br />
 [Apache Spark - Engine for large-scale Data Processing](https://spark.apache.org)
 
+## Testing Frameworks 
+
+[Golang Testing - Basic Package Testing Provider](https://golang.org/pkg/testing)
+<br />
+[Gatling - Load & Performance Testing](https://gatling.io/)
+<br />
+[Cucumber - BDD Ecosystem to build software](https://cucumber.io/)
+<br />
 
 ---
 ## Back Microservices Go Scrapers
@@ -97,7 +105,7 @@ go run vivacolombia_scraper.go
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Viva Colombia (CO)                    |            (Done)                   | https://vivacolombia.co                                       | 
 |  Volaris (MX)                          |            (Done)                   | https://www.volaris.com                                       | 
-|  Azul (BR)                             |            (To Do)                  | https://www.voeazul.com.br                                    |
+|  Azul (BR)                             |            (Done)                   | https://www.voeazul.com.br                                    |
 |  Wingo (CO)                            |            (To Do)                  | https://www.wingo.com                                         | 
 |  Sky Airline (TR)                      |            (To Do)                  | https://www.skyairline.com                                    | 
 |  Viva Air (MX)                         |            (To Do)                  | https://www.vivaair.com                                       | 
