@@ -45,6 +45,8 @@ go run vivacolombia_scraper.go
 ---
 
 [Low Cost Airlines in the world](https://es.wikipedia.org/wiki/Anexo:Aerol%C3%ADneas_de_bajo_costo)
+<br /><br />
+[Country Codes](https://traduciresdescubrir.wordpress.com/2012/07/26/paises-y-abreviaturas)
 
 ---
 ## Next airlines to integrate
@@ -54,20 +56,40 @@ go run vivacolombia_scraper.go
 
 | LATAM Airlines                         |            Status                   |                               URL                             |  
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  Viva Colombia                         |            (Done)                   | https://vivacolombia.co                                       | 
-|  Volaris                               |            (Done)                   | https://www.volaris.com                                       | 
-|  Azul                                  |            (To Do)                  | https://www.voeazul.com.br                                    |
-|  Wingo                                 |            (To Do)                  | https://www.wingo.com                                         | 
-|  Sky Airline                           |            (To Do)                  | https://www.skyairline.com                                    | 
-|  Viva Air                              |            (To Do)                  | https://www.vivaair.com                                       | 
-|  EasyFly                               |            (To Do)                  | https://www.easyfly.com.co                                    | 
-|  Flybondi                              |            (To Do)                  | https://www.flybondi.com                                      |
-|  Gol Líneas Aéreas                     |            (To Do)                  | https://www.voegol.com.br                                     |
-|  Latin American Wings                  |            (To Do)                  | https://www.vuelalaw.com                                      | 
-|  JetSmart                              |            (To Do)                  | https://jetsmart.com                                          | 
-|  Veca Airlines                         |            (To Do)                  | http://www.vecaairlines.com                                   |  
-|  Peruvian Airlines                     |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
-|  Star Perú                             |            (To Do)                  | http://www.starperu.com                                       | 
-|  Rutas Aéreas de Venezuela             |            (To Do)                  | http://www.venezolana.aero                                    | 
+|  Viva Colombia (CO)                    |            (Done)                   | https://vivacolombia.co                                       | 
+|  Volaris (MX)                          |            (Done)                   | https://www.volaris.com                                       | 
+|  Azul (BR)                             |            (To Do)                  | https://www.voeazul.com.br                                    |
+|  Wingo (CO)                            |            (To Do)                  | https://www.wingo.com                                         | 
+|  Sky Airline (TR)                      |            (To Do)                  | https://www.skyairline.com                                    | 
+|  Viva Air (MX)                         |            (To Do)                  | https://www.vivaair.com                                       | 
+|  EasyFly (CO)                          |            (To Do)                  | https://www.easyfly.com.co                                    | 
+|  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
+|  Gol Líneas Aéreas (BR)                |            (To Do)                  | https://www.voegol.com.br                                     |
+|  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
+|  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
+|  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   |  
+|  Peruvian Airlines (PE)                |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
+|  Star Perú (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
+|  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
+--- 
+
+
+<br />
+
+| European Airlines                      |            Status                   |                               URL                             |  
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
+|  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
+|  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
+|  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
+|  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
+|  Ryanair (BE)                          |            (To Do)                  | https://www.ryanair.com                                       |
+|  SkyEurope (BG)                        |            (To Do)                  | http://www.skyeurope.com/                                     | 
+|  Wizz Air (BG)                         |            (To Do)                  | https://wizzair.com/                                          | 
+|  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   | 
+|  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
+|  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        |
+|  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
+|  Air Europa Express (ES)               |            (To Do)                  | https://www.aireuropa.com                                     | 
 --- 
 
