@@ -46,9 +46,8 @@ go run vivacolombia_scraper.go
 
 [Low Cost Airlines in the world](https://es.wikipedia.org/wiki/Anexo:Aerol%C3%ADneas_de_bajo_costo)
 
-
+---
 ## Next airlines to integrate
-
 ---
 |  Airlines                              |              Status
 | :-------------------------------------- |------------------------------------:|
