@@ -54,22 +54,20 @@ go run vivacolombia_scraper.go
 
 |  Airlines                              |              Status                 |                               URL                             |  
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  Flybondi                              |                                     |                                                               |
-|  Azul                                  |                                     |                                                               |
-|  Gol Líneas Aéreas                     |                                     |                                                               |
-|  Webjet                                |                                     |                                                               | 
-|  Sky Airline                           |                                     |                                                               | 
-|  Latin American Wings                  |                                     |                                                               | 
-|  JetSmart                              |                                     |                                                               | 
-|  EasyFly                               |                                     |                                                               | 
-|  Viva Colombia                         |           (Implemented)             |             https://vivacolombia.co                           | 
-|  LANZA Cerrada                         |                                     |                                                               | 
-|  Wingo                                 |                                     |                                                               | 
-|  Veca Airlines                         |                                     |                                                               | 
-|  Peruvian Airlines                     |                                     |                                                               | 
-|  Star Perú                             |                                     |                                                               | 
-|  Viva Air                              |                                     |                                                               | 
-|  Rutas Aéreas de Venezuela             |                                     |                                                               | 
-|  Volaris                               |                                     |                                                               | 
+|  Flybondi                              |                                     | https://www.flybondi.com                                      |
+|  Azul                                  |                                     | https://www.voeazul.com.br                                    |
+|  Gol Líneas Aéreas                     |                                     | https://www.voegol.com.br                                     |
+|  Sky Airline                           |                                     | https://www.skyairline.com                                    | 
+|  Latin American Wings                  |                                     | https://www.vuelalaw.com                                      | 
+|  JetSmart                              |                                     | https://jetsmart.com                                          | 
+|  EasyFly                               |                                     | https://www.easyfly.com.co                                    | 
+|  Viva Colombia                         |           (Implemented)             | https://vivacolombia.co                                       | 
+|  Wingo                                 |                                     | https://www.wingo.com                                         | 
+|  Veca Airlines                         |                                     | http://www.vecaairlines.com                                   |  
+|  Peruvian Airlines                     |                                     | http://www.peruvian.pe/pe                                     | 
+|  Star Perú                             |                                     | http://www.starperu.com                                       | 
+|  Viva Air                              |                                     | https://www.vivaair.com                                       | 
+|  Rutas Aéreas de Venezuela             |                                     | http://www.venezolana.aero                                    | 
+|  Volaris                               |                                     | https://www.volaris.com                                       | 
 --- 
 
