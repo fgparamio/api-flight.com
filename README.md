@@ -108,8 +108,8 @@ go run vivacolombia_scraper.go
 |  Azul (BR)                             |            (Done)                   | https://www.voeazul.com.br                                    |
 |  Wingo (CO)                            |            (Done)                   | https://www.wingo.com                                         | 
 |  Sky Airline (TR)                      |            (Done)                   | https://www.skyairline.com                                    | 
-|  Viva Air (MX)                         |            (Doing)                  | https://www.vivaair.com                                       | 
-|  EasyFly (CO)                          |            (To Do)                  | https://www.easyfly.com.co                                    | 
+|  Viva Air (MX)                         |            (Done)                  | https://www.vivaair.com                                       | 
+|  EasyFly (CO)                          |            (Doing)                  | https://www.easyfly.com.co                                    | 
 |  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
 |  Gol Líneas Aéreas (BR)                |            (To Do)                  | https://www.voegol.com.br                                     |
 |  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
