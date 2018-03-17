@@ -29,7 +29,7 @@ Go Libraries in this project:
 ```
 github.com/jmoiron/jsonq
 gopkg.in/headzoo/surf.v1
-
+ 
 ```
 
 ### To Run Application
@@ -49,24 +49,27 @@ go run vivacolombia_scraper.go
 ---
 ## Next airlines to integrate
 ---
-|  Airlines                              |              Status
-| :-------------------------------------- |------------------------------------:|
-|  Flybondi                              |                                     |
-|  Azul Linhas Aéreas Brasileiras        |                                     |
-|  Gol Líneas Aéreas                     |                                     |
-|  Webjet                                |                                     |  
-|  Sky Airline                           |                                     |
-|  Latin American Wings                  |                                     |
-|  JetSmart                              |                                     |
-|  EasyFly                               |                                     |
-|  Viva Colombia                         |           (Implemented)             |
-|  LANZA Cerrada                         |                                     |
-|  Wingo                                 |                                     |
-|  Veca Airlines                         |                                     |
-|  Peruvian Airlines                     |                                     |
-|  Star Perú                             |                                     |
-|  Viva Air                              |                                     |
-|  Rutas Aéreas de Venezuela             |                                     |
-|  Volaris                               |                                     |
+
+<br />
+
+|  Airlines                              |              Status                 |                               URL                             |  
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Flybondi                              |                                     |                                                               |
+|  Azul                                  |                                     |                                                               |
+|  Gol Líneas Aéreas                     |                                     |                                                               |
+|  Webjet                                |                                     |                                                               | 
+|  Sky Airline                           |                                     |                                                               | 
+|  Latin American Wings                  |                                     |                                                               | 
+|  JetSmart                              |                                     |                                                               | 
+|  EasyFly                               |                                     |                                                               | 
+|  Viva Colombia                         |           (Implemented)             |             https://vivacolombia.co                           | 
+|  LANZA Cerrada                         |                                     |                                                               | 
+|  Wingo                                 |                                     |                                                               | 
+|  Veca Airlines                         |                                     |                                                               | 
+|  Peruvian Airlines                     |                                     |                                                               | 
+|  Star Perú                             |                                     |                                                               | 
+|  Viva Air                              |                                     |                                                               | 
+|  Rutas Aéreas de Venezuela             |                                     |                                                               | 
+|  Volaris                               |                                     |                                                               | 
 --- 
 
