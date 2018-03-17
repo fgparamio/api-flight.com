@@ -30,3 +30,30 @@ go run vivacolombia_scraper.go
 
 
 ```
+
+## Annex: Low cost airlines
+
+[https://es.wikipedia.org/wiki/Anexo:Aerol%C3%ADneas_de_bajo_costo#Am%C3%A9rica_del_Sur_y_Am%C3%A9rica_Central](Low Costo Airlines in the world)
+
+
+## Next airlines to integrate
+
+- Flybondi
+- Azul Linhas Aéreas Brasileiras
+- Gol Líneas Aéreas
+- Webjet
+- Sky Airline
+- Latin American Wings
+- JetSmart
+- EasyFly
+- Viva Colombia ------------------------------- (Implemented)
+- LANZA Cerrada
+- Wingo
+- Veca Airlines
+- Aero Continente cerrada
+- Peruvian Airlines
+- Star Perú
+- Viva Air
+- Rutas Aéreas de Venezuela
+- Volaris
+
