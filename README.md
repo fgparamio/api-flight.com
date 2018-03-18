@@ -115,8 +115,8 @@ go run vivacolombia_scraper.go
 |  Gol Líneas Aéreas (BR)                |            (Done)                   | https://www.voegol.com.br                                     |
 |  Peruvian Airlines (PE)                |            (Done)                   | http://www.peruvian.pe/pe                                     | 
 |  Law -Latin American Wings (CL)        |            (Done)                   | https://www.vuelalaw.com                                      | 
-|  JetSmart (CL)                         |            (Doing)                  | https://jetsmart.com                                          | 
-|  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   | 
+|  JetSmart (CL)                         |            (Done)                   | https://jetsmart.com                                          | 
+|  Veca Airlines (SV)                    |            (Doing)                  | http://www.vecaairlines.com                                   | 
 |  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
@@ -183,7 +183,7 @@ go run vivacolombia_scraper.go
 |  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
 |  Mistral Air (IT)                      |            (To Do)                  | https://www.mistralair.it/en                                  | 
 |  Air Italy (IT)                        |            (To Do)                  | https://www.airitaly.com/it-IT                                | 
-|  BravoFly (AU)                         |            (To Do)                  | http://www.bravofly.com.au/flights/cheap/airline/wind-jet     | 
+|  BravoFly (AU)                         |            (To Do)                  | http://www.bravofly.com.au/flights                            | 
 |  Transavia (NL)                        |            (To Do)                  | https://www.transavia.com/nl-NL/home                          | 
 |  Norwegian (NO)                        |            (To Do)                  | https://www.norwegian.com                                     |
 |  Direct Fly (PL)                       |            (To Do)                  | http://directfly.cz                                           |
