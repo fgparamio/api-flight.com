@@ -101,7 +101,7 @@ go run vivacolombia_scraper.go
 
 <br />
 
-| LATAM Airlines                         |            Status                   |                               URL                             |  
+| LATAM Airlines                         |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Viva Colombia (CO)                    |            (Done)                   | https://vivacolombia.co                                       | 
 |  Volaris (MX)                          |            (Done)                   | https://www.volaris.com                                       | 
@@ -109,28 +109,28 @@ go run vivacolombia_scraper.go
 |  Wingo (CO)                            |            (Done)                   | https://www.wingo.com                                         | 
 |  Sky Airline (TR)                      |            (Done)                   | https://www.skyairline.com                                    | 
 |  Viva Air (PE)                         |            (Done)                   | https://www.vivaair.com                                       | 
-|  EasyFly (CO)                          |            (Done)                  | https://www.easyfly.com.co                                    | 
+|  EasyFly (CO)                          |            (Done)                  | https://www.easyfly.com.co                                     | 
 |  Flybondi (AR)                         |            (Doing)                  | https://www.flybondi.com                                      |
 |  Gol Líneas Aéreas (BR)                |            (To Do)                  | https://www.voegol.com.br                                     |
 |  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
-|  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   |  
+|  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   | 
 |  Peruvian Airlines (PE)                |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
 |  Star Perú (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 --- 
 
  
-<br />
+<br /><br />
 
-| European Airlines                      |            Status                   |                               URL                             |  
+| European Airlines                      |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
 |  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
-|  Ryanair (BE)                          |            (To Do)                  | https://www.ryanair.com                                       |
+|  Ryanair (EU)                          |            (To Do)                  | https://www.ryanair.com                                       |
 |  SkyEurope (BG)                        |            (To Do)                  | http://www.skyeurope.com/                                     | 
 |  Wizz Air (BG)                         |            (To Do)                  | https://wizzair.com/                                          | 
 |  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   | 
@@ -138,6 +138,73 @@ go run vivacolombia_scraper.go
 |  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        |
 |  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
 |  Air Europa Express (ES)               |            (To Do)                  | https://www.aireuropa.com                                     | 
-| ..................                     |            (To Do)                  |                                                               | 
+|  Fly Sas (FI)                          |            (To Do)                  | https://www.flysas.com                                        | 
+|  Wizz Air (HU)                         |            (To Do)                  | https://wizzair.com                                           | 
+|  Iceland Air (IS)                      |            (To Do)                  | https://www.icelandair.com                                    | 
+|  Aer Lingus (IE)                       |            (To Do)                  | https://www.aerlingus.com                                     | 
+|  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
+|  Mistral Air (IT)                      |            (To Do)                  | https://www.mistralair.it/en                                  | 
+|  Air Italy (IT)                        |            (To Do)                  | https://www.airitaly.com/it-IT                                | 
+|  BravoFly (AU)                         |            (To Do)                  | http://www.bravofly.com.au/flights/cheap/airline/wind-jet     | 
+|  Transavia (NL)                        |            (To Do)                  | https://www.transavia.com/nl-NL/home                          | 
+|  Norwegian (NO)                        |            (To Do)                  | https://www.norwegian.com                                     |
+|  Direct Fly (PL)                       |            (To Do)                  | http://directfly.cz                                           |
+|  Enter Air (PL)                        |            (To Do)                  | http://www.enterair.pl                                        |
+|  Blue Air (RO)                         |            (To Do)                  | https://www.blueairweb.com/en/gb                              |
+|  Eurowings (DE)                        |            (To Do)                  | https://www.eurowings.com                                     |
+|  Sky Express (RU)                      |            (To Do)                  | http://www.skyexpress.ru                                      |
+|  Fly Me (SE)                           |            (To Do)                  | http://www.flyme.mv                                           |
+|  EasyJet (EU)                          |            (To Do)                  | https://www.easyjet.com                                       |
+|  Helvetic (CH)                         |            (To Do)                  | https://www.helvetic.com                                      |
+|  Anadolu Jet (TR)                      |            (To Do)                  | https://www.anadolujet.com/tr                                 |
+|  Atlas Global (TR)                     |            (To Do)                  | https://www.atlasglb.com/en                                   |
+|  Corendon Airlines (TR)                |            (To Do)                  | https://www.corendonairlines.com                              |
+|  Pegasus Airlines (TR)                 |            (To Do)                  | https://www.flypgs.com/en                                     |
+|  Jet2 com (UK)                         |            (To Do)                  | https://www.jet2.com                                          |
+|  Fly BMI (UK)                         |            (To Do)                   | https://www.flybmi.com/                                       |
 --- 
 
+<br /><br />
+
+
+| North America Airlines                 |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Allegiant (US)                        |            (To Do)                  | https://www.allegiantair.com                                  |
+|  Frontier(US)                          |            (To Do)                  | https://es.flyfrontier.com                                    |
+|  Jet Blue (US)                         |            (To Do)                  | https://www.jetblue.com                                       | 
+|  Spirit Airlines (US)                  |            (To Do)                  | https://www.spirit.com                                        | 
+|  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
+|  American Airlines (US)                |            (To Do)                  | https://www.americanairlines.es                               |
+|  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
+--- 
+
+<br /><br />
+
+| Asia Airlines                          |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+| ................                       |            (To Do)                  | ...............................                               |
+--- 
+
+<br /><br />
+
+
+| Mexico Airlines                        |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+| ................                       |            (To Do)                  | ...............................                               |
+--- 
+
+<br /><br />
+
+
+| Oceania Airlines                       |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+| ................                       |            (To Do)                  | ...............................                               |
+--- 
+
+<br /><br />
+
+
+| Africa Airlines                        |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+| ................                       |            (To Do)                  | ...............................                               |
+--- 
