@@ -96,7 +96,7 @@ go run vivacolombia_scraper.go
 [Country Codes](https://traduciresdescubrir.wordpress.com/2012/07/26/paises-y-abreviaturas)
 
 ---
-## Next Low Cost Airlines to integrate
+## Airlines to integrate
 ---
 
 <br />
@@ -114,8 +114,8 @@ go run vivacolombia_scraper.go
 |  VivaAerobus (MX)                      |            (Done)                   | https://www.vivaaerobus.com/mx                                |
 |  Gol Líneas Aéreas (BR)                |            (Done)                   | https://www.voegol.com.br                                     |
 |  Peruvian Airlines (PE)                |            (Done)                   | http://www.peruvian.pe/pe                                     | 
-|  Law -Latin American Wings (CL)        |            (Doing)                  | https://www.vuelalaw.com                                      | 
-|  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
+|  Law -Latin American Wings (CL)        |            (Done)                   | https://www.vuelalaw.com                                      | 
+|  JetSmart (CL)                         |            (Doing)                  | https://jetsmart.com                                          | 
 |  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   | 
 |  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
@@ -123,7 +123,42 @@ go run vivacolombia_scraper.go
 |  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
 --- 
 
- 
+|  More LATAM Airlines                   |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  LATAM                                 |            (To Do)                  | https://www.latam.com/es_co/                                  | 
+|  Avianca                               |            (To Do)                  | https://www.avianca.com                                       | 
+|  Copa Airlines (CO)                    |            (To Do)                  | https://www.copaair.com                                       | 
+|  Satena (CO)                           |            (To Do)                  | https://www.satena.com                                        | 
+|  Aero Boyacá (CO)                      |            (To Do)                  | http://www.aeroboyaca.com                                     |
+|  AeroCardal (CL)                       |            (To Do)                  | http://www.aerocardal.com                                     |
+|  AeroDesierto (CL)                     |            (To Do)                  | http://aerodesierto.com                                       |
+|  DAP Airline (CL)                      |            (To Do)                  | http://dapairline.com                                         | 
+|  American Jet (AR)                     |            (To Do)                  | http://americanjet.com.ar                                     | 
+|  Andes L.Aérea (AR)                    |            (To Do)                  | https://www.andesonline.com                                   | 
+|  FlyWays (BR)                          |            (To Do)                  | http://www.flyways.com.br                                     | 
+|  Sol L.Aéreas (BR)                     |            (To Do)                  | http://www.voesol.com.br                                      |
+|  AeroMar (MX)                          |            (To Do)                  | http://www.aeromar.com.mx                                     |
+|  ASG (MX)                              |            (To Do)                  | https://www.asg.com.mx                                        |
+|  Aerotucán (MX)                        |            (To Do)                  | https://www.aerotucan.com                                     |
+|  Calafia (MX)                          |            (To Do)                  | https://www.calafiaairlines.com                               |
+|  Amaszonas                             |            (To Do)                  | https://www.amaszonas.com/es-bo                               | 
+|  Boa (BO)                              |            (To Do)                  | https://www.boa.bo                                            |  
+|  Tam (BO)                              |            (To Do)                  | http://www.tam.bo                                             |  
+|  Tame (EC)                             |            (To Do)                  | https://www.tame.com.ec                                       |
+|  Sol Del Paraguay (PY)                 |            (To Do)                  | http://www.viajaconsol.com                                    |  
+|  Aeormás (UY)                          |            (To Do)                  | http://www.aeromas.com                                        |
+|  Albatros (VE)                         |            (To Do)                  | https://albatrosair.aero                                      |
+|  Aserca Airlines (VE)                  |            (To Do)                  | http://www.asercaairlines.com                                 |
+|  Conviasa (VE)                         |            (To Do)                  | http://portal.conviasa.aero                                   |
+|  Avior Airlines (VE)                   |            (To Do)                  | https://www.aviorair.com                                      |
+|  Rutaca Airlines (VE)                  |            (To Do)                  | https://www.flyrutaca.com:506                                 |
+|  Venezolana Aero (VE)                  |            (To Do)                  | http://www.venezolana.aero                                    |
+|  Laser Airlines                        |            (To Do)                  | https://www.laserairlines.com                                 |
+|  Aerolíneas Estelar (VE)               |            (To Do)                  | http://www.flyestelar.com                                     |
+|  SBA Airlines(VE)                      |            (To Do)                  | https://www.sbairlines.com                                    |
+--- 
+
+
 <br />
 
 | European Low Cost Airlines             |            Status                   |                               URL                             | 
@@ -227,7 +262,6 @@ go run vivacolombia_scraper.go
 | JetStar (AT)                           |            (To Do)                  | https://www.jetstar.com                                       |
 | Virgin Australia (AT)                  |            (To Do)                  | https://www.virginaustralia.com                               |
 | Freedom Air (NZ)                       |            (To Do)                  | http://www.freedomair.co.za                                   |
-
 --- 
 
 <br />
