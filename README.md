@@ -113,8 +113,8 @@ go run vivacolombia_scraper.go
 |  Interjet    (MX)                      |            (Done)                   | https://www.interjet.com                                      |
 |  VivaAerobus (MX)                      |            (Done)                   | https://www.vivaaerobus.com/mx                                |
 |  Gol Líneas Aéreas (BR)                |            (Done)                   | https://www.voegol.com.br                                     |
-|  Peruvian Airlines (PE)                |            (Doing)                  | http://www.peruvian.pe/pe                                     | 
-|  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
+|  Peruvian Airlines (PE)                |            (Done)                   | http://www.peruvian.pe/pe                                     | 
+|  Law -Latin American Wings (CL)        |            (Doing)                  | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
 |  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   | 
 |  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
