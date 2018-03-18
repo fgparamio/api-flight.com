@@ -111,8 +111,8 @@ go run vivacolombia_scraper.go
 |  Viva Air (PE)                         |            (Done)                   | https://www.vivaair.com                                       | 
 |  EasyFly (CO)                          |            (Done)                   | https://www.easyfly.com.co                                    | 
 |  Interjet    (MX)                      |            (Done)                   | https://www.interjet.com                                      |
-|  VivaAerobus (MX)                      |            (Doing)                  | https://www.vivaaerobus.com/mx                                |
-|  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
+|  VivaAerobus (MX)                      |            (Done)                   | https://www.vivaaerobus.com/mx                                |
+|  Flybondi (AR)                         |            (Doing)                  | https://www.flybondi.com                                      |
 |  Gol Líneas Aéreas (BR)                |            (To Do)                  | https://www.voegol.com.br                                     |
 |  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
