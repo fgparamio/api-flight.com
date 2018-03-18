@@ -101,7 +101,7 @@ go run vivacolombia_scraper.go
 
 <br />
 
-| LATAM Low Cost Airlines                |            Status                   |                               URL                             | 
+| Latin America Low Cost Airlines        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Viva Colombia (CO)                    |            (Done)                   | https://vivacolombia.co                                       | 
 |  Volaris (MX)                          |            (Done)                   | https://www.volaris.com                                       | 
@@ -122,10 +122,10 @@ go run vivacolombia_scraper.go
 |  Flybondi (AR)                         |            (Done)                   | https://www.flybondi.com                                      |
 --- 
 
-|  More LATAM Airlines                   |            Status                   |                               URL                             | 
+|  More Latin America Airlines           |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  LATAM                                 |            (Doing)                  | https://www.latam.com/es_co/                                  | 
-|  Avianca                               |            (To Do)                  | https://www.avianca.com                                       | 
+|  LATAM Airlines                        |            (Done )                  | https://www.latam.com/es_co/                                  | 
+|  Avianca                               |            (Doing)                  | https://www.avianca.com                                       | 
 |  Copa Airlines (CO)                    |            (To Do)                  | https://www.copaair.com                                       | 
 |  Satena (CO)                           |            (To Do)                  | https://www.satena.com                                        | 
 |  Aero Boyacá (CO)                      |            (To Do)                  | http://www.aeroboyaca.com                                     |
