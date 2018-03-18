@@ -116,12 +116,15 @@ go run vivacolombia_scraper.go
 |  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
 |  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   | 
 |  Peruvian Airlines (PE)                |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
-|  Star Perú (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
+|  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
+|  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
+|  Interjet    (MX)                      |            (To Do)                  | https://www.interjet.com                                      |
+|  VivaAerobus (MX)                      |            (To Do)                  | https://www.vivaaerobus.com/mx                                |
 --- 
 
  
-<br /><br />
+<br />
 
 | European Airlines                      |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
@@ -161,10 +164,10 @@ go run vivacolombia_scraper.go
 |  Corendon Airlines (TR)                |            (To Do)                  | https://www.corendonairlines.com                              |
 |  Pegasus Airlines (TR)                 |            (To Do)                  | https://www.flypgs.com/en                                     |
 |  Jet2 com (UK)                         |            (To Do)                  | https://www.jet2.com                                          |
-|  Fly BMI (UK)                         |            (To Do)                   | https://www.flybmi.com/                                       |
+|  Fly BMI (UK)                          |            (To Do)                  | https://www.flybmi.com/                                       |
 --- 
 
-<br /><br />
+<br />
 
 
 | North America Airlines                 |            Status                   |                               URL                             | 
@@ -176,35 +179,64 @@ go run vivacolombia_scraper.go
 |  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
 |  American Airlines (US)                |            (To Do)                  | https://www.americanairlines.es                               |
 |  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
+|  FlightNetwork (CA)                    |            (To Do)                  | https://www.flightnetwork.com                                 |
+|  WestJet (CA)                          |            (To Do)                  | https://www.westjet.com                                       |
+|  Sky Service (CA)                      |            (To Do)                  | http://www.skyservice.com/                                    |
+|  Air Transat (CA)                      |            (To Do)                  | https://www.airtransat.com                                    |
+|  Air North   (CA)                      |            (To Do)                  | http://www.flyairnorth.com                                    |
 --- 
 
-<br /><br />
+<br />
 
 | Asia Airlines                          |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-| ................                       |            (To Do)                  | ...............................                               |
+|  Zoom Air (IN)                         |            (To Do)                  | http://www.zoomair.in                                         |
+|  Air Asia (CN)                         |            (To Do)                  | https://www.airasia.com                                       |
+|  Asiana Airlines (CN)                  |            (To Do)                  | http://us.flyasiana.com                                       |
+|  Tiger Air (SG)                        |            (To Do)                  | https://tigerair.com.au                                       |
+|  Ch COM (CN)                           |            (To Do)                  | https://www.ch.com                                            |
+|  Air India Express (IN)                |            (To Do)                  | http://airindiaexpress.in                                     |
+|  Alliance Air (IN)                     |            (To Do)                  | http://www.airindia.in                                        |
+|  Gop Air (IN)                          |            (To Do)                  | https://www.goair.in                                          |
+|  Indigo Air (IN)                       |            (To Do)                  | https://www.goindigo.in                                       |
+|  Paramount Airways (IN)                |            (To Do)                  | http://www.paramountairways.com                               |
+|  Spice Jet (IN)                        |            (To Do)                  | http://www.spicejet.com                                       |
+|  Air Do (JP)                           |            (To Do)                  | https://www.airdo.jp/en                                       |
+|  Jet Star (JP)                         |            (To Do)                  | https://www.jetstar.com/jp                                    |
+|  Fly Peach (JP)                        |            (To Do)                  | http://www.flypeach.com/pc/en                                 |
+|  Sky Mark (JP)                         |            (To Do)                  | http://www.skymark.co.jp                                      |
+|  SolaSeed Air (JP)                     |            (To Do)                  | http://www.solaseedair.jp                                     |
+|  Spring Japan (JP)                     |            (To Do)                  | https://jp.ch.com                                             |
+|  Star Flyer (JP)                       |            (To Do)                  | https://www.starflyer.jp                                      |
+|  Vanilla Air (JP)                      |            (To Do)                  | https://www.vanilla-air.com/en                                |
+|  T Way (KR)                            |            (To Do)                  | https://www.twayair.com                                       |
+|  Jejuair (KR)                          |            (To Do)                  | http://www.jejuair.net                                        |
+|  Jazeera Air (KW)                      |            (To Do)                  | http://www.jazeeraairways.com                                 |
+|  Viva Macau (MO)                       |            (To Do)                  | http://www.flyvivamacau.com                                   |
+|  Shaheen (PK)                          |            (To Do)                  | https://www.shaheenair.com                                    |
+|  Bangkok Air (TH)                      |            (To Do)                  | http://www.bangkokair.com                                     |
+|  Nok Air (TH)                          |            (To Do)                  | http://www.nokair.com                                         |
+|  Airabia (AE)                          |            (To Do)                  | http://www.airarabia.com                                      |
 --- 
 
-<br /><br />
-
-
-| Mexico Airlines                        |            Status                   |                               URL                             | 
-| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-| ................                       |            (To Do)                  | ...............................                               |
---- 
-
-<br /><br />
+<br />
 
 
 | Oceania Airlines                       |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-| ................                       |            (To Do)                  | ...............................                               |
+| JetStar (AT)                           |            (To Do)                  | https://www.jetstar.com                                       |
+| Virgin Australia (AT)                  |            (To Do)                  | https://www.virginaustralia.com                               |
+| Freedom Air (NZ)                       |            (To Do)                  | http://www.freedomair.co.za                                   |
+
 --- 
 
-<br /><br />
+<br />
 
 
 | Africa Airlines                        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-| ................                       |            (To Do)                  | ...............................                               |
+| Jet4you (MA)                           |            (To Do)                  | http://www.jet4you.com                                        |
+| Royal Air Maroc (MA)                   |            (To Do)                  | https://www.royalairmaroc.com                                 |
+| Kulula (ZA)                            |            (To Do)                  | http://www.kulula.com                                         |
+| 1Time (ZA)                             |            (To Do)                  | http://www.1time.co.za                                        |
 --- 
