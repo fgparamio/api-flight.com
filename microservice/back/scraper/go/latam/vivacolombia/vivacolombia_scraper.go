@@ -21,7 +21,6 @@ func main() {
 	}
 
 	// Outputs: "reddit: the front page of the internet"
-
 	fm, _ := bow.Form("form#box-flight-form")
 	fm.Set("TravelMode", "OneWay")
 	fm.Set("DepartureCity", "BOG")

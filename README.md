@@ -116,9 +116,8 @@ go run vivacolombia_scraper.go
 |  Peruvian Airlines (PE)                |            (Done)                   | http://www.peruvian.pe/pe                                     | 
 |  Law -Latin American Wings (CL)        |            (Done)                   | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (Done)                   | https://jetsmart.com                                          | 
-|  Veca Airlines (SV)                    |            (Doing)                  | http://www.vecaairlines.com                                   | 
-|  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
-|  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
+|  Star Peru (PE)                        |            (Done)                   | http://www.starperu.com                                       | 
+|  Rutas Aéreas de Venezuela (VE)        |            (Doing)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
 |  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
 --- 

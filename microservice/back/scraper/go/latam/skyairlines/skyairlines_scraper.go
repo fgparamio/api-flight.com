@@ -54,7 +54,6 @@ func checkError(err error) {
 }
 
 func getSecurityToken(body string) string {
-
 	position := strings.Index(body, "window.securityToken")
 	token := body[position : position+25]
 	fmt.Println(token)
