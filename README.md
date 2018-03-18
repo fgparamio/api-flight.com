@@ -101,7 +101,7 @@ go run vivacolombia_scraper.go
 
 <br />
 
-| LATAM Airlines                         |            Status                   |                               URL                             | 
+| LATAM Low Cost Airlines                |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Viva Colombia (CO)                    |            (Done)                   | https://vivacolombia.co                                       | 
 |  Volaris (MX)                          |            (Done)                   | https://www.volaris.com                                       | 
@@ -112,21 +112,21 @@ go run vivacolombia_scraper.go
 |  EasyFly (CO)                          |            (Done)                   | https://www.easyfly.com.co                                    | 
 |  Interjet    (MX)                      |            (Done)                   | https://www.interjet.com                                      |
 |  VivaAerobus (MX)                      |            (Done)                   | https://www.vivaaerobus.com/mx                                |
-|  Flybondi (AR)                         |            (Doing)                  | https://www.flybondi.com                                      |
-|  Gol Líneas Aéreas (BR)                |            (To Do)                  | https://www.voegol.com.br                                     |
+|  Gol Líneas Aéreas (BR)                |            (Done)                   | https://www.voegol.com.br                                     |
+|  Peruvian Airlines (PE)                |            (Doing)                  | http://www.peruvian.pe/pe                                     | 
 |  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
 |  Veca Airlines (SV)                    |            (To Do)                  | http://www.vecaairlines.com                                   | 
-|  Peruvian Airlines (PE)                |            (To Do)                  | http://www.peruvian.pe/pe                                     | 
 |  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
+|  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
 --- 
 
  
 <br />
 
-| European Airlines                      |            Status                   |                               URL                             | 
+| European Low Cost Airlines             |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
@@ -170,7 +170,7 @@ go run vivacolombia_scraper.go
 <br />
 
 
-| North America Airlines                 |            Status                   |                               URL                             | 
+| North America Low Cost Airlines        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Allegiant (US)                        |            (To Do)                  | https://www.allegiantair.com                                  |
 |  Frontier(US)                          |            (To Do)                  | https://es.flyfrontier.com                                    |
@@ -188,7 +188,7 @@ go run vivacolombia_scraper.go
 
 <br />
 
-| Asia Airlines                          |            Status                   |                               URL                             | 
+| Asia Low Cost Airlines                 |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Zoom Air (IN)                         |            (To Do)                  | http://www.zoomair.in                                         |
 |  Air Asia (CN)                         |            (To Do)                  | https://www.airasia.com                                       |
@@ -222,7 +222,7 @@ go run vivacolombia_scraper.go
 <br />
 
 
-| Oceania Airlines                       |            Status                   |                               URL                             | 
+| Oceania Low Cost Airlines              |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 | JetStar (AT)                           |            (To Do)                  | https://www.jetstar.com                                       |
 | Virgin Australia (AT)                  |            (To Do)                  | https://www.virginaustralia.com                               |
@@ -233,7 +233,7 @@ go run vivacolombia_scraper.go
 <br />
 
 
-| Africa Airlines                        |            Status                   |                               URL                             | 
+| Africa Low Cost Airlines               |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 | Jet4you (MA)                           |            (To Do)                  | http://www.jet4you.com                                        |
 | Royal Air Maroc (MA)                   |            (To Do)                  | https://www.royalairmaroc.com                                 |
