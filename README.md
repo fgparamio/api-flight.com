@@ -96,7 +96,7 @@ go run vivacolombia_scraper.go
 [Country Codes](https://traduciresdescubrir.wordpress.com/2012/07/26/paises-y-abreviaturas)
 
 ---
-## Next airlines to integrate
+## Next Low Cost Airlines to integrate
 ---
 
 <br />
@@ -109,8 +109,10 @@ go run vivacolombia_scraper.go
 |  Wingo (CO)                            |            (Done)                   | https://www.wingo.com                                         | 
 |  Sky Airline (TR)                      |            (Done)                   | https://www.skyairline.com                                    | 
 |  Viva Air (PE)                         |            (Done)                   | https://www.vivaair.com                                       | 
-|  EasyFly (CO)                          |            (Done)                  | https://www.easyfly.com.co                                     | 
-|  Flybondi (AR)                         |            (Doing)                  | https://www.flybondi.com                                      |
+|  EasyFly (CO)                          |            (Done)                   | https://www.easyfly.com.co                                    | 
+|  Interjet    (MX)                      |            (Done)                   | https://www.interjet.com                                      |
+|  VivaAerobus (MX)                      |            (Doing)                  | https://www.vivaaerobus.com/mx                                |
+|  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
 |  Gol Líneas Aéreas (BR)                |            (To Do)                  | https://www.voegol.com.br                                     |
 |  Latin American Wings (CL)             |            (To Do)                  | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (To Do)                  | https://jetsmart.com                                          | 
@@ -119,8 +121,6 @@ go run vivacolombia_scraper.go
 |  Star Peru (PE)                        |            (To Do)                  | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
-|  Interjet    (MX)                      |            (To Do)                  | https://www.interjet.com                                      |
-|  VivaAerobus (MX)                      |            (To Do)                  | https://www.vivaaerobus.com/mx                                |
 --- 
 
  
