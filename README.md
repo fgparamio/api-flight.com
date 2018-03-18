@@ -117,14 +117,14 @@ go run vivacolombia_scraper.go
 |  Law -Latin American Wings (CL)        |            (Done)                   | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (Done)                   | https://jetsmart.com                                          | 
 |  Star Peru (PE)                        |            (Done)                   | http://www.starperu.com                                       | 
-|  Rutas Aéreas de Venezuela (VE)        |            (Doing)                  | http://www.venezolana.aero                                    | 
+|  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
-|  Flybondi (AR)                         |            (To Do)                  | https://www.flybondi.com                                      |
+|  Flybondi (AR)                         |            (Done)                   | https://www.flybondi.com                                      |
 --- 
 
 |  More LATAM Airlines                   |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  LATAM                                 |            (To Do)                  | https://www.latam.com/es_co/                                  | 
+|  LATAM                                 |            (Doing)                  | https://www.latam.com/es_co/                                  | 
 |  Avianca                               |            (To Do)                  | https://www.avianca.com                                       | 
 |  Copa Airlines (CO)                    |            (To Do)                  | https://www.copaair.com                                       | 
 |  Satena (CO)                           |            (To Do)                  | https://www.satena.com                                        | 

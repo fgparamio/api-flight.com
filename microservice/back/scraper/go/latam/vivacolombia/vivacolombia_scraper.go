@@ -54,7 +54,6 @@ func main() {
 
 	exampleElement, _ := jq.Object("availabilityTemplate", "OutAvailability", "0", "FareData")
 	fmt.Println("FareData", exampleElement)
-	fmt.Println(body)
 
 }
 
