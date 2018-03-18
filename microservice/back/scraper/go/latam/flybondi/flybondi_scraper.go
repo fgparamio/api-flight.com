@@ -21,21 +21,30 @@ func main() {
 	// Check GET Request
 	checkError(err)
 
+	bodyHTML := bow.Body()
+	securityToken := getSecurityToken(bodyHTML)
+
 	var jsonReq = []byte(`{"interline":false,"fromCityCode":"EPA","toCityCode":"COR","departureDateString":"2018-04-17",
 		"returnDateString":"2018-04-28","startDateStringOutbound":"2018-04-17","endDateStringOutbound":"2018-04-17",
 		"startDateStringInbound":"2018-04-28","endDateStringInbound":"2018-04-28","adults":1,"children":0,"infants":0,
 		"roundTrip":true,"useFlexDates":true,"isOutbound":true,"filterMethod":"100","promocode":"","currency":"ARS",
-		"languageCode":"es-AR","fareTypeCategory":1,"IATANumber":"","securityToken":""}`)
+		"languageCode":"es-AR","fareTypeCategory":1,"IATANumber":"","securityToken":"`)
 
-	bow.Post("https://booking.flybondi.com/Api/AvailablityRequest/Post", "application/json; charset=UTF-8", strings.NewReader(string(jsonReq)))
+	securityTokenArray := []byte(securityToken + "\"}")
+	request := append(jsonReq, securityTokenArray...)
+
+	bow.Post("https://booking.flybondi.com/Api/AvailablityRequest/Post", "application/json; charset=UTF-8", strings.NewReader(string(request)))
 
 	data := map[string]interface{}{}
+
 	body := strings.Replace(bow.Body(), "&#34;", "\"", -1)
+	body = parseBodyWithInnerHTML(body)
+
 	dec := json.NewDecoder(strings.NewReader(body))
 	dec.Decode(&data)
 	jq := jsonq.NewQuery(data)
 
-	exampleElement, _ := jq.Object("Availability", "OutboundSegments", "0")
+	exampleElement, _ := jq.Object("Availability", "OutboundSegments", "0", "LowestFareSummary")
 	fmt.Println("First Segment", exampleElement)
 }
 
@@ -43,4 +52,19 @@ func checkError(err error) {
 	if err != nil {
 		panic(error.Error)
 	}
+}
+
+func getSecurityToken(body string) string {
+	position := strings.Index(body, "SecurityToken")
+	token := body[position+15 : position+61]
+	fmt.Println(token)
+	return strings.Replace(token, "\"", "", -1)
+}
+
+func parseBodyWithInnerHTML(body string) string {
+	body = strings.Replace(body, "charset=\"\\\"utf-8\\\"\"", "", -1)
+	body = strings.Replace(body, "\"\\\"", "", -1)
+	body = strings.Replace(body, "\\\"", "", -1)
+	body = strings.Replace(body, "\">", "", -1)
+	return body
 }
