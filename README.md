@@ -124,7 +124,7 @@ go run vivacolombia_scraper.go
 
 |  More Latin America Airlines           |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-|  LATAM Airlines                        |            (Done )                  | https://www.latam.com/es_co/                                  | 
+|  LATAM Airlines                        |            (Done)                   | https://www.latam.com/es_co/                                  | 
 |  Avianca                               |            (Doing)                  | https://www.avianca.com                                       | 
 |  Copa Airlines (CO)                    |            (Blocked)                | https://www.copaair.com                                       | 
 |  Satena (CO)                           |            (Done)                   | https://www.satena.com                                        | 
@@ -133,8 +133,8 @@ go run vivacolombia_scraper.go
 |  FlyWays (BR)                          |            (Blocked)                | http://www.flyways.com.br                                     | 
 |  AeroMar (MX)                          |            (Done)                   | http://www.aeromar.com.mx                                     |
 |  ASG (MX)                              |            (Done)                   | https://www.asg.com.mx                                        |
-|  Aerotucán (MX)                        |            (Doing)                  | https://www.aerotucan.com                                     |
-|  Calafia (MX)                          |            (To Do)                  | https://www.calafiaairlines.com                               |
+|  Aerotucán (MX)                        |            (Done)                   | https://www.aerotucan.com                                     |
+|  Calafia (MX)                          |            (Doing)                  | https://www.calafiaairlines.com                               |
 |  Amaszonas                             |            (To Do)                  | https://www.amaszonas.com/es-bo                               | 
 |  Boa (BO)                              |            (To Do)                  | https://www.boa.bo                                            |  
 |  Tam (BO)                              |            (To Do)                  | http://www.tam.bo                                             |  
