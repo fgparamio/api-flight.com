@@ -128,7 +128,7 @@ go run vivacolombia_scraper.go
 |  Avianca                               |            (Doing)                  | https://www.avianca.com                                       | 
 |  Copa Airlines (CO)                    |            (Blocked)                | https://www.copaair.com                                       | 
 |  Satena (CO)                           |            (Done)                   | https://www.satena.com                                        | 
-|  Aero Boyacá (CO)                      |            (To Do)                  | http://www.aeroboyaca.com                                     |
+|  Aero Boyacá (CO)                      |            (Done)                   | http://www.aeroboyaca.com                                     |
 |  AeroCardal (CL)                       |            (To Do)                  | http://www.aerocardal.com                                     |
 |  AeroDesierto (CL)                     |            (To Do)                  | http://aerodesierto.com                                       |
 |  DAP Airline (CL)                      |            (To Do)                  | http://dapairline.com                                         | 
