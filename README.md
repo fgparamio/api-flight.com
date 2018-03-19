@@ -126,8 +126,8 @@ go run vivacolombia_scraper.go
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  LATAM Airlines                        |            (Done )                  | https://www.latam.com/es_co/                                  | 
 |  Avianca                               |            (Doing)                  | https://www.avianca.com                                       | 
-|  Copa Airlines (CO)                    |            (To Do)                  | https://www.copaair.com                                       | 
-|  Satena (CO)                           |            (To Do)                  | https://www.satena.com                                        | 
+|  Copa Airlines (CO)                    |            (Blocked)                | https://www.copaair.com                                       | 
+|  Satena (CO)                           |            (Done)                   | https://www.satena.com                                        | 
 |  Aero Boyacá (CO)                      |            (To Do)                  | http://www.aeroboyaca.com                                     |
 |  AeroCardal (CL)                       |            (To Do)                  | http://www.aerocardal.com                                     |
 |  AeroDesierto (CL)                     |            (To Do)                  | http://aerodesierto.com                                       |
@@ -135,7 +135,7 @@ go run vivacolombia_scraper.go
 |  American Jet (AR)                     |            (To Do)                  | http://americanjet.com.ar                                     | 
 |  Andes L.Aérea (AR)                    |            (To Do)                  | https://www.andesonline.com                                   | 
 |  FlyWays (BR)                          |            (To Do)                  | http://www.flyways.com.br                                     | 
-|  Sol L.Aéreas (BR)                     |            (To Do)                  | http://www.voesol.com.br                                      |
+|  Sol L.Aéreas (BR)                     |            (Doing)                  | http://www.voesol.com.br                                      |
 |  AeroMar (MX)                          |            (To Do)                  | http://www.aeromar.com.mx                                     |
 |  ASG (MX)                              |            (To Do)                  | https://www.asg.com.mx                                        |
 |  Aerotucán (MX)                        |            (To Do)                  | https://www.aerotucan.com                                     |
@@ -167,7 +167,7 @@ go run vivacolombia_scraper.go
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
 |  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
-|  Ryanair (EU)                          |            (To Do)                  | https://www.ryanair.com                                       |
+|  Ryanair (EU)                          |            (Doing)                  | https://www.ryanair.com                                       |
 |  SkyEurope (BG)                        |            (To Do)                  | http://www.skyeurope.com/                                     | 
 |  Wizz Air (BG)                         |            (To Do)                  | https://wizzair.com/                                          | 
 |  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   | 
