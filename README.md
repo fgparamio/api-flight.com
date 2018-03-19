@@ -132,8 +132,8 @@ go run vivacolombia_scraper.go
 |  Andes L.Aérea (AR)                    |            (Done)                   | https://www.andesonline.com                                   | 
 |  FlyWays (BR)                          |            (Blocked)                | http://www.flyways.com.br                                     | 
 |  AeroMar (MX)                          |            (Done)                   | http://www.aeromar.com.mx                                     |
-|  ASG (MX)                              |            (Doing)                  | https://www.asg.com.mx                                        |
-|  Aerotucán (MX)                        |            (To Do)                  | https://www.aerotucan.com                                     |
+|  ASG (MX)                              |            (Done)                   | https://www.asg.com.mx                                        |
+|  Aerotucán (MX)                        |            (Doing)                  | https://www.aerotucan.com                                     |
 |  Calafia (MX)                          |            (To Do)                  | https://www.calafiaairlines.com                               |
 |  Amaszonas                             |            (To Do)                  | https://www.amaszonas.com/es-bo                               | 
 |  Boa (BO)                              |            (To Do)                  | https://www.boa.bo                                            |  

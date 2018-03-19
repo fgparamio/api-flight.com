@@ -1,0 +1,115 @@
+
+                   <button type="button" class="btn btn-default text-center btn-ida busca-mes" rel="tooltip" title="No hay vuelo disponible" data-tipo="ida" data-fecha="2018-03-20">20-03-2018<br/>--</button> <button type="button" class="btn btn-default text-center btn-ida busca-mes" rel="tooltip" title="No hay vuelo disponible" data-tipo="ida" data-fecha="2018-03-21">21-03-2018<br/>--</button> <button type="button" class="btn btn-default text-center  busca-mes  guindaBg blanco" rel="tooltip" title="7 Asientos Disponibles" data-tipo="ida" data-fecha="2018-03-22">22-03-2018<br/>$1950</button> <button type="button" class="btn btn-default text-center btn-ida busca-mes" rel="tooltip" title="No hay vuelo disponible" data-tipo="ida" data-fecha="2018-03-23">23-03-2018<br/>--</button> <button type="button" class="btn btn-default text-center btn-ida busca-mes" rel="tooltip" title="No hay vuelo disponible" data-tipo="ida" data-fecha="2018-03-24">24-03-2018<br/>--</button>         
+                 
+                 <nil>
+Elige <nil>
+Vuelo <nil>
+Ruta <nil>
+Salida <nil>
+Llegada <nil>
+Tarifa <nil>
+<input name="idaRadio" value="2363" id="niceRadio1" type="radio"/><input name="idaF" value="2018-03-22" type="hidden"/> <nil>
+AXW1 <nil>
+GRN - CEN - GRN <nil>
+10:30 <nil>
+12:10 <nil>
+$1950 <nil>
+
+                      <button type="button" class="btn btn-default text-center busca-mes" rel="tooltip" title="7 Asientos Disponibles" data-tipo="vuelta" data-fecha="2018-03-22">22-03-2018<br/>$1950</button> <button type="button" class="btn btn-default text-center busca-mes" rel="tooltip" title="No hay vuelo disponible" data-tipo="vuelta" data-fecha="2018-03-23">23-03-2018<br/>--</button> <button type="button" class="btn btn-default text-center busca-mes btn-lg guindaBg blanco" rel="tooltip" title="No hay vuelo disponible" data-tipo="vuelta" data-fecha="2018-03-24">24-03-2018<br/>--</button> <button type="button" class="btn btn-default text-center busca-mes" rel="tooltip" title="No hay vuelo disponible" data-tipo="vuelta" data-fecha="2018-03-25">25-03-2018<br/>--</button> <button type="button" class="btn btn-default text-center busca-mes" rel="tooltip" title="7 Asientos Disponibles" data-tipo="vuelta" data-fecha="2018-03-26">26-03-2018<br/>$1950</button>         
+                   
+                   <nil>
+Elige <nil>
+Vuelo <nil>
+Ruta <nil>
+Salida <nil>
+Llegada <nil>
+Tarifa <nil>
+No se encontro  vuelo disponible <nil>
+
+	                <input class="form-control origen-city-i" id="input-origen" name="input-origen" placeholder="¿Donde inicia tu viaje?" data-city="CEN" value="ciudad obregon (CEN)"/>
+	                <span class="input-group-btn dropdown">
+	                    <button class="btn guindaBg blanco dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-angle-down"></i></button>
+	                    <ul class="dropdown-menu dropdown-menu-right origenes-list">
+	                         <li><a class="origen-city-a" href="#origen" data-city="CEN" data-name="ciudad obregon (CEN)"><span class="fa fa-circle-o fa-fw text-danger"></span>ciudad obregon (CEN)</a></li> <li><a class="origen-city-a" href="#origen" data-city="ENS" data-name="Ensenada (ENS)"><span class="fa fa-circle-o fa-fw text-danger"></span>Ensenada (ENS)</a></li> <li><a class="origen-city-a" href="#origen" data-city="GYM" data-name="Guaymas (GYM)"><span class="fa fa-circle-o fa-fw text-danger"></span>Guaymas (GYM)</a></li> <li><a class="origen-city-a" href="#origen" data-city="GRN" data-name="Guerrero Negro (GRN)"><span class="fa fa-circle-o fa-fw text-danger"></span>Guerrero Negro (GRN)</a></li> <li><a class="origen-city-a" href="#origen" data-city="HMO" data-name="Hermosillo (HMO)"><span class="fa fa-circle-o fa-fw text-danger"></span>Hermosillo (HMO)</a></li> <li><a class="origen-city-a" href="#origen" data-city="ICD" data-name="Isla Cedros (ICD)"><span class="fa fa-circle-o fa-fw text-danger"></span>Isla Cedros (ICD)</a></li> <li><a class="origen-city-a" href="#origen" data-city="LTO" data-name="Loreto (LTO)"><span class="fa fa-circle-o fa-fw text-danger"></span>Loreto (LTO)</a></li> <li><a class="origen-city-a" href="#origen" data-city="LMM" data-name="Los Mochis (LMM)"><span class="fa fa-circle-o fa-fw text-danger"></span>Los Mochis (LMM)</a></li> <li><a class="origen-city-a" href="#origen" data-city="SRL" data-name="Santa Rosalia (SRL)"><span class="fa fa-circle-o fa-fw text-danger"></span>Santa Rosalia (SRL)</a></li> <li><a class="origen-city-a" href="#origen" data-city="MMTJ" data-name="TIJUANA (MMTJ)"><span class="fa fa-circle-o fa-fw text-danger"></span>TIJUANA (MMTJ)</a></li>	                    </ul>
+	                </span>
+	             <nil>
+
+				<input class="form-control destino-city-i" id="input-destino" name="input-destino" placeholder="¿Cuel es tu destino?" data-city="GRN" value="Guerrero Negro (GRN)"/>
+	                <span class="input-group-btn dropdown">
+	                    <button class="btn guindaBg blanco dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-angle-down"></i></button>
+	                    <ul class="dropdown-menu dropdown-menu-right destinos-list"></ul>
+	                </span>
+	             <nil>
+
+	                        <span class="input-group-addon"><i class="fa fa-calendar cale-sen guindaBg blanco"></i></span>
+	                        <input name="input-fIda" placeholder="dd/mm/yyyy" data-input="daterangepicker" data-btn-apply="btn-primary" data-single-date-picker="true" data-show-dropdowns="true" class="sencillo-dp form-control" value="22/03/2018"/>
+	                       <nil>
+
+	                        <input name="input-fVuelta" placeholder="dd/mm/yyyy" data-input="daterangepicker" data-btn-apply="btn-primary" data-single-date-picker="true" data-show-dropdowns="true" class="redondo-dp form-control" value="24/03/2018"/>
+	                        <span class="input-group-addon"><i class="fa fa-calendar cale-red guindaBg blanco"></i></span>
+	                      
+				 <nil>
+
+	                <input class="form-control adulto-i" id="btnaddonright" value="1" name="input-paxs"/>
+	                <span class="input-group-btn dropdown">
+	                    <button class="btn guindaBg blanco dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-angle-down"></i></button>
+	                    <ul class="dropdown-menu dropdown-menu-right list-type">
+	                    	<li><a href="#paxs" data-list="A" data-number="1"><span class="fa fa-circle-o fa-fw text-danger"></span>1</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="2"><span class="fa fa-circle-o fa-fw text-danger"></span>2</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="3"><span class="fa fa-circle-o fa-fw text-danger"></span>3</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="4"><span class="fa fa-circle-o fa-fw text-danger"></span>4</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="5"><span class="fa fa-circle-o fa-fw text-danger"></span>5</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="6"><span class="fa fa-circle-o fa-fw text-danger"></span>6</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="7"><span class="fa fa-circle-o fa-fw text-danger"></span>7</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="8"><span class="fa fa-circle-o fa-fw text-danger"></span>8</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="9"><span class="fa fa-circle-o fa-fw text-danger"></span>9</a></li>
+	                        <li><a href="#paxs" data-list="A" data-number="10"><span class="fa fa-circle-o fa-fw text-danger"></span>10</a></li>
+
+
+	                    </ul>
+	                </span>
+	             <nil>
+
+	                <input class="form-control menor-i" id="btnaddonright" value="0" name="input-menor"/>
+	                <span class="input-group-btn dropdown ">
+	                    <button class="btn guindaBg blanco dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-angle-down"></i></button>
+	                    <ul class="dropdown-menu dropdown-menu-right list-type">
+	                    	<li><a href="#paxs" data-list="m" data-number="0"><span class="fa fa-circle-o fa-fw text-danger"></span>0</a></li>
+	                    	<li><a href="#paxs" data-list="m" data-number="1"><span class="fa fa-circle-o fa-fw text-danger"></span>1</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="2"><span class="fa fa-circle-o fa-fw text-danger"></span>2</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="3"><span class="fa fa-circle-o fa-fw text-danger"></span>3</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="4"><span class="fa fa-circle-o fa-fw text-danger"></span>4</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="5"><span class="fa fa-circle-o fa-fw text-danger"></span>5</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="6"><span class="fa fa-circle-o fa-fw text-danger"></span>6</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="7"><span class="fa fa-circle-o fa-fw text-danger"></span>7</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="8"><span class="fa fa-circle-o fa-fw text-danger"></span>8</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="9"><span class="fa fa-circle-o fa-fw text-danger"></span>9</a></li>
+	                        <li><a href="#paxs" data-list="m" data-number="10"><span class="fa fa-circle-o fa-fw text-danger"></span>10</a></li>
+	                    </ul>
+	                </span>
+	             <nil>
+
+	                <input class="form-control infante-i" id="btnaddonright" value="0" name="input-infante"/>
+	                <span class="input-group-btn dropdown">
+	                    <button class="btn guindaBg blanco dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-angle-down"></i></button>
+	                    <ul class="dropdown-menu dropdown-menu-right list-type">
+	                    	<li><a href="#paxs" data-list="i" data-number="0"><span class="fa fa-circle-o fa-fw text-danger"></span>0</a></li>
+	                    	<li><a href="#paxs" data-list="i" data-number="1"><span class="fa fa-circle-o fa-fw text-danger"></span>1</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="2"><span class="fa fa-circle-o fa-fw text-danger"></span>2</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="3"><span class="fa fa-circle-o fa-fw text-danger"></span>3</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="4"><span class="fa fa-circle-o fa-fw text-danger"></span>4</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="5"><span class="fa fa-circle-o fa-fw text-danger"></span>5</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="6"><span class="fa fa-circle-o fa-fw text-danger"></span>6</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="7"><span class="fa fa-circle-o fa-fw text-danger"></span>7</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="8"><span class="fa fa-circle-o fa-fw text-danger"></span>8</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="9"><span class="fa fa-circle-o fa-fw text-danger"></span>9</a></li>
+	                        <li><a href="#paxs" data-list="i" data-number="10"><span class="fa fa-circle-o fa-fw text-danger"></span>10</a></li>
+	                    </ul>
+	                </span>
+	             <nil>
+
+				<button type="button" class="btn btn-lg blanco verdeBg btn-pagar" data-toggle="modal" data-target="#customModal3">Pagar Reservacion</button>
+			 <nil>
+
+				<button type="submit" class="btn btn-lg blanco guindaBg btn-buscar" data-toggle="modal" data-target="#modalSmall">Buscar</button>
+			 <nil>
