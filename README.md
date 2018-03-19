@@ -130,7 +130,7 @@ go run vivacolombia_scraper.go
 |  Satena (CO)                           |            (Done)                   | https://www.satena.com                                        | 
 |  Aero Boyacá (CO)                      |            (Done)                   | http://www.aeroboyaca.com                                     |
 |  Andes L.Aérea (AR)                    |            (Done)                   | https://www.andesonline.com                                   | 
-|  FlyWays (BR)                          |            (To Do)                  | http://www.flyways.com.br                                     | 
+|  FlyWays (BR)                          |            (Blocked)                | http://www.flyways.com.br                                     | 
 |  Sol L.Aéreas (BR)                     |            (Doing)                  | http://www.voesol.com.br                                      |
 |  AeroMar (MX)                          |            (To Do)                  | http://www.aeromar.com.mx                                     |
 |  ASG (MX)                              |            (To Do)                  | https://www.asg.com.mx                                        |
