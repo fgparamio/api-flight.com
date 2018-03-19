@@ -129,11 +129,7 @@ go run vivacolombia_scraper.go
 |  Copa Airlines (CO)                    |            (Blocked)                | https://www.copaair.com                                       | 
 |  Satena (CO)                           |            (Done)                   | https://www.satena.com                                        | 
 |  Aero Boyacá (CO)                      |            (Done)                   | http://www.aeroboyaca.com                                     |
-|  AeroCardal (CL)                       |            (To Do)                  | http://www.aerocardal.com                                     |
-|  AeroDesierto (CL)                     |            (To Do)                  | http://aerodesierto.com                                       |
-|  DAP Airline (CL)                      |            (To Do)                  | http://dapairline.com                                         | 
-|  American Jet (AR)                     |            (To Do)                  | http://americanjet.com.ar                                     | 
-|  Andes L.Aérea (AR)                    |            (To Do)                  | https://www.andesonline.com                                   | 
+|  Andes L.Aérea (AR)                    |            (Done)                   | https://www.andesonline.com                                   | 
 |  FlyWays (BR)                          |            (To Do)                  | http://www.flyways.com.br                                     | 
 |  Sol L.Aéreas (BR)                     |            (Doing)                  | http://www.voesol.com.br                                      |
 |  AeroMar (MX)                          |            (To Do)                  | http://www.aeromar.com.mx                                     |
