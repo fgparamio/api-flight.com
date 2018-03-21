@@ -134,9 +134,9 @@ go run vivacolombia_scraper.go
 |  AeroMar (MX)                          |            (Done)                   | http://www.aeromar.com.mx                                     |
 |  ASG (MX)                              |            (Done)                   | https://www.asg.com.mx                                        |
 |  Aerotucán (MX)                        |            (Done)                   | https://www.aerotucan.com                                     |
-|  Calafia (MX)                          |            (Doing)                  | https://www.calafiaairlines.com                               |
-|  Amaszonas                             |            (To Do)                  | https://www.amaszonas.com/es-bo                               | 
-|  Boa (BO)                              |            (To Do)                  | https://www.boa.bo                                            |  
+|  Calafia (MX)                          |            (Blocked)                | https://www.calafiaairlines.com                               |
+|  Amaszonas (BO)                        |            (Done)                   | https://www.amaszonas.com/es-bo                               | 
+|  Boa (BO)                              |            (Doing)                  | https://www.boa.bo                                            |  
 |  Tam (BO)                              |            (To Do)                  | http://www.tam.bo                                             |  
 |  Tame (EC)                             |            (To Do)                  | https://www.tame.com.ec                                       |
 |  Sol Del Paraguay (PY)                 |            (To Do)                  | http://www.viajaconsol.com                                    |  
