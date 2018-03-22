@@ -32,18 +32,18 @@ func main() {
 	fm.Set("Adults", "1")
 	fm.Set("Children", "0")
 	fm.Set("Infants", "0")
-	fm.Set("DepartureDateForDisplay", "18/03/2018")
-	fm.Set("DepartureDateString", "2018-03-18")
-	fm.Set("ReturnDateForDisplay", "25/03/2018")
-	fm.Set("ReturnDateString", "2018-04-12")
+	fm.Set("DepartureDateForDisplay", "18/04/2018")
+	fm.Set("DepartureDateString", "2018-04-18")
+	fm.Set("ReturnDateForDisplay", "25/04/2018")
+	fm.Set("ReturnDateString", "2018-04-25")
 	fm.Set("ExactMonthDate", "exact")
 
 	checkError(fm.Submit())
 
 	var jsonReq = []byte(`{"AvailType":"","searchType":"Week","Currency":"PEN","adults":"1","children":"0","infants":"0","fareDesignator":"",
 		"getFromState":false,"isChangeBooking":false,"minimumTotalAmountOut":null,"minimumTotalAmountIn":null,"SelectedPax":null,"culture":"en-US",
-		"Flights":[{"DepartureAirport":"LIM","ArrivalAirport":"CUZ","DepartureDate":"2018-03-16T05:00:00.000Z","DepartureDateString":"2018-03-16"},
-		{"DepartureAirport":"CUZ","ArrivalAirport":"LIM","DepartureDate":"2018-03-25T05:00:00.000Z","DepartureDateString":"2018-03-25"}]}`)
+		"Flights":[{"DepartureAirport":"LIM","ArrivalAirport":"CUZ","DepartureDate":"2018-04-18T05:00:00.000Z","DepartureDateString":"2018-04-18"},
+		{"DepartureAirport":"CUZ","ArrivalAirport":"LIM","DepartureDate":"2018-04-25T05:00:00.000Z","DepartureDateString":"2018-04-25"}]}`)
 
 	bow.Post("https://www.vivaair.com/AsyncAvailability/SearchAsync", "application/json; charset=UTF-8", strings.NewReader(string(jsonReq)))
 
