@@ -140,8 +140,8 @@ go run vivacolombia_scraper.go
 |  Tam (BO)                              |            (Done)                   | http://www.tam.bo                                             |  
 |  Tame (EC)                             |            (Blocked)                | https://www.tame.com.ec                                       |
 |  Sol Del Paraguay (PY)                 |            (Done)                   | http://www.viajaconsol.com                                    |  
-|  Albatros (VE)                         |            (Doing)                  | https://albatrosair.aero                                      |
-|  Aserca Airlines (VE)                  |            (To Do)                  | http://www.asercaairlines.com                                 |
+|  Albatros (VE)                         |            (Done)                   | https://albatrosair.aero                                      |
+|  Aserca Airlines (VE)                  |            (Doing)                  | http://www.asercaairlines.com                                 |
 |  Conviasa (VE)                         |            (To Do)                  | http://portal.conviasa.aero                                   |
 |  Avior Airlines (VE)                   |            (To Do)                  | https://www.aviorair.com                                      |
 |  Rutaca Airlines (VE)                  |            (To Do)                  | https://www.flyrutaca.com:506                                 |
