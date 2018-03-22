@@ -137,11 +137,10 @@ go run vivacolombia_scraper.go
 |  Calafia (MX)                          |            (Blocked)                | https://www.calafiaairlines.com                               |
 |  Amaszonas (BO)                        |            (Done)                   | https://www.amaszonas.com/es-bo                               | 
 |  Boa (BO)                              |            (Doing)                  | https://www.boa.bo                                            |  
-|  Tam (BO)                              |            (To Do)                  | http://www.tam.bo                                             |  
-|  Tame (EC)                             |            (To Do)                  | https://www.tame.com.ec                                       |
-|  Sol Del Paraguay (PY)                 |            (To Do)                  | http://www.viajaconsol.com                                    |  
-|  Aeormás (UY)                          |            (To Do)                  | http://www.aeromas.com                                        |
-|  Albatros (VE)                         |            (To Do)                  | https://albatrosair.aero                                      |
+|  Tam (BO)                              |            (Done)                   | http://www.tam.bo                                             |  
+|  Tame (EC)                             |            (Blocked)                | https://www.tame.com.ec                                       |
+|  Sol Del Paraguay (PY)                 |            (Done)                   | http://www.viajaconsol.com                                    |  
+|  Albatros (VE)                         |            (Doing)                  | https://albatrosair.aero                                      |
 |  Aserca Airlines (VE)                  |            (To Do)                  | http://www.asercaairlines.com                                 |
 |  Conviasa (VE)                         |            (To Do)                  | http://portal.conviasa.aero                                   |
 |  Avior Airlines (VE)                   |            (To Do)                  | https://www.aviorair.com                                      |
