@@ -141,7 +141,7 @@ go run vivacolombia_scraper.go
 |  Tame (EC)                             |            (Blocked)                | https://www.tame.com.ec                                       |
 |  Sol Del Paraguay (PY)                 |            (Done)                   | http://www.viajaconsol.com                                    |  
 |  Albatros (VE)                         |            (Done)                   | https://albatrosair.aero                                      |
-|  Aserca Airlines (VE)                  |            (Doing)                  | http://www.asercaairlines.com                                 |
+|  Aserca Airlines (VE)                  |            (To Do)                  | http://www.asercaairlines.com                                 |
 |  Conviasa (VE)                         |            (To Do)                  | http://portal.conviasa.aero                                   |
 |  Avior Airlines (VE)                   |            (To Do)                  | https://www.aviorair.com                                      |
 |  Rutaca Airlines (VE)                  |            (To Do)                  | https://www.flyrutaca.com:506                                 |
@@ -161,7 +161,7 @@ go run vivacolombia_scraper.go
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
 |  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
-|  Ryanair (EU)                          |            (Doing)                  | https://www.ryanair.com                                       |
+|  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
 |  SkyEurope (BG)                        |            (To Do)                  | http://www.skyeurope.com/                                     | 
 |  Wizz Air (BG)                         |            (To Do)                  | https://wizzair.com/                                          | 
 |  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   | 
