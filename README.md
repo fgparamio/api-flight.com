@@ -162,7 +162,7 @@ go run vivacolombia_scraper.go
 |  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
 |  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
-|  SkyEurope (BG)                        |            (To Do)                  | http://www.skyeurope.com/                                     | 
+|  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
 |  Wizz Air (BG)                         |            (To Do)                  | https://wizzair.com/                                          | 
 |  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
