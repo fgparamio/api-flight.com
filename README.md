@@ -98,7 +98,7 @@ go run vivacolombia_scraper.go
 ---
 ## Airlines to integrate
 ---
-
+ 
 <br />
 
 | Latin America Low Cost Airlines        |            Status                   |                               URL                             | 
@@ -163,8 +163,8 @@ go run vivacolombia_scraper.go
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
 |  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
 |  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
-|  Wizz Air (BG)                         |            (To Do)                  | https://wizzair.com/                                          | 
-|  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   | 
+|  Wizz Air (BG)                         |            (Done)                   | https://wizzair.com/                                          | 
+|  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
 |  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        |
 |  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
