@@ -199,10 +199,10 @@ go run vivacolombia_scraper.go
 
 | North America Low Cost Airlines        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Spirit Airlines (US)                  |            (Done)                   | https://www.spirit.com                                        | 
 |  Allegiant (US)                        |            (To Do)                  | https://www.allegiantair.com                                  |
 |  Frontier(US)                          |            (To Do)                  | https://es.flyfrontier.com                                    |
 |  Jet Blue (US)                         |            (To Do)                  | https://www.jetblue.com                                       | 
-|  Spirit Airlines (US)                  |            (To Do)                  | https://www.spirit.com                                        | 
 |  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
 |  American Airlines (US)                |            (To Do)                  | https://www.americanairlines.es                               |
 |  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
