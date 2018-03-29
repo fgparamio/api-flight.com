@@ -126,21 +126,21 @@ go run vivacolombia_scraper.go
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  LATAM Airlines                        |            (Done)                   | https://www.latam.com/es_co/                                  | 
 |  Avianca                               |            (Doing)                  | https://www.avianca.com                                       | 
-|  Copa Airlines (CO)                    |            (Blocked)                | https://www.copaair.com                                       | 
 |  Satena (CO)                           |            (Done)                   | https://www.satena.com                                        | 
 |  Aero Boyacá (CO)                      |            (Done)                   | http://www.aeroboyaca.com                                     |
 |  Andes L.Aérea (AR)                    |            (Done)                   | https://www.andesonline.com                                   | 
-|  FlyWays (BR)                          |            (Blocked)                | http://www.flyways.com.br                                     | 
 |  AeroMar (MX)                          |            (Done)                   | http://www.aeromar.com.mx                                     |
 |  ASG (MX)                              |            (Done)                   | https://www.asg.com.mx                                        |
 |  Aerotucán (MX)                        |            (Done)                   | https://www.aerotucan.com                                     |
-|  Calafia (MX)                          |            (Blocked)                | https://www.calafiaairlines.com                               |
 |  Amaszonas (BO)                        |            (Done)                   | https://www.amaszonas.com/es-bo                               | 
 |  Boa (BO)                              |            (Doing)                  | https://www.boa.bo                                            |  
 |  Tam (BO)                              |            (Done)                   | http://www.tam.bo                                             |  
-|  Tame (EC)                             |            (Blocked)                | https://www.tame.com.ec                                       |
 |  Sol Del Paraguay (PY)                 |            (Done)                   | http://www.viajaconsol.com                                    |  
 |  Albatros (VE)                         |            (Done)                   | https://albatrosair.aero                                      |
+|  Copa Airlines (CO)                    |            (Blocked)                | https://www.copaair.com                                       | 
+|  FlyWays (BR)                          |            (Blocked)                | http://www.flyways.com.br                                     |
+|  Calafia (MX)                          |            (Blocked)                | https://www.calafiaairlines.com                               | 
+|  Tame (EC)                             |            (Blocked)                | https://www.tame.com.ec                                       |
 |  Aserca Airlines (VE)                  |            (To Do)                  | http://www.asercaairlines.com                                 |
 |  Conviasa (VE)                         |            (To Do)                  | http://portal.conviasa.aero                                   |
 |  Avior Airlines (VE)                   |            (To Do)                  | https://www.aviorair.com                                      |
@@ -156,21 +156,21 @@ go run vivacolombia_scraper.go
 
 | European Low Cost Airlines             |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
+|  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
+|  Wizz Air (BG)                         |            (Done)                   | https://wizzair.com/                                          | 
+|  EasyJet (EU)                          |            (Done)                   | https://www.easyjet.com                                       |
+|  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
+|  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   |
+|  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
 |  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
-|  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
-|  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
-|  Wizz Air (BG)                         |            (Done)                   | https://wizzair.com/                                          | 
-|  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
-|  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        |
-|  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
 |  Air Europa Express (ES)               |            (To Do)                  | https://www.aireuropa.com                                     | 
 |  Fly Sas (FI)                          |            (To Do)                  | https://www.flysas.com                                        | 
-|  Wizz Air (HU)                         |            (To Do)                  | https://wizzair.com                                           | 
 |  Iceland Air (IS)                      |            (To Do)                  | https://www.icelandair.com                                    | 
 |  Aer Lingus (IE)                       |            (To Do)                  | https://www.aerlingus.com                                     | 
 |  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
@@ -185,7 +185,6 @@ go run vivacolombia_scraper.go
 |  Eurowings (DE)                        |            (To Do)                  | https://www.eurowings.com                                     |
 |  Sky Express (RU)                      |            (To Do)                  | http://www.skyexpress.ru                                      |
 |  Fly Me (SE)                           |            (To Do)                  | http://www.flyme.mv                                           |
-|  EasyJet (EU)                          |            (To Do)                  | https://www.easyjet.com                                       |
 |  Helvetic (CH)                         |            (To Do)                  | https://www.helvetic.com                                      |
 |  Anadolu Jet (TR)                      |            (To Do)                  | https://www.anadolujet.com/tr                                 |
 |  Atlas Global (TR)                     |            (To Do)                  | https://www.atlasglb.com/en                                   |
