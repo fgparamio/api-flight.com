@@ -23,6 +23,13 @@
 [Golang Gizmo - A Microservice Toolkit](https://github.com/NYTimes/gizmo)
 <br />
 [JsonQ - Simple Json access for Golang](https://github.com/jmoiron/jsonq)
+<br/>
+[Query Language for rule engine in golang](https://github.com/caibirdme/yql)
+<br/>
+[Basic Rules Engine for Go](https://github.com/hopkinsth/go-ruler)
+<br/>
+[Faster, simpler way to drive browsers without external dependencies using Chrome Debugging Protocol](https://github.com/chromedp/chromedp)
+
 
 ## Microservices Frameworks 
 
@@ -200,11 +207,11 @@ go run vivacolombia_scraper.go
 | North America Low Cost Airlines        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Spirit Airlines (US)                  |            (Done)                   | https://www.spirit.com                                        | 
+|  American Airlines (US)                |            (To Do)                  | https://www.americanairlines.es                               |
 |  Allegiant (US)                        |            (To Do)                  | https://www.allegiantair.com                                  |
 |  Frontier(US)                          |            (To Do)                  | https://es.flyfrontier.com                                    |
 |  Jet Blue (US)                         |            (To Do)                  | https://www.jetblue.com                                       | 
 |  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
-|  American Airlines (US)                |            (To Do)                  | https://www.americanairlines.es                               |
 |  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
 |  FlightNetwork (CA)                    |            (To Do)                  | https://www.flightnetwork.com                                 |
 |  WestJet (CA)                          |            (To Do)                  | https://www.westjet.com                                       |
