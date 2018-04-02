@@ -167,7 +167,7 @@ go run vivacolombia_scraper.go
 |  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
 |  Wizz Air (BG)                         |            (Done)                   | https://wizzair.com/                                          | 
 |  EasyJet (EU)                          |            (Done)                   | https://www.easyjet.com                                       |
-|  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
+|  Iberia Express (ES)                   |            (Doing)                  | https://www.iberiaexpress.com                                 | 
 |  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   |
 |  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
@@ -207,9 +207,9 @@ go run vivacolombia_scraper.go
 | North America Low Cost Airlines        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Spirit Airlines (US)                  |            (Done)                   | https://www.spirit.com                                        | 
-|  American Airlines (US)                |            (To Do)                  | https://www.americanairlines.es                               |
-|  Allegiant (US)                        |            (To Do)                  | https://www.allegiantair.com                                  |
-|  Frontier(US)                          |            (To Do)                  | https://es.flyfrontier.com                                    |
+|  American Airlines (US)                |            (Blocked)                | https://www.americanairlines.es                               |
+|  Allegiant (US)                        |            (Done)                   | https://www.allegiantair.com                                  |
+|  Frontier(US)                          |            (Doing)                  | https://es.flyfrontier.com                                    |
 |  Jet Blue (US)                         |            (To Do)                  | https://www.jetblue.com                                       | 
 |  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
 |  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
@@ -225,7 +225,7 @@ go run vivacolombia_scraper.go
 | Asia Low Cost Airlines                 |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Zoom Air (IN)                         |            (To Do)                  | http://www.zoomair.in                                         |
-|  Air Asia (CN)                         |            (To Do)                  | https://www.airasia.com                                       |
+|  Air Asia (CN)                         |            (Doing)                  | https://www.airasia.com                                       |
 |  Asiana Airlines (CN)                  |            (To Do)                  | http://us.flyasiana.com                                       |
 |  Tiger Air (SG)                        |            (To Do)                  | https://tigerair.com.au                                       |
 |  Ch COM (CN)                           |            (To Do)                  | https://www.ch.com                                            |
