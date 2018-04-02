@@ -19,7 +19,6 @@ func main() {
 	bow.AddRequestHeader("Accept", "text/html,application/xhtml+xm…plication/xml;q=0.9,*/*;q=0.8")
 	bow.AddRequestHeader("Accept_Language", "es-US,es-419;q=0.9,es;q=0.8")
 	bow.AddRequestHeader("Connection", "keep-alive")
-	bow.AddRequestHeader("Referer", "https://www.easyjet.com/es/")
 	bow.AddRequestHeader("Host", "www.spirit.com")
 	bow.AddRequestHeader("Upgrade-Insecure-Requests", "1")
 	bow.AddRequestHeader("Origin", "https://www.spirit.com")

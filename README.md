@@ -209,8 +209,8 @@ go run vivacolombia_scraper.go
 |  Spirit Airlines (US)                  |            (Done)                   | https://www.spirit.com                                        | 
 |  American Airlines (US)                |            (Blocked)                | https://www.americanairlines.es                               |
 |  Allegiant (US)                        |            (Done)                   | https://www.allegiantair.com                                  |
-|  Frontier(US)                          |            (Doing)                  | https://es.flyfrontier.com                                    |
-|  Jet Blue (US)                         |            (To Do)                  | https://www.jetblue.com                                       | 
+|  Frontier(US)                          |            (Done)                   | https://es.flyfrontier.com                                    |
+|  Jet Blue (US)                         |            (Doing)                  | https://www.jetblue.com                                       | 
 |  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
 |  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
 |  FlightNetwork (CA)                    |            (To Do)                  | https://www.flightnetwork.com                                 |
