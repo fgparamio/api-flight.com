@@ -169,7 +169,7 @@ go run vivacolombia_scraper.go
 |  EasyJet (EU)                          |            (Done)                   | https://www.easyjet.com                                       |
 |  Iberia Express (ES)                   |            (Doing)                  | https://www.iberiaexpress.com                                 | 
 |  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   |
-|  Vueling (ES)                          |            (To Do)                  | http://www.vueling.com                                        | 
+|  Vueling (ES)                          |            (Done)                   | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
