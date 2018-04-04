@@ -413,7 +413,7 @@ go run vivacolombia_scraper.go
 |  Lanhsa Honduras (HN)                  |            (To Do)                  | https://www.lanhsahn.com                                      | 
 |  Air Link (JM)                         |            (To Do)                  | http://www.intlairlink.net                                    | 
 |  Fly Jamaica (JM)                      |            (To Do)                  | http://www.fly-jamaica.com                                    | 
-|  Aeromar (MX)                          |            (To Do)                  | https://www.aeromar.com.mx/index.php?idioma=en                | 
+|  Aeromar (MX)                          |            (To Do)                  | https://www.aeromar.com.mx                                    | 
 |  Magni Charters (MX)                   |            (To Do)                  | https://www.magnicharters.com                                 | 
 |  MAYAir (MX)                           |            (To Do)                  | http://www.mayair.com.mx                                      | 
 |  La Costeña (NI)                       |            (To Do)                  | https://lacostena.online.com.ni                               | 
