@@ -126,6 +126,8 @@ go run vivacolombia_scraper.go
 |  Star Peru (PE)                        |            (Done)                   | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
+|  TAR Aerolíneas (MX)                   |            (To Do)                  | https://tarmexico.com                                         | 
+|  Viva Aerobus (MX)                     |            (To Do)                  | https://www.vivaaerobus.com/mx                                | 
 |  Flybondi (AR)                         |            (Done)                   | https://www.flybondi.com                                      |
 --- 
 
@@ -340,7 +342,7 @@ go run vivacolombia_scraper.go
 |  Spirit Airlines (US)                  |            (Done)                   | https://www.spirit.com                                        | 
 |  American Airlines (US)                |            (Blocked)                | https://www.americanairlines.es                               |
 |  Allegiant (US)                        |            (Done)                   | https://www.allegiantair.com                                  |
-|  Frontier(US)                          |            (Done)                   | https://es.flyfrontier.com                                    |
+|  Frontier (US)                         |            (Done)                   | https://es.flyfrontier.com                                    |
 |  Jet Blue (US)                         |            (Doing)                  | https://www.jetblue.com                                       | 
 |  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    |
 |  Virgin America (US)                   |            (To Do)                  | https://www.virginamerica.com                                 |
@@ -350,6 +352,81 @@ go run vivacolombia_scraper.go
 |  Air Transat (CA)                      |            (To Do)                  | https://www.airtransat.com                                    |
 |  Air North   (CA)                      |            (To Do)                  | http://www.flyairnorth.com                                    |
 --- 
+
+<br />
+
+| More North America Airlines            |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Alask Airlines (US)                   |            (To Do)                  | https://www.alaskaair.com                                     | 
+|  Delta (US)                            |            (To Do)                  | https://es.delta.com                                          | 
+|  Hawaiian Airlines (US)                |            (To Do)                  | https://www.hawaiianairlines.com                              | 
+|  Sun Country Airlines (US)             |            (To Do)                  | https://www.suncountry.com                                    | 
+|  United Airlines (US)                  |            (To Do)                  | https://www.united.com                                        | 
+|  Cape Air (US)                         |            (To Do)                  | https://www.capeair.com                                       | 
+|  Elite Airways (US)                    |            (To Do)                  | http://res.eliteairways.net                                   | 
+|  Pen Air (US)                          |            (To Do)                  | http://www.penair.com                                         | 
+|  Ravn Alaska (US)                      |            (To Do)                  | https://www.flyravn.com                                       | 
+|  Via Air (US)                          |            (To Do)                  | https://www.flyviaair.com                                     | 
+|  Trans Anguilla Airways (AI)           |            (To Do)                  | http://www.transanguilla.com                                  | 
+|  Liat (AG)                             |            (To Do)                  | https://www.liat.com                                          | 
+|  Aruba Airlines (AW)                   |            (To Do)                  | https://www.arubaairlines.com                                 | 
+|  InselAir (AW)                         |            (To Do)                  | https://www.fly-inselair.com/es                               | 
+|  Sky Bahamas (BT)                      |            (To Do)                  | http://www.skybahamas.net                                     | 
+|  Southern Air Charter (BT)             |            (To Do)                  | http://www.southernaircharter.com                             | 
+|  Western Air Bahamas (BT)              |            (To Do)                  | http://www.westernairbahamas.com                              | 
+|  Bahamas Air (BT)                      |            (To Do)                  | https://www.bahamasair.com                                    | 
+|  Maya Aisland Air (BZ)                 |            (To Do)                  | http://www.mayaislandair.com                                  | 
+|  Tropic Air (BZ)                       |            (To Do)                  | https://www.tropicair.com                                     | 
+|  Divi Divi Air (BO)                    |            (To Do)                  | https://www.flydivi.com                                       | 
+|  Island Birds (VG)                     |            (To Do)                  | https://www.islandbirds.com                                   | 
+|  Air Canada (CA)                       |            (To Do)                  | https://www.aircanada.com/ca                                  | 
+|  Air Creebec (CA)                      |            (To Do)                  | http://www.aircreebec.ca                                      | 
+|  Air Inuit (CA)                        |            (To Do)                  | https://www.airinuit.com                                      | 
+|  Air North (CA)                        |            (To Do)                  | http://www.flyairnorth.com                                    | 
+|  Air Tramsat (CA)                      |            (To Do)                  | https://www.airtransat.com                                    | 
+|  Bearskin Airlines (CA)                |            (To Do)                  | http://www.bearskinairlines.com                               | 
+|  Centrail Mountain Air (CA)            |            (To Do)                  | https://flycma.com                                            | 
+|  First Air (CA)                        |            (To Do)                  | https://firstair.ca                                           | 
+|  Flair Airlines (CA)                   |            (To Do)                  | https://flairair.ca                                           | 
+|  Harbour Air (CA)                      |            (To Do)                  | https://www.harbourair.com                                    | 
+|  Island Express (CA)                   |            (To Do)                  | http://www.islandexpressair.com                               | 
+|  Pascan (CA)                           |            (To Do)                  | https://www.pascan.com/en                                     | 
+|  Porter (CA)                           |            (To Do)                  | https://www.flyporter.com/en-ca                               | 
+|  Pal Airlines (CA)                     |            (To Do)                  | https://www.palairlines.ca/en                                 | 
+|  Saltspring Air (CA)                   |            (To Do)                  | http://saltspringair.com                                      | 
+|  Sun Wing (CA)                         |            (To Do)                  | https://www.sunwing.ca                                        | 
+|  Transwest Air (CA)                    |            (To Do)                  | http://www.transwestair.com                                   | 
+|  Wasaya (CA)                           |            (To Do)                  | https://www.wasaya.com                                        | 
+|  Cayman Airways (KY)                   |            (To Do)                  | https://www.caymanairways.com                                 | 
+|  Nature Air (CR)                       |            (To Do)                  | http://www.natureair.com                                      | 
+|  Sansa (CR)                            |            (To Do)                  | http://www.flysansa.com                                       | 
+|  Aerogaviota (CU)                      |            (To Do)                  | http://www.aerogaviota.com                                    | 
+|  Cubana (CU)                           |            (To Do)                  | http://www.cubana.cu                                          | 
+|  Insel Air (CU)                        |            (To Do)                  | https://www.fly-inselair.com                                  | 
+|  Pawa (DM)                             |            (To Do)                  | https://www.pawadominicana.com                                | 
+|  Greenland (US)                        |            (To Do)                  | https://www.airgreenland.com                                  | 
+|  Air Antilles (GP)                     |            (To Do)                  | https://www.airantilles.com                                   | 
+|  Air Caraibes (GP)                     |            (To Do)                  | https://www.aircaraibes.com                                   | 
+|  TAG Airlines (GT)                     |            (To Do)                  | https://tag.com.gt                                            | 
+|  Sunrise Airways (HT)                  |            (To Do)                  | https://www.sunriseairways.net                                | 
+|  CM Airlines (HN)                      |            (To Do)                  | http://www.cmairlines.com                                     | 
+|  Lanhsa Honduras (HN)                  |            (To Do)                  | https://www.lanhsahn.com                                      | 
+|  Air Link (JM)                         |            (To Do)                  | http://www.intlairlink.net                                    | 
+|  Fly Jamaica (JM)                      |            (To Do)                  | http://www.fly-jamaica.com                                    | 
+|  Aeromar (MX)                          |            (To Do)                  | https://www.aeromar.com.mx/index.php?idioma=en                | 
+|  Magni Charters (MX)                   |            (To Do)                  | https://www.magnicharters.com                                 | 
+|  MAYAir (MX)                           |            (To Do)                  | http://www.mayair.com.mx                                      | 
+|  La Costeña (NI)                       |            (To Do)                  | https://lacostena.online.com.ni                               | 
+|  Air Panama (PA)                       |            (To Do)                  | https://www.airpanama.com                                     | 
+|  Silver Airways (PR)                   |            (To Do)                  | http://www.silverairways.com                                  | 
+|  Air Flamenco (PR)                     |            (To Do)                  | https://airflamenco.net                                       | 
+|  Vieques Air Link (PR)                 |            (To Do)                  | https://viequesweb.intelisys.ca                               | 
+|  Svg Air (VC)                          |            (To Do)                  | http://flysvgair.com                                          | 
+|  Air Saint Pierre (VC)                 |            (To Do)                  | http://airsaintpierre.com/en                                  | 
+|  Caribbean Airlines (TT)               |            (To Do)                  | https://www.caribbean-airlines.com                            | 
+|  Caicos Express                        |            (To Do)                  | http://caicosexpress.com                                      | 
+---
+
 
 <br />
 
