@@ -114,7 +114,7 @@ go run vivacolombia_scraper.go
 |  Volaris (MX)                          |            (Done)                   | https://www.volaris.com                                       | 
 |  Azul (BR)                             |            (Done)                   | https://www.voeazul.com.br                                    |
 |  Wingo (CO)                            |            (Done)                   | https://www.wingo.com                                         | 
-|  Sky Airline (TR)                      |            (Done)                   | https://www.skyairline.com                                    | 
+|  Sky Airline (CL)                      |            (Done)                   | https://www.skyairline.com                                    | 
 |  Viva Air (PE)                         |            (Done)                   | https://www.vivaair.com                                       | 
 |  EasyFly (CO)                          |            (Done)                   | https://www.easyfly.com.co                                    | 
 |  Interjet    (MX)                      |            (Done)                   | https://www.interjet.com                                      |
@@ -165,7 +165,7 @@ go run vivacolombia_scraper.go
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
 |  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
-|  Wizz Air (BG)                         |            (Done)                   | https://wizzair.com/                                          | 
+|  Wizz Air (EU)                         |            (Done)                   | https://wizzair.com/                                          | 
 |  EasyJet (EU)                          |            (Done)                   | https://www.easyjet.com                                       |
 |  Iberia Express (ES)                   |            (Doing)                  | https://www.iberiaexpress.com                                 | 
 |  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   |
@@ -173,11 +173,11 @@ go run vivacolombia_scraper.go
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
-|  TUlfly (DE)                           |            (To Do)                  | https://en.tuifly.com                                         | 
+|  Tuifly (EU)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
 |  Air Europa Express (ES)               |            (To Do)                  | https://www.aireuropa.com                                     | 
-|  Fly Sas (FI)                          |            (To Do)                  | https://www.flysas.com                                        | 
+|  Fly Sas (EU)                          |            (To Do)                  | https://www.flysas.com                                        | 
 |  Iceland Air (IS)                      |            (To Do)                  | https://www.icelandair.com                                    | 
 |  Aer Lingus (IE)                       |            (To Do)                  | https://www.aerlingus.com                                     | 
 |  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
@@ -201,8 +201,139 @@ go run vivacolombia_scraper.go
 |  Fly BMI (UK)                          |            (To Do)                  | https://www.flybmi.com/                                       |
 --- 
 
-<br />
+<br/>
 
+| More European Airlines                 |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Austrian Airlines (AT)                |            (To Do)                  | https://www.austrian.com                                      |
+|  Air Belgium Airlines (BE)             |            (To Do)                  | https://www.airbelgium.com/en                                 |
+|  Brussels Airlines (BE)                |            (To Do)                  | https://www.brusselsairlines.com                              |
+|  BH Air (BG)                           |            (To Do)                  | http://www.bhairlines.com                                     |
+|  Bulgaria Air (BG)                     |            (To Do)                  | https://www.air.bg/en                                         |
+|  Croatia Airlines (HR)                 |            (To Do)                  | http://www.croatiaairlines.com/hr                             |
+|  Trade Air (HR)                        |            (To Do)                  | http://www.trade-air.com                                      |
+|  Cobalt Ailine (CY)                    |            (To Do)                  | https://cobalt.aero                                           |
+|  Cyprus Airways(CY)                    |            (To Do)                  | https://www.cyprusairways.com                                 |
+|  Tus Air (CY)                          |            (To Do)                  | http://tusairways.com                                         |
+|  Czech Airlines (CZ)                   |            (To Do)                  | https://www.csa.cz/cz-cs                                      |
+|  Primera Air (EU)                      |            (To Do)                  | https://primeraair.com                                        |
+|  Sun Air (DK)                          |            (To Do)                  | http://www.sun-air.dk                                         |
+|  Nordica (EE)                          |            (To Do)                  | https://www.nordica.ee                                        |
+|  FinnAir (FI)                          |            (To Do)                  | https://www.finnair.com/fi                                    |
+|  Aigle Azur (FR)                       |            (To Do)                  | https://www.aigle-azur.com/                                   |
+|  Air Caraibes (FR)                     |            (To Do)                  | https://www.aircaraibes.com                                   |
+|  Air Corsica (FR)                      |            (To Do)                  | https://www.aircorsica.com                                    |
+|  Air France (FR)                       |            (To Do)                  | https://www.airfrance.com                                     |
+|  Air Guyane (FR)                       |            (To Do)                  | http://www.airguyane.com                                      |
+|  Asl Airlines (FR)                     |            (To Do)                  | http://www.aslairlines.fr/en                                  |
+|  Atlas Atlantic Airlines (FR)          |            (To Do)                  | http://www.atlasatlantiqueairlines.com                        |
+|  FinistAir (FR)                        |            (To Do)                  | http://www.finistair.fr                                       |
+|  FrenchBee (FR)                        |            (To Do)                  | https://www.frenchbee.com/en                                  |
+|  Twin Jet (FR)                         |            (To Do)                  | https://www.twinjet.fr                                        |
+|  Hop (FR)                              |            (To Do)                  | https://www.hop.com                                           |
+|  ST Barth Commuter (FR)                |            (To Do)                  | http://www.stbarthcommuter.com/en                             |
+|  Transavia (FR)                        |            (To Do)                  | https://www.transavia.com                                     |
+|  XL Airways (FR)                       |            (To Do)                  | https://www.xl.com/en                                         |
+|  Germania (DE)                         |            (To Do)                  | https://www.flygermania.com/en                                |
+|  Hahn Air (DE)                         |            (To Do)                  | https://www.hahnair.com/en                                    |
+|  Lufthansa (DE)                        |            (To Do)                  | https://www.lufthansa.com                                     |
+|  Sund Air (DE)                         |            (To Do)                  | https://sundair.com                                           |
+|  Aegean Airline (GR)                   |            (To Do)                  | https://en.aegeanair.com                                      |
+|  AM Jet (GR)                           |            (To Do)                  | http://www.amjetexecutive.com/en                              |
+|  Astra Airlines (GR)                   |            (To Do)                  | http://www.astra-airlines.gr                                  |
+|  Ellinair (GR)                         |            (To Do)                  | https://el.ellinair.com                                       |
+|  Olympic Air (GR)                      |            (To Do)                  | https://www.olympicair.com                                    |
+|  Orange2Fly (GR)                       |            (To Do)                  | http://www.orange2fly.com                                     |
+|  Sky Express (GR)                      |            (To Do)                  | http://www.skyexpress.gr                                      |
+|  City Jet (IE)                         |            (To Do)                  | https://www.cityjet.com                                       |
+|  Aran Islands (IE)                     |            (To Do)                  | http://aerarannislands.ie                                     |
+|  Air Dolomiti (IT)                     |            (To Do)                  | https://www.airdolomiti.eu                                    |
+|  Alidaunia (IT)                        |            (To Do)                  | http://www.alidaunia.it                                       |
+|  Alitalia  (IT)                        |            (To Do)                  | https://www.alitalia.com/en_en                                |
+|  Fly Ernest (IT)                       |            (To Do)                  | https://flyernest.com/en                                      |
+|  Neos (IT)                             |            (To Do)                  | https://www.neosair.it                                        |
+|  Air Baltic (LV)                       |            (To Do)                  | https://www.airbaltic.com                                     |
+|  Small Planet (EU)                     |            (To Do)                  | https://www.smallplanet.aero                                  |
+|  CargoLux (LU)                         |            (To Do)                  | http://www.cargolux.com                                       |
+|  Lux Air (LU)                          |            (To Do)                  | https://www.luxair.lu                                         |
+|  Air Malta (MT)                        |            (To Do)                  | https://www.airmalta.com                                      |
+|  AIS Airlines (NL)                     |            (To Do)                  | https://www.aisairlines.com                                   |
+|  Enter Air (PL)                        |            (To Do)                  | http://www.enterair.pl/en                                     |
+|  Polish Airlines (PL)                  |            (To Do)                  | http://www.lot.com/us/en                                      |
+|  Azores Airlines (PT)                  |            (To Do)                  | https://www.azoresairlines.pt                                 |
+|  Sevenair (PT)                         |            (To Do)                  | https://bookings.sevenair.com                                 |
+|  EuroAtlantic (PT)                     |            (To Do)                  | http://www.flyeuroatlantic.pt                                 |
+|  Orbest (PT)                           |            (To Do)                  | http://www.orbest.com                                         |
+|  Sata (PT)                             |            (To Do)                  | http://www.sata.pt/en                                         |
+|  Air Portugal (PT)                     |            (To Do)                  | https://www.flytap.com/es-co                                  |
+|  Air Bucharest (RO)                    |            (To Do)                  | http://www.airbucharest.ro                                    |
+|  Tarom Romanian (RO)                   |            (To Do)                  | https://www.tarom.ro/en                                       |
+|  Adria Airlines (SI)                   |            (To Do)                  | https://www.adria.si                                          |
+|  Fly VLM (SI)                          |            (To Do)                  | http://www.flyvlm.com/en                                      |
+|  Air Europa (EU)                       |            (To Do)                  | https://www.aireuropa.com/es/vuelos                           |
+|  Air Nostrum (ES)                      |            (To Do)                  | http://www.airnostrum.es                                      |
+|  Alba Star (ES)                        |            (To Do)                  | http://www.albastar.es                                        |
+|  Binter Canarias (ES)                  |            (To Do)                  | https://www.bintercanarias.com                                |
+|  Evelop (ES)                           |            (To Do)                  | http://en.evelop.com                                          |
+|  Fly Level (ES)                        |            (To Do)                  | https://www.flylevel.com                                      |
+|  Plus Ultra Lineas Aéreas (ES)         |            (To Do)                  | https://plusultra.com/en                                      |
+|  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     |
+|  Wamos Air (ES)                        |            (To Do)                  | http://www.wamosair.com/en                                    |
+|  Fly Bra (SE)                          |            (To Do)                  | https://www.flygbra.se                                        |
+|  DirektFlyg (SE)                       |            (To Do)                  | https://www.direktflyg.com                                    |
+|  Next Jet (SE)                         |            (To Do)                  | https://www.nextjet.se                                        |
+|  Sparrow Aviation (SE)                 |            (To Do)                  | https://www.sparrow.se/en                                     |
+|  British Airways (UK)                  |            (To Do)                  | https://www.britishairways.com                                |
+|  Fly Be (UK)                           |            (To Do)                  | https://www.flybe.com                                         |
+|  Logan Air (UK)                        |            (To Do)                  | https://www.loganair.co.uk                                    |
+|  Virgin Atlantic (UK)                  |            (To Do)                  | https://www.virginatlantic.com                                |
+|  Alba Wings (AL)                       |            (To Do)                  | https://albawings.com/en                                      |
+|  Armenia Air Company (AR)              |            (To Do)                  | https://armeniafly.com/en                                     |
+|  Taron Avia (AR)                       |            (To Do)                  | http://taron-avia.am/am                                       |
+|  Azerbaijan Airlines (AZ)              |            (To Do)                  | https://www.azal.az                                           |
+|  Buta Airways (AZ)                     |            (To Do)                  | https://www.butaairways.az/en                                 |
+|  Belavia (BY)                          |            (To Do)                  | https://belavia.by                                            |
+|  Georgian Airways (GE)                 |            (To Do)                  | https://www.georgian-airways.com                              |
+|  Air Atlanta Icelandic (IS)            |            (To Do)                  | http://www.atlanta.is                                         |
+|  Air Iceland Connect (IS)              |            (To Do)                  | https://www.airicelandconnect.is                              |
+|  Eagle Air (IS)                        |            (To Do)                  | https://www.eagleair.is                                       |
+|  IcelandAir (IS)                       |            (To Do)                  | https://www.icelandair.com                                    |
+|  Wow Air (EU)                          |            (To Do)                  | https://wowair.com                                            |
+|  Kosova Airlines (KO)                  |            (To Do)                  | https://www.flyksa.com                                        |
+|  Air Moldova (MD)                      |            (To Do)                  | https://www.airmoldova.md                                     |
+|  Tandem Aero (MD)                      |            (To Do)                  | http://www.tandemaero.md                                      |
+|  FlyOne (MD)                           |            (To Do)                  | https://flyone.md                                             |
+|  Montenegro Airlines (MT)              |            (To Do)                  | https://montenegroairlines.com                                |
+|  Lufttransport (NO)                    |            (To Do)                  | http://www.lufttransport.no                                   |
+|  Wideroe (NO)                          |            (To Do)                  | https://www.wideroe.no                                        |
+|  Norwegian (NO)                        |            (To Do)                  | https://www.norwegian.no                                      |
+|  AeroFlot (RU)                         |            (To Do)                  | https://www.aeroflot.ru                                       |
+|  Fly Aurora (RU)                       |            (To Do)                  | http://www.flyaurora.ru                                       |
+|  Nordavia (RU)                         |            (To Do)                  | https://www.nordavia.ru/en                                    | 
+|  Nordwind (RU)                         |            (To Do)                  | https://nordwindairlines.ru                                   | 
+|  Red Wings (RU)                        |            (To Do)                  | https://flyredwings.com                                       | 
+|  Rossiya Airlines (RU)                 |            (To Do)                  | https://www.rossiya-airlines.com                              | 
+|  S7 Airlines (RU)                      |            (To Do)                  | https://www.s7.ru                                             | 
+|  Ural Airlines (RU)                    |            (To Do)                  | https://www.uralairlines.com                                  | 
+|  Yakutia Airlines (RU)                 |            (To Do)                  | http://www.yakutia.aero                                       | 
+|  Yamal Airlines (RU)                   |            (To Do)                  | http://www.yamal.aero                                         | 
+|  Utair Airlines (RU)                   |            (To Do)                  | https://www.utair.ru/en                                       | 
+|  NordStar (RU)                         |            (To Do)                  | https://nordstar.ru                                           | 
+|  Air Serbia (RS)                       |            (To Do)                  | https://www.airserbia.com/en                                  | 
+|  Edelweiss (CH)                        |            (To Do)                  | https://www.flyedelweiss.com                                  | 
+|  Helvetic Airways (CH)                 |            (To Do)                  | https://www.helvetic.com/de                                   | 
+|  Fly SkyWork (CH)                      |            (To Do)                  | https://flyskywork.com                                        | 
+|  Swiss Airlines (CH)                   |            (To Do)                  | https://www.swiss.com/us/es                                   | 
+|  Onur Air (TR)                         |            (To Do)                  | https://www.onurair.com/en                                    | 
+|  SunExpress (TR)                       |            (To Do)                  | https://www.sunexpress.com/en                                 | 
+|  Turkish Airlines (TR)                 |            (To Do)                  | https://www.turkishairlines.com                               | 
+|  Dni Proavia (UA))                     |            (To Do)                  | http://dniproavia.com/en                                      | 
+|  Fly Motorsich (UA)                    |            (To Do)                  | https://flymotorsich.com                                      | 
+|  UM Air (UA)                           |            (To Do)                  | http://www.umair.com.ua                                       | 
+|  Yan Air (UA)                          |            (To Do)                  | http://yanair.ua                                              | 
+--- 
+
+<br />
 
 | North America Low Cost Airlines        |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
