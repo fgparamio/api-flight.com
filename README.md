@@ -734,5 +734,86 @@ go run vivacolombia_scraper.go
 
 | More Africa Airlines                   |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-| Jet4you (MA)                           |            (To Do)                  | http://www.jet4you.com                                        |
+| Air Algerie (DZ)                       |            (To Do)                  | https://airalgerie.dz                                         |
+| Tassili Airlines (DZ)                  |            (To Do)                  | http://www.tassiliairlines.aero                               |
+| Taag Angola Airlines (AO)              |            (To Do)                  | http://www.taag.com/en                                        |
+| Westair Benin (BJ)                     |            (To Do)                  | http://www.westairbenin.com/index.php                         |
+| Air Botswana (BW)                      |            (To Do)                  | https://www.airbotswana.co.bw                                 |
+| Air Burkina  (BF)                      |            (To Do)                  | http://air-burkina.com                                        |
+| Camair-Co Airlines (CM)                |            (To Do)                  | http://www.camair-co.cm/en                                    |
+| Tacv Cabo Verde Airlines (CV)          |            (To Do)                  | https://flytacv.com                                           |
+| Karinou Airlines (CF)                  |            (To Do)                  | https://karinou.worldticket.net                               |
+| Via Air (CF)                           |            (To Do)                  | https://www.flyviaair.com                                     |
+| Fly Caa (CD)                           |            (To Do)                  | http://www.caacongo.com                                       |
+| Congo Airways (CD)                     |            (To Do)                  | http://congoairways.com                                       |
+| Fly Mango (CD)                         |            (To Do)                  | http://www.flymango.com                                       |
+| EquaFlight (CG)                        |            (To Do)                  | http://www.equaflight.com                                     |
+| Canadian Airways Congo (CG)            |            (To Do)                  | https://www.canaircongo.com/fr                                |
+| Daallo Airlines (DJ)                   |            (To Do)                  | http://www.daallo.com                                         |
+| Air Djibouti (DJ)                      |            (To Do)                  | http://www.air-djibouti.com                                   |
+| Air Cairo (EG)                         |            (To Do)                  | http://www.flyaircairo.com                                    |
+| Egyptair  (EG)                         |            (To Do)                  | http://www.egyptair.com                                       |
+| Fly Egypt (EG)                         |            (To Do)                  | http://www.flyegypt.com                                       |
+| Nesma Airlines (EG)                    |            (To Do)                  | http://www.nesmaairlines.com                                  |
+| Nile Air (EG)                          |            (To Do)                  | https://nileair.com                                           |
+| Cronos Air (GQ)                        |            (To Do)                  | http://www.cronosair.com                                      |
+| Eritrean Arilines (ET)                 |            (To Do)                  | http://www.eritrean.aero                                      |
+| Ethiopian Arilines (ET)                |            (To Do)                  | https://www.ethiopianairlines.com                             |
+| AWA Africa World Airlines (GH)         |            (To Do)                  | http://www.flyawa.com.gh                                      |
+| Antrak Air (GH)                        |            (To Do)                  | http://www.antrakair.com                                      |
+| Air Cote Divoire (CI)                  |            (To Do)                  | http://www.aircotedivoire.com                                 |
+| African Express Airways (KE)           |            (To Do)                  | http://africanexpress.net                                     |
+| Air Kenya (KE)                         |            (To Do)                  | https://www.airkenya.com                                      |
+| Fly Sax (KE)                           |            (To Do)                  | https://www.fly-sax.com                                       |
+| Jambo Jet (KE)                         |            (To Do)                  | http://www.jambojet.com/us                                    |
+| Kenya Airways (KE)                     |            (To Do)                  | https://www.kenya-airways.com/glo                             |
+| Mombasa Air Safari (KE)                |            (To Do)                  | https://www.mombasaairsafari.com                              |
+| SafariLink (KE)                        |            (To Do)                  | https://flysafarilink.com                                     |
+| Libyan Wings (LY)                      |            (To Do)                  | http://libyanwings.ly                                         |
+| Air Madagascar (MG)                    |            (To Do)                  | http://www.airmadagascar.com                                  |
+| Madagaskara Airways (MG)               |            (To Do)                  | http://madagasikaraairways.com                                |
+| Ulendo Airlink (MW)                    |            (To Do)                  | https://www.flyulendo.com                                     |
+| Malawi Airlines (MW)                   |            (To Do)                  | http://www.malawian-airlines.com                              |
+| Mauritania Airlines (MR)               |            (To Do)                  | https://www.mauritaniaairline.com                             |
+| Air Mauritius (MU)                     |            (To Do)                  | https://www.airmauritius.com                                  |
+| Royal Air Maroc (MA)                   |            (To Do)                  | https://www.royalairmaroc.com                                 |
+| FastJet (MZ)                           |            (To Do)                  | https://www.fastjet.com                                       |
+| JetVision (MZ)                         |            (To Do)                  | https://www.jetvisionairways.com                              |
+| LAM Mozambique Airlines (MZ)           |            (To Do)                  | http://www.lam.co.mz/en                                       |
+| Air Namibia (NA)                       |            (To Do)                  | http://www.airnamibia.com                                     |
+| Niger Airlines (NE)                    |            (To Do)                  | http://nigerairlines.net                                      |
+| Air Peace (NG)                         |            (To Do)                  | https://www.flyairpeace.com                                   |
+| Arik Air (NG)                          |            (To Do)                  | https://www.arikair.com/ng                                    |
+| Azman Air Services (NG)                |            (To Do)                  | https://www.airazman.com                                      |
+| Dana Air (NG)                          |            (To Do)                  | http://www.flydanaair.com                                     |
+| Max Air (NG)                           |            (To Do)                  | https://www.maxair.com.ng                                     |
+| Med-View Airline (NG)                  |            (To Do)                  | http://medviewairline.com                                     |
+| Overland Airways (NG)                  |            (To Do)                  | https://www.overlandairways.com                               |
+| Rwand Air (RW)                         |            (To Do)                  | https://www.rwandair.com                                      |
+| Africas Connection STP (ST)            |            (To Do)                  | http://africasconnection.net                                  |
+| Air SeyChelles (SC)                    |            (To Do)                  | https://www.airseychelles.com                                 |
+| Jubba Airways (SO)                     |            (To Do)                  | http://www.jubbaairways.com                                   |
+| AirLink Sudafrica (ZA)                 |            (To Do)                  | https://www.flyairlink.com                                    |
+| Sa Express (ZA)                        |            (To Do)                  | http://www.flyexpress.aero                                    |
+| Fly Safair (ZA)                        |            (To Do)                  | https://www.flysafair.co.za                                   |
+| Kulula (ZA)                            |            (To Do)                  | http://www.kulula.com                                         |
+| South African Airways (ZA)             |            (To Do)                  | https://www.flysaa.com                                        |
+| Badr Airlines (SD)                     |            (To Do)                  | https://www.badrairlines.com                                  |
+| Nova Airways (SD)                      |            (To Do)                  | http://www.novaairways.com                                    |
+| Air Excel (TZ)                         |            (To Do)                  | https://www.airexcelonline.com                                |
+| AS Slaam Air (TZ)                      |            (To Do)                  | https://www.assalaamair.co.tz                                 |
+| Auric Air (TZ)                         |            (To Do)                  | https://auricair.com                                          |
+| Coastal Aviation (TZ)                  |            (To Do)                  | http://www.coastal.co.tz                                      |
+| FlightLink (TZ)                        |            (To Do)                  | http://www.flightlink.co.tz                                   |
+| Precision Air (TZ)                     |            (To Do)                  | https://precisionairtz.com                                    |
+| Tropical Air (TZ)                      |            (To Do)                  | https://www.tropicalair.co.tz                                 |
+| Zan Air (TZ)                           |            (To Do)                  | http://www.zanair.com                                         |
+| Asky (TG)                              |            (To Do)                  | http://www.flyasky.com/asky                                   |
+| Nouvelair (TN)                         |            (To Do)                  | http://www.nouvelair.com/en                                   |
+| Tunisair Express (TN)                  |            (To Do)                  | http://www.tunisairexpress.net                                |
+| Tunisair (TN)                          |            (To Do)                  | http://www.tunisair.com                                       |
+| Eagle Air (UG)                         |            (To Do)                  | http://www.eagleair-ug.com                                    |
+| Proflight Zambia (ZM)                  |            (To Do)                  | http://proflight-zambia.com                                   |
+| Air Zimbabwe (ZW)                      |            (To Do)                  | http://www.airzimbabwe.aero                                   |
 --- 
+
