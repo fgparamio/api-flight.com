@@ -173,7 +173,7 @@ go run vivacolombia_scraper.go
 |  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   |
 |  Vueling (ES)                          |            (Done)                   | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
-|  dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
+|  Dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
 |  Tuifly (EU)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
@@ -460,6 +460,210 @@ go run vivacolombia_scraper.go
 |  Nok Air (TH)                          |            (To Do)                  | http://www.nokair.com                                         |
 |  Airabia (AE)                          |            (To Do)                  | http://www.airarabia.com                                      |
 --- 
+
+| More Asia Airlines                     |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+|  Aji Afghan Jet (AF)                   |            (To Do)                  | http://www.flyaji.com                                         |
+|  Ariana Afghan Airlines (AF)           |            (To Do)                  | http://www.flyariana.com                                      |
+|  East Horizon Airlines (AF)            |            (To Do)                  | http://flyeasthorizon.com                                     |
+|  Kam Air (AF)                          |            (To Do)                  | https://www.kamair.com                                        |
+|  Safi Airways (AF)                     |            (To Do)                  | http://www.safiairways.com                                    |
+|  Gulf Air (BH)                         |            (To Do)                  | https://www.gulfair.com                                       |
+|  Bimman Bangladesh Airlines (BD)       |            (To Do)                  | http://www.biman-airlines.com                                 |
+|  NovoAir (BD)                          |            (To Do)                  | https://www.flynovoair.com                                    |
+|  Regent Airways (BD)                   |            (To Do)                  | http://www.flyregent.com                                      |
+|  US-Bangla (BD)                        |            (To Do)                  | https://us-banglaairlines.com                                 |
+|  Bhutan Airlines (BT)                  |            (To Do)                  | http://www.bhutanairlines.bt                                  |
+|  DrukAir (BT)                          |            (To Do)                  | https://www.drukair.com.bt                                    |
+|  Bhutan Airlines (BT)                  |            (To Do)                  | http://www.bhutanairlines.bt                                  |
+|  Royal Brunei Airlines (BN)            |            (To Do)                  | https://www.flyroyalbrunei.com                                |
+|  Bassaka Air (KH)                      |            (To Do)                  | https://www.bassakaair.com                                    |
+|  Cambodia Angkor Air (KH)              |            (To Do)                  | https://www.cambodiaangkorair.com                             |
+|  JCairLines (KH)                       |            (To Do)                  | https://www.jcairlines.com                                    |
+|  Lanmei Airlines (KH)                  |            (To Do)                  | http://lanmeiairlines.com                                     |
+|  Sky Angkor Airlines (KH)              |            (To Do)                  | http://skyangkorair.com                                       |
+|  Small Planet Airlines (KH)            |            (To Do)                  | https://www.smallplanet.aero                                  |
+|  Sky Angkor Airlines (KH)              |            (To Do)                  | http://skyangkorair.com                                       |
+|  Air China (CN)                        |            (To Do)                  | http://www.airchina.com                                       |
+|  China Eastern (CN)                    |            (To Do)                  | http://www.ceair.com                                          |
+|  China Express (CN)                    |            (To Do)                  | https://www.chinaexpressair.com                               |
+|  China Southern (CN)                   |            (To Do)                  | http://www.csair.com                                          |
+|  ChongGoing Airlines (CN)              |            (To Do)                  | http://www.chongqingairlines.cn                               |
+|  Hainan Airlines (CN)                  |            (To Do)                  | https://www.hainanairlines.com                                |
+|  Hebei Airlines (CN)                   |            (To Do)                  | http://www.hbhk.com.cn                                        |
+|  Capital Airlines (CN)                 |            (To Do)                  | http://www.jdair.net                                          |
+|  Donghai Airlines (CN)                 |            (To Do)                  | http://www.donghaiair.com                                     |
+|  JuneYao Air (CN)                      |            (To Do)                  | http://www.juneyaoair.com                                     |
+|  Kunming Airlines (CN)                 |            (To Do)                  | https://www.airkunming.com                                    |
+|  Lucky Air (CN)                        |            (To Do)                  | http://www.luckyair.net                                       |
+|  ShanDong Airlines (CN)                |            (To Do)                  | http://www.sda.cn                                             | 
+|  Shanzhen Airlines (CN)                |            (To Do)                  | http://www.shenzhenair.com                                    | 
+|  Tianjin Airlines (CN)                 |            (To Do)                  | http://www.tianjin-air.com                                    | 
+|  Tibet Airlines (CN)                   |            (To Do)                  | http://www.tibetairlines.com.cn                               | 
+|  Sichuan Airlines (CN)                 |            (To Do)                  | http://www.sichuanair.com                                     | 
+|  West Air (CN)                         |            (To Do)                  | http://www.westair.cn/portal/en                               | 
+|  Xiamen Air (CN)                       |            (To Do)                  | https://www.xiamenair.com/en-cn                               | 
+|  9 Air (CN)                            |            (To Do)                  | http://9air.com                                               | 
+|  Air Guilin (CN)                       |            (To Do)                  | http://www.airguilin.com                                      | 
+|  Air Changan (CN)                      |            (To Do)                  | http://www.airchangan.com                                     | 
+|  Colorful Guizhou Airlines (CN)        |            (To Do)                  | http://www.dcair.net                                          | 
+|  China United Airlines (CN)            |            (To Do)                  | http://www.flycua.com                                         | 
+|  Dalian Airlines (CN)                  |            (To Do)                  | http://www.dalianair-china.com                                | 
+|  GX Airlines (CN)                      |            (To Do)                  | http://www.gxairlines.com                                     | 
+|  Hongtu Redair (CN)                    |            (To Do)                  | http://www.redair.cn                                          | 
+|  Jiangxi Air (CN)                      |            (To Do)                  | http://www.airjiangxi.com/jiangxiair                          | 
+|  LJ Air (CN)                           |            (To Do)                  | http://www.longjianghk.com                                    | 
+|  Loong Air Air (CN)                    |            (To Do)                  | https://www.loongair.cn                                       | 
+|  Qingdao Airlines (CN)                 |            (To Do)                  | http://www.qdairlines.com                                     | 
+|  Fuzhou Airlines (CN)                  |            (To Do)                  | http://www.fuzhou-air.cn                                      | 
+|  Urumqi Air (CN)                       |            (To Do)                  | http://www.urumqi-air.com                                     | 
+|  Suparna YZR Airlines (CN)             |            (To Do)                  | http://www.yzr.com.cn                                         | 
+|  Cathay Pacific (HK)                   |            (To Do)                  | https://www.cathaypacific.com                                 | 
+|  Hongkong Airlines (HK)                |            (To Do)                  | http://www.hongkongairlines.com                               | 
+|  HK Express (HK)                       |            (To Do)                  | https://www.hkexpress.com                                     | 
+|  Air India (IN)                        |            (To Do)                  | http://www.airindia.com                                       | 
+|  Jet Airways (IN)                      |            (To Do)                  | https://www.jetairways.com/en/IN                              | 
+|  IndiGo (IN)                           |            (To Do)                  | https://www.goindigo.in                                       | 
+|  Air India Express (IN)                |            (To Do)                  | http://www.airindiaexpress.in                                 | 
+|  Spice Jet (IN)                        |            (To Do)                  | http://www.spicejet.com                                       | 
+|  Vistara Direct (IN)                   |            (To Do)                  | https://www.airvistara.com/trip                               | 
+|  TruJet (IN)                           |            (To Do)                  | https://www.trujet.com/ebooking                               | 
+|  Air Deccan (IN)                       |            (To Do)                  | https://airdeccan.co.in/en                                    | 
+|  Air Odisha (IN)                       |            (To Do)                  | https://www.airodisha.com/eng                                 | 
+|  LuWang Air (IN)                       |            (To Do)                  | http://www.luwangair.com                                      | 
+|  Zoom Air (IN)                         |            (To Do)                  | http://www.zoomair.in                                         | 
+|  Supreme Airlines (IN)                 |            (To Do)                  | https://supremeairlines.com                                   | 
+|  Taj Air (IN)                          |            (To Do)                  | http://www.tajaironline.com                                   | 
+|  Air Connect (IN)                      |            (To Do)                  | https://www.flyairconnect.com                                 | 
+|  Batik Air (ID)                        |            (To Do)                  | https://www.batikair.com/en                                   | 
+|  Citilink (ID)                         |            (To Do)                  | https://www.citilink.co.id                                    | 
+|  Garuda Indonesia (ID)                 |            (To Do)                  | https://www.garuda-indonesia.com                              | 
+|  Lion Air (ID)                         |            (To Do)                  | http://lionair.co.id                                          | 
+|  Sriwijaya Air (ID)                    |            (To Do)                  | https://sriwijayaair.co.id                                    |
+|  Susi Air (ID)                         |            (To Do)                  | http://susiair.com                                            |
+|  Trigana Air (ID)                      |            (To Do)                  | http://www.trigana-air.com                                    |
+|  Xpress Air (ID)                       |            (To Do)                  | http://www.xpressair.co.id                                    |
+|  Iran Air (IR)                         |            (To Do)                  | http://www.iranair.com/Portal/Home                            |
+|  Mahan Air (IR)                        |            (To Do)                  | https://www.mahan.aero                                        |
+|  Iran Aseman Airlines (IR)             |            (To Do)                  | http://www.iaa.ir                                             |
+|  Zagros Airlines (IR)                  |            (To Do)                  | https://www.zagrosairlines.com                                |
+|  Kish Airlines (IR)                    |            (To Do)                  | http://en.kishairlines.ir                                     |
+|  Qeshm Air (IR)                        |            (To Do)                  | https://www.qeshm-air.com                                     |
+|  Iran Air Tours (IR)                   |            (To Do)                  | http://iat.aero                                               |
+|  Caspian Airlines (IR)                 |            (To Do)                  | https://www.caspian.aero                                      |
+|  FlyBaghdad (IQ)                       |            (To Do)                  | http://www.flybaghdad.net/ar                                  |
+|  Iraqi Airways (IQ)                    |            (To Do)                  | https://iaw.gov.iq/ar                                         |
+|  Iraqi Airways (IQ)                    |            (To Do)                  | https://iaw.gov.iq/ar                                         |
+|  El Al (IL)                            |            (To Do)                  | https://www.elal.com                                          |
+|  Up Airlines (IL)                      |            (To Do)                  | http://www.flyup.com/en/                                      |
+|  Arkia Airlines (IL)                   |            (To Do)                  | https://www.arkia.com                                         |
+|  Israir irlines (IL)                   |            (To Do)                  | https://www.israir.co.il                                      |
+|  Ayit Aviation (IL)                    |            (To Do)                  | http://ayit.co.il                                             |
+|  Ana (JP)                              |            (To Do)                  | https://aswbe-i.ana.co.jp                                     |
+|  Japan Airlines (JP)                   |            (To Do)                  | https://www.jal.co.jp/en                                      |
+|  Peach (JP)                            |            (To Do)                  | http://www.flypeach.com/pc/en                                 |
+|  Air Transse (JP)                      |            (To Do)                  | http://www.airtransse.com                                     |
+|  Amakusa Airlines (JP)                 |            (To Do)                  | https://www.amx.co.jp                                         |
+|  Ana Wings (JP)                        |            (To Do)                  | http://www.anawings.co.jp                                     |
+|  Fuji Dream Airlines (JP)              |            (To Do)                  | http://www.fujidream.co.jp                                    |
+|  SkyMark Airlines (JP)                 |            (To Do)                  | http://www.skymark.co.jp/en                                   |
+|  Solaseed Air (JP)                     |            (To Do)                  | https://www.solaseedair.jp                                    |
+|  StarFlyer (JP)                        |            (To Do)                  | https://www.starflyer.jp                                      |
+|  Air Arabia (JO)                       |            (To Do)                  | http://www.airarabia.com/es                                   |
+|  Jordan Aviation (JO)                  |            (To Do)                  | http://www.jordanaviation.jo                                  |
+|  Jordan International (JO)             |            (To Do)                  | http://www.jiac.com.jo                                        |
+|  Royal Jordanian (JO)                  |            (To Do)                  | https://www.rj.com                                            |
+|  Royal Wings Jordanian (JO)            |            (To Do)                  | http://www.royalwings.com.jo                                  |
+|  Air Astana (KZ)                       |            (To Do)                  | https://airastana.com/global/en-us                            |
+|  Bek Air (KZ)                          |            (To Do)                  | https://www.bekair.aero/ru                                    |
+|  Scat Airlines (KZ)                    |            (To Do)                  | http://www.scat.kz/en                                         |
+|  Eastar Jet (KR)                       |            (To Do)                  | https://www.eastarjet.com                                     |
+|  Jeju Air (KR)                         |            (To Do)                  | http://www.jejuair.net/jejuair/en/main.do                     |
+|  Jing Air (KR)                         |            (To Do)                  | http://www.jinair.com                                         |
+|  Korean Air (KR)                       |            (To Do)                  | https://www.koreanair.com                                     |
+|  T Way (KR)                            |            (To Do)                  | https://www.twayair.com                                       |
+|  Air Seoul (KR)                        |            (To Do)                  | https://flyairseoul.com/CW/ko/main.do                         |
+|  Air Busan (KR)                        |            (To Do)                  | https://en.airbusan.com                                       |
+|  Kuwait Airways (KW)                   |            (To Do)                  | https://www.kuwaitairways.com/en                              |
+|  Jazeera (KW)                          |            (To Do)                  | http://www.jazeeraairways.com                                 |
+|  Wataniya (KW)                         |            (To Do)                  | https://www.wataniyaairways.com                               |
+|  Air Kyrgystan (KG)                    |            (To Do)                  | http://www.air.kg                                             |
+|  Avia Traffic (KG)                     |            (To Do)                  | https://www.aero.kg                                           |
+|  Max Avia (KG)                         |            (To Do)                  | http://www.max-avia.ru                                        |
+|  Air Manas (KG)                        |            (To Do)                  | https://www.airmanas.com                                      |
+|  Laos Skyway (LA)                      |            (To Do)                  | https://www.laoskyway.com                                     |
+|  Mea Lebanon (LB)                      |            (To Do)                  | https://www.mea.com.lb                                        |
+|  Air Macau (MO)                        |            (To Do)                  | http://www.airmacau.com.mo                                    |
+|  Fire Fly (MY)                         |            (To Do)                  | http://www.fireflyz.com.my                                    |
+|  Malindo Air (MY)                      |            (To Do)                  | https://www.malindoair.com                                    |
+|  Malaysia Airlines (MY)                |            (To Do)                  | https://www.malaysiaairlines.com                              |
+|  Mas Wings (MY)                        |            (To Do)                  | https://www.maswings.com.my                                   |
+|  Maldivian (MV)                        |            (To Do)                  | http://www.maldivian.aero                                     |
+|  FlyMe (MV)                            |            (To Do)                  | http://www.flyme.mv                                           |
+|  Aero Mongolia (MN)                    |            (To Do)                  | https://www.aeromongolia.mn                                   |
+|  Hunn Air (MN)                         |            (To Do)                  | https://www.hunnuair.com                                      |
+|  Miat Mongolian Airlines (MN)          |            (To Do)                  | http://www.miat.com                                           |
+|  Air KBZ                               |            (To Do)                  | http://www.airkbz.com                                         |
+|  Air Mandalay                          |            (To Do)                  | http://www.airmandalay.com                                    |
+|  Apex Airlines                         |            (To Do)                  | http://www.apexairline.com                                    |
+|  FMI Air                               |            (To Do)                  | http://www.fmiair.com                                         |
+|  Golden Myanmar Airlines               |            (To Do)                  | https://www.gmairlines.com                                    |
+|  Yadanarpon Airlines                   |            (To Do)                  | https://www.airmyp.com                                        |
+|  Myanmar National Airlines             |            (To Do)                  | http://flymna.com                                             |
+|  Myanmar Airways International         |            (To Do)                  | http://maiair.com                                             |
+|  Yangon Airways                        |            (To Do)                  | http://www.yangonair.com                                      |
+|  Nepal Airlines (NP)                   |            (To Do)                  | http://www.nepalairlines.com                                  |
+|  Saurya Airlines (NP)                  |            (To Do)                  | http://www.sauryaairlines.com                                 |
+|  Shree Airlines (NP)                   |            (To Do)                  | http://www.shreeairlines.com                                  |
+|  Simrik Airlines (NP)                  |            (To Do)                  | http://simrikairlines.com                                     |
+|  Summit Air (NP)                       |            (To Do)                  | https://www.summitair.com.np                                  |
+|  Tara Air (NP)                         |            (To Do)                  | http://www.taraair.com                                        |
+|  Yeti Airlines (NP)                    |            (To Do)                  | https://www.yetiairlines.com                                  |
+|  Buddha Air (NP)                       |            (To Do)                  | https://www.buddhaair.com                                     |
+|  Oman Air (OM)                         |            (To Do)                  | http://www.omanair.com/en                                     |
+|  Salam Air (OM)                        |            (To Do)                  | https://www.salamair.com                                      |
+|  Air Blue (PK)                         |            (To Do)                  | http://www.airblue.com                                        |
+|  Serene Air (PK)                       |            (To Do)                  | https://www.sereneair.com                                     |
+|  Shaheen (PK)                          |            (To Do)                  | https://shaheenair.com                                        |
+|  Cebu Pacific (PH)                     |            (To Do)                  | https://www.cebupacificair.com                                |
+|  Philippine Airlines (PH)              |            (To Do)                  | https://www.philippineairlines.com                            |
+|  Air Swift (PH)                        |            (To Do)                  | http://air-swift.com                                          |
+|  Pan Pacific Airlines (PH)             |            (To Do)                  | http://www.panpacificair.com                                  |
+|  Sky Pasada (PH)                       |            (To Do)                  | https://www.skypasada.com                                     |
+|  Qatar Airways (QA)                    |            (To Do)                  | https://www.qatarairways.com                                  |
+|  Fly Deal (SA)                         |            (To Do)                  | https://www.flyadeal.com/ar                                   |
+|  Fly Nas (SA)                          |            (To Do)                  | https://www.flynas.com/en                                     |
+|  SaidiGulf Airlines (SA)               |            (To Do)                  | http://www.saudigulfairlines.com                              |
+|  Nesma Airlines (SA)                   |            (To Do)                  | http://www.nesmaairlines.com                                  |
+|  Singaporr Airlines (SG)               |            (To Do)                  | https://www.singaporeair.com                                  |
+|  Silk Air (SG)                         |            (To Do)                  | http://www.silkair.com/en_UK                                  |
+|  Fly Scoot (SG)                        |            (To Do)                  | https://www.flyscoot.com/en                                   |
+|  SriLankan Airlines (LK)               |            (To Do)                  | https://www.srilankan.com                                     |
+|  Cham Wings (SY)                       |            (To Do)                  | https://chamwings.com                                         |
+|  Mandarin Airlines (TW)                |            (To Do)                  | https://www.mandarin-airlines.com                             |
+|  Tigerair Taiwan (TW)                  |            (To Do)                  | http://www.tigerairtw.com/en                                  |
+|  Uni Air Taiwan (TW)                   |            (To Do)                  | http://www.uniair.com.tw                                      |
+|  China Airlines (TW)                   |            (To Do)                  | https://www.china-airlines.com                                |
+|  Somon Air (TJ)                        |            (To Do)                  | https://www.somonair.com                                      |
+|  Tajik Air (TJ)                        |            (To Do)                  | http://www.tajikairlines.com/en                               |
+|  Bangkok Air (TH)                      |            (To Do)                  | http://www.bangkokair.com                                     |
+|  Thai Lion Air (TH)                    |            (To Do)                  | https://www.lionairthai.com/en                                |
+|  Thai Smile (TH)                       |            (To Do)                  | https://www.thaismileair.com                                  |
+|  VietJet (TH)                          |            (To Do)                  | https://www.vietjetair.com                                    |
+|  Thai Airwya (TH)                      |            (To Do)                  | https://www.thaiairways.com                                   |
+|  Orient Thai Airlines (TH)             |            (To Do)                  | http://www.flyorientthai.com                                  |
+|  Jet Asia (TH)                         |            (To Do)                  | http://www.flyjetasia.com                                     |
+|  Emirates (AE)                         |            (To Do)                  | https://www.emirates.com                                      |
+|  Etihad Airways (AE)                   |            (To Do)                  | https://flights.etihad.com                                    |
+|  Fly Dubai (AE)                        |            (To Do)                  | https://www.flydubai.com                                      |
+|  Uzbekistan Airways (UZ)               |            (To Do)                  | https://www.uzairways.com/en                                  |
+|  Vietnam Airlines (VN)                 |            (To Do)                  | https://www.vietnamairlines.com                               |
+|  VietJet Air (VN)                      |            (To Do)                  | https://www.vietjetair.com                                    |
+|  Yemenia Yemen Airways (YE)            |            (To Do)                  | https://yemenia.sita.aero/itd/itd                             |
+--- 
+
+
+
 
 <br />
 
