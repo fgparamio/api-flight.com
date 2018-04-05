@@ -461,6 +461,8 @@ go run vivacolombia_scraper.go
 |  Airabia (AE)                          |            (To Do)                  | http://www.airarabia.com                                      |
 --- 
 
+<br />
+
 | More Asia Airlines                     |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
 |  Aji Afghan Jet (AF)                   |            (To Do)                  | http://www.flyaji.com                                         |
@@ -663,20 +665,62 @@ go run vivacolombia_scraper.go
 --- 
 
 
-
-
 <br />
 
 
 | Oceania Low Cost Airlines              |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
-| JetStar (AT)                           |            (To Do)                  | https://www.jetstar.com                                       |
-| Virgin Australia (AT)                  |            (To Do)                  | https://www.virginaustralia.com                               |
+| JetStar (AU)                           |            (To Do)                  | https://www.jetstar.com                                       |
+| Virgin Australia (AU)                  |            (To Do)                  | https://www.virginaustralia.com                               |
 | Freedom Air (NZ)                       |            (To Do)                  | http://www.freedomair.co.za                                   |
 --- 
 
 <br />
 
+| More Oceania Airlines                  |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+| Airnorth AU)                           |            (To Do)                  | http://www.airnorth.com.au                                    |
+| Alliance Airlines (AU)                 |            (To Do)                  | http://www.allianceairlines.com.au                            |
+| Fly Corporate (AU)                     |            (To Do)                  | https://flycorporate.com.au                                   |
+| Pelican Fly (AU)                       |            (To Do)                  | http://www.flypelican.com.au/index.html                       |
+| Free Spirit Airlines (AU)              |            (To Do)                  | https://www.freespiritairlines.com.au                         |
+| Hinterland Aviation (AU)               |            (To Do)                  | https://www.hinterlandaviation.com.au                         |
+| Jet Go (AU)                            |            (To Do)                  | https://jetgo.com                                             |
+| Qantas (AU)                            |            (To Do)                  | https://www.qantas.com/us/en.html                             |
+| Freight Qantas (AU)                    |            (To Do)                  | https://freight.qantas.com                                    |
+| Regional Express (AU)                  |            (To Do)                  | http://www.rex.com.au                                         |
+| Sharp Airlines (AU)                    |            (To Do)                  | http://www.sharpairlines.com.au                               |
+| Skippers Reginal Airline (AU)          |            (To Do)                  | https://www.skippers.com.au                                   |
+| SkyTrans NestWing Aviation (AU)        |            (To Do)                  | http://www.skytrans.com.au                                    |
+| Tiger Australian (AU)                  |            (To Do)                  | https://tigerair.com.au                                       |
+| Air Rarotonga (CK)                     |            (To Do)                  | http://www.airraro.com/en                                     |
+| Fiji Airways (FJ)                      |            (To Do)                  | https://www.fijiairways.com                                   |
+| Northern Air Fiji (FJ)                 |            (To Do)                  | https://northernair.com.fj                                    |
+| Air Tahiti (PF)                        |            (To Do)                  | https://www.airtahiti.com                                     |
+| Air TahitiNui (PF)                     |            (To Do)                  | https://www.airtahitinui.com/us-en                            |
+| Solomon Airlines (KI)                  |            (To Do)                  | http://www.flysolomons.com                                    |
+| Air Marshall Islands (MH)              |            (To Do)                  | http://www.airmarshallislands.net                             |
+| Nauru Airlines (NR)                    |            (To Do)                  | http://www.nauruairlines.com.au                               |
+| Air Caledonie (NC)                     |            (To Do)                  | https://www.air-caledonie.nc                                  |
+| Aircalin (NC)                          |            (To Do)                  | https://di.aircalin.com/en                                    |
+| Air 2 There (NZ)                       |            (To Do)                  | http://www.air2there.com                                      |
+| Air Chathams (NZ)                      |            (To Do)                  | https://www.airchathams.co.nz                                 |
+| Barrier Air (NZ)                       |            (To Do)                  | https://www.barrierair.kiwi                                   |
+| Air New Zealand (NZ)                   |            (To Do)                  | https://www.airnewzealand.co.nz                               |
+| Originair (NZ)                         |            (To Do)                  | https://originair.co.nz                                       |
+| Sounds Air (NZ)                        |            (To Do)                  | https://www.soundsair.com                                     |
+| Stewart Island Flights (NZ)            |            (To Do)                  | https://www.stewartislandflights.co.nz                        |
+| Belau Air (PW)                         |            (To Do)                  | http://www.underwatercolours.com/belauair                     |
+| Air Niugini (PG)                       |            (To Do)                  | http://www.airniugini.com.pg                                  |
+| PNG Air (PG)                           |            (To Do)                  | http://www.pngair.com.pg/en                                   |
+| Talofa Airways (WS)                    |            (To Do)                  | https://www.talofaairways.com                                 |
+| Samoa  Airways (WS)                    |            (To Do)                  | https://samoaairways.booksecure.net/criteria.aspx             |
+| Real Tonga Airline (TO)                |            (To Do)                  | https://realtonga.to                                          |
+| Air Vanuatu (VU)                       |            (To Do)                  | https://www.airvanuatu.com                                    |
+--- 
+
+
+<br />
 
 | Africa Low Cost Airlines               |            Status                   |                               URL                             | 
 | :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
@@ -684,4 +728,11 @@ go run vivacolombia_scraper.go
 | Royal Air Maroc (MA)                   |            (To Do)                  | https://www.royalairmaroc.com                                 |
 | Kulula (ZA)                            |            (To Do)                  | http://www.kulula.com                                         |
 | 1Time (ZA)                             |            (To Do)                  | http://www.1time.co.za                                        |
+--- 
+
+<br />
+
+| More Africa Airlines                   |            Status                   |                               URL                             | 
+| :------------------------------------- |:-----------------------------------:| -------------------------------------------------------------:|
+| Jet4you (MA)                           |            (To Do)                  | http://www.jet4you.com                                        |
 --- 
