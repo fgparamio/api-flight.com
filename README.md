@@ -125,9 +125,8 @@ go run vivacolombia_scraper.go
 |  JetSmart (CL)                         |            (Done)                   | https://jetsmart.com                                          | 
 |  Star Peru (PE)                        |            (Done)                   | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
-|  AeroMexico  (MX)                      |            (To Do)                  | https://world.aeromexico.com                                  |
+|  AeroMexico  (MX)                      |            (Done)                   | https://world.aeromexico.com                                  |
 |  TAR Aerolíneas (MX)                   |            (To Do)                  | https://tarmexico.com                                         | 
-|  Viva Aerobus (MX)                     |            (To Do)                  | https://www.vivaaerobus.com/mx                                | 
 |  Flybondi (AR)                         |            (Done)                   | https://www.flybondi.com                                      |
 --- 
 
