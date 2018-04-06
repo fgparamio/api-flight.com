@@ -126,7 +126,7 @@ go run vivacolombia_scraper.go
 |  Star Peru (PE)                        |            (Done)                   | http://www.starperu.com                                       | 
 |  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (Done)                   | https://world.aeromexico.com                                  |
-|  TAR Aerolíneas (MX)                   |            (To Do)                  | https://tarmexico.com                                         | 
+|  TAR Aerolíneas (MX)                   |            (Done)                   | https://tarmexico.com                                         | 
 |  Flybondi (AR)                         |            (Done)                   | https://www.flybondi.com                                      |
 --- 
 
@@ -412,7 +412,6 @@ go run vivacolombia_scraper.go
 |  Lanhsa Honduras (HN)                  |            (To Do)                  | https://www.lanhsahn.com                                      | 
 |  Air Link (JM)                         |            (To Do)                  | http://www.intlairlink.net                                    | 
 |  Fly Jamaica (JM)                      |            (To Do)                  | http://www.fly-jamaica.com                                    | 
-|  Aeromar (MX)                          |            (To Do)                  | https://www.aeromar.com.mx                                    | 
 |  Magni Charters (MX)                   |            (To Do)                  | https://www.magnicharters.com                                 | 
 |  MAYAir (MX)                           |            (To Do)                  | http://www.mayair.com.mx                                      | 
 |  La Costeña (NI)                       |            (To Do)                  | https://lacostena.online.com.ni                               | 
