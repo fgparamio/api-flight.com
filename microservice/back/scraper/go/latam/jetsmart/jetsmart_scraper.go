@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -15,15 +17,9 @@ func main() {
 	err := bow.Open("https://booking.jetsmart.com/Flight/InternalSelect?" +
 		"o1=SCL&d1=LIM&dd1=2018-3-25&ADT=1&CHD=0&inl=0&r=true&s=true&mon=true&cur=CLP&pc=&dd2=2018-3-30")
 	// Check GET Request
-	checkError(err)
+	util.CheckError(err)
 	// Parse Example
 	bow.Dom().Find("div#js_availability_container").Each(func(_ int, s *goquery.Selection) {
 		fmt.Println(s.Html())
 	})
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

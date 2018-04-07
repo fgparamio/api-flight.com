@@ -1,11 +1,11 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"strings"
 
-	"github.com/jmoiron/jsonq"
+	"../../core/util"
+
 	"gopkg.in/headzoo/surf.v1"
 )
 
@@ -21,7 +21,7 @@ func main() {
 		"&vuelos_fecha_salida_ddmmaaaa=31/03/2018&vuelos_fecha_regreso_ddmmaaaa=14/04/2018&cabina=Y&nadults=1&nchildren=0&ninfants=0")
 
 	// Check GET Request
-	checkError(err)
+	util.CheckError(err)
 
 	var jsonReq = []byte(`{"language":"ES","country":"CO","portal":"personas","application":"compra_normal","section":"step2",
 		"cabin":"Y","adults":1,"children":0,"infants":0,"roundTrip":true,"departureDate":"2018-03-31","origin":"BOG",
@@ -30,18 +30,8 @@ func main() {
 	bow.Post("http://booking.lan.com/ws/booking/quoting/fares_availability/5.0/rest/get_availability", "application/json; charset=UTF-8",
 		strings.NewReader(string(jsonReq)))
 
-	data := map[string]interface{}{}
-	body := strings.Replace(bow.Body(), "&#34;", "\"", -1)
-	dec := json.NewDecoder(strings.NewReader(body))
-	dec.Decode(&data)
-	jq := jsonq.NewQuery(data)
+	jq := util.ToJSONQ(bow.Body())
 
 	exampleElement, _ := jq.Object("data", "itinerary", "routesMap")
 	fmt.Println("First Segment", exampleElement)
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

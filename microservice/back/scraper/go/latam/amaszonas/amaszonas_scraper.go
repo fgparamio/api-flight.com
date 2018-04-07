@@ -6,6 +6,8 @@ import (
 	"strings"
 	"time"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -16,7 +18,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	checkError(bow.Open("https://www.amaszonas.com/es-bo"))
+	util.CheckError(bow.Open("https://www.amaszonas.com/es-bo"))
 
 	bow.AddRequestHeader("Content-Type", "application/x-www-form-urlencoded")
 
@@ -36,7 +38,7 @@ func main() {
 	fm.Set("cabina", "Y")
 	fm.Set("tipoviaje", "2")
 
-	checkError(fm.Submit())
+	util.CheckError(fm.Submit())
 
 	bow.AddRequestHeader("Host", "reservas2.amaszonas.com")
 	bow.AddRequestHeader("Referer", "https://www.amaszonas.com/es-bo/")
@@ -67,12 +69,6 @@ func main() {
 	bow.Dom().Find("li.columna_origendestino").Each(func(_ int, s *goquery.Selection) {
 		fmt.Println(s.Html())
 	})
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }
 
 func getCC() string {

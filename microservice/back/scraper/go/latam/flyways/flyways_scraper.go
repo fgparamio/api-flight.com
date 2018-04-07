@@ -13,7 +13,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	fm := bow.Forms()[0] 
+	fm := bow.Forms()[0]
 	fm.Set("name", "0")
 	fm.Set("data_input_origin", "MEX")
 	fm.Set("data_input_destination", "CUN")
@@ -31,8 +31,6 @@ func main() {
 	fm.Set("txInfantValue", "0")
 	fm.Set("txPassportValue", "1")
 	fm.Set("dniValue", "0")
-
-
 
 	bow.Dom().Find("div#js_availability_container").Each(func(_ int, s *goquery.Selection) {
 		fmt.Println(s.Html())

@@ -5,6 +5,7 @@ import (
 	"regexp"
 	"strings"
 
+	"../../core/util"
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -15,10 +16,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	err := bow.Open("https://world.aeromexico.com/es/co/")
-	if err != nil {
-		panic(err)
-	}
+	util.CheckError(bow.Open("https://world.aeromexico.com/es/co/"))
 
 	// Outputs: "reddit: the front page of the internet"
 	fm, _ := bow.Form("form#flight")
@@ -33,7 +31,7 @@ func main() {
 	fm.Set("ch1", "0")
 	af, _ := fm.Value("af")
 
-	checkError(fm.Submit())
+	util.CheckError(fm.Submit())
 	modelData := getModelData(bow.Body())
 	fmt.Println(modelData)
 
@@ -44,13 +42,7 @@ func main() {
 	bow.Dom().Find("p.kdo-product--main-price").Each(func(_ int, s *goquery.Selection) {
 		fmt.Println(s.Html())
 	})
-			
-}
 
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }
 
 func getModelData(body string) string {

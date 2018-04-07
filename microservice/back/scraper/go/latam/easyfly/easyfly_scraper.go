@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"time"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -21,7 +23,7 @@ func main() {
 	bow.AddRequestHeader("Referer", "https://www.easyfly.com.co/webcheckin/oldcheckin")
 	bow.AddRequestHeader("Upgrade-Insecure-Requests", "1")
 
-	checkError(bow.Open("https://www.easyfly.com.co"))
+	util.CheckError(bow.Open("https://www.easyfly.com.co"))
 
 	bow.Open("https://www.easyfly.com.co/flights?origins=1&originsText=Bogot%C3%A1+%28BOG%29&multi=&destinations=27" +
 		"&originsTextReturn=Pereira+%28PEI%29&multiReturn=&flightType=1&departureDateEngine=31-03-2018" +
@@ -32,10 +34,4 @@ func main() {
 		fmt.Println(s.Html())
 	})
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

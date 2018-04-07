@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 
+	"../../core/util"
+
 	"gopkg.in/headzoo/surf.v1"
 )
 
@@ -11,7 +13,7 @@ func main() {
 	// Create a new browser and open reddit.
 	bow := surf.NewBrowser()
 
-	checkError(bow.Open("http://www.viajaconsol.com/ventas/index.php"))
+	util.CheckError(bow.Open("http://www.viajaconsol.com/ventas/index.php"))
 
 	bow.Open("http://www.viajaconsol.com/ventas/init.php?preset=1&origen_cod=4&destino_cod=3&fecha_ida=13/04/2018" +
 		"&fecha_vuelta=21/04/2018&adultos=1&ninos=0&bebes=0&incluye_vuelta=1&ahora_string=2018-03-22T11:06:54&width=932" +
@@ -24,10 +26,4 @@ func main() {
 
 	fmt.Println(bow.Dom().Html())
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

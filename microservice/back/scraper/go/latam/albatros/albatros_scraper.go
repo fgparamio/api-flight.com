@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -12,7 +14,7 @@ func main() {
 	// Create a new browser and open reddit.
 	bow := surf.NewBrowser()
 
-	checkError(bow.Open("https://albatrosair.aero"))
+	util.CheckError(bow.Open("https://albatrosair.aero"))
 
 	bow.Open("https://albatrosair.aero/reservas/busqueda.php?location_origin=CCS&location_destination=SJO" +
 		"&time_depart=2018-05-09&time_return=2018-05-16&pax_CNN=0&pax_ADT=1&pax_INF=0&is_roundtrip=1")
@@ -29,10 +31,4 @@ func main() {
 		fmt.Println(s.Html())
 	})
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

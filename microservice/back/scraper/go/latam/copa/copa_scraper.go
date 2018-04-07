@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"strings"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -15,7 +17,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	checkError(bow.Open("https://www.copaair.com/es/web"))
+	util.CheckError(bow.Open("https://www.copaair.com/es/web"))
 	authToken := getAuthToken(bow.Body())
 	fmt.Println("AuthToken", authToken)
 	bow.AddRequestHeader("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8")
@@ -59,7 +61,7 @@ func main() {
 	// bow.Open("https://www.copaair.com/api/jsonws/copa-flight-booking-portlet.route/get-route-operation-date/origin-code/BOG/destination-code/JFK?p_auth=" + authToken)
 	bow.Open("https://www.copaair.com/api/jsonws/copa-flight-booking-portlet.route/get-route-operation-date/origin-code/BOG/destination-code/JFK?p_auth=" + authToken)
 
-	checkError(fm.Submit())
+	util.CheckError(fm.Submit())
 
 	fmt.Println(bow.Body())
 
@@ -72,12 +74,6 @@ func main() {
 	bow.Dom().Find("td.colAirports").Each(func(_ int, s *goquery.Selection) {
 		fmt.Println(s.Html())
 	})
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }
 
 func getAuthToken(body string) string {

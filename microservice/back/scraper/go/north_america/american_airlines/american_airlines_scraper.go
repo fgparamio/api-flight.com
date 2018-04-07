@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 
+	"../../core/util"
+
 	"gopkg.in/headzoo/surf.v1"
 )
 
@@ -11,7 +13,7 @@ func main() {
 	// Create a new browser and open reddit.
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
-	checkError(bow.Open("https://www.americanairlines.es"))
+	util.CheckError(bow.Open("https://www.americanairlines.es"))
 
 	fm, _ := bow.Form("form#bookingModule")
 
@@ -61,13 +63,7 @@ func main() {
 	fm.Set("DISPLAY_TYPE", "2")
 	fm.Set("ARRANGE_BY", "ND")
 
-	checkError(fm.Submit())
+	util.CheckError(fm.Submit())
 
 	fmt.Println(bow.Body())
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

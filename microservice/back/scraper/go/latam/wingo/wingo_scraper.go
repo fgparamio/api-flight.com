@@ -1,11 +1,11 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"strings"
 
-	"github.com/jmoiron/jsonq"
+	"../../core/util"
+
 	"gopkg.in/headzoo/surf.v1"
 )
 
@@ -21,9 +21,7 @@ func main() {
 		"&roundTrip=true&useFlexDates=false&allInclusive=&promocode=" +
 		"&fareTypes=&currency=COP")
 
-	if err != nil {
-		panic(err)
-	}
+	util.CheckError(err)
 
 	bodyHTML := bow.Body()
 	securityToken := getSecurityToken(bodyHTML)
@@ -41,21 +39,11 @@ func main() {
 
 	bow.Post("https://www.wingo.com/Api/AvailablityRequest/Post", "application/json; charset=UTF-8", strings.NewReader(string(request)))
 
-	data := map[string]interface{}{}
-	body := strings.Replace(bow.Body(), "&#34;", "\"", -1)
-	dec := json.NewDecoder(strings.NewReader(body))
-	dec.Decode(&data)
-	jq := jsonq.NewQuery(data)
+	jq := util.ToJSONQ(bow.Body())
 
 	exampleElement, _ := jq.Object("Availability")
 	fmt.Println("Availability", exampleElement)
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }
 
 func getSecurityToken(body string) string {

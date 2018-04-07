@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"strings"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -14,7 +16,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	checkError(bow.Open("https://www.spirit.com/Default.aspx"))
+	util.CheckError(bow.Open("https://www.spirit.com/Default.aspx"))
 
 	bow.AddRequestHeader("Accept", "text/html,application/xhtml+xm…plication/xml;q=0.9,*/*;q=0.8")
 	bow.AddRequestHeader("Accept_Language", "es-US,es-419;q=0.9,es;q=0.8")
@@ -45,10 +47,4 @@ func main() {
 		fmt.Println(s.Html())
 	})
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

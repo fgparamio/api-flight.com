@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 
+	"../../core/util"
+
 	"github.com/PuerkitoBio/goquery"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -13,10 +15,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	err := bow.Open("https://www.volaris.com")
-	if err != nil {
-		panic(err)
-	}
+	util.CheckError(bow.Open("https://www.volaris.com"))
 
 	// Outputs: "reddit: the front page of the internet"
 
@@ -39,7 +38,7 @@ func main() {
 	fm.Set("txPassportValue", "1")
 	fm.Set("dniValue", "0")
 
-	checkError(fm.Submit())
+	util.CheckError(fm.Submit())
 
 	//fmt.Println(bow.Body())
 
@@ -48,10 +47,4 @@ func main() {
 		fmt.Println(s.Attr("data-converted-price"))
 	})
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }

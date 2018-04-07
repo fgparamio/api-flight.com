@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"strings"
 
+	"../../core/util"
+
 	"github.com/jmoiron/jsonq"
 	"gopkg.in/headzoo/surf.v1"
 )
@@ -15,10 +17,7 @@ func main() {
 	bow := surf.NewBrowser()
 	bow.SetUserAgent("Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36")
 
-	err := bow.Open("https://www.vivaair.com/pe")
-	if err != nil {
-		panic(err)
-	}
+	util.CheckError(bow.Open("https://www.vivaair.com/pe"))
 
 	// Outputs: "reddit: the front page of the internet"
 
@@ -38,7 +37,7 @@ func main() {
 	fm.Set("ReturnDateString", "2018-04-25")
 	fm.Set("ExactMonthDate", "exact")
 
-	checkError(fm.Submit())
+	util.CheckError(fm.Submit())
 
 	var jsonReq = []byte(`{"AvailType":"","searchType":"Week","Currency":"PEN","adults":"1","children":"0","infants":"0","fareDesignator":"",
 		"getFromState":false,"isChangeBooking":false,"minimumTotalAmountOut":null,"minimumTotalAmountIn":null,"SelectedPax":null,"culture":"en-US",
@@ -56,10 +55,4 @@ func main() {
 	exampleElement, _ := jq.Object("availabilityTemplate", "OutAvailability", "0", "FareData")
 	fmt.Println("FareData", exampleElement)
 
-}
-
-func checkError(err error) {
-	if err != nil {
-		panic(error.Error)
-	}
 }
