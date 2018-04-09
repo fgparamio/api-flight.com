@@ -180,7 +180,7 @@ go run vivacolombia_scraper.go
 |  Air Europa Express (ES)               |            (Done)                   | https://www.aireuropa.com                                     | 
 |  Fly Sas (EU)                          |            (To Do)                  | https://www.flysas.com                                        | 
 |  Iceland Air (IS)                      |            (To Do)                  | https://www.icelandair.com                                    | 
-|  Aer Lingus (IE)                       |            (To Do)                  | https://www.aerlingus.com                                     | 
+|  Aer Lingus (IE)                       |            (Done)                   | https://www.aerlingus.com                                     | 
 |  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
 |  Mistral Air (IT)                      |            (To Do)                  | https://www.mistralair.it/en                                  | 
 |  Air Italy (IT)                        |            (Doing)                  | https://www.airitaly.com/it-IT                                | 

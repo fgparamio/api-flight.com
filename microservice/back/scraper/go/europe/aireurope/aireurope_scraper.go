@@ -17,7 +17,7 @@ func main() {
 
 	bow.AddRequestHeader("Accept", "application/json, text/javascript, */*; q=0.01")
 	bow.AddRequestHeader("Authorization", "Bearer 8ca33423-2a82-4170-92d5-fcd043dcd83e")
-	bow.AddRequestHeader("Content-Type", "Bearer 8ca33423-2a82-4170-92d5-fcd043dcd83e")
+	bow.AddRequestHeader("Content-Type", "application/json;charset=UTF-8")
 	bow.AddRequestHeader("Referer", "https://www.aireuropa.com/es/vuelos/vuelos")
 	bow.AddRequestHeader("Host", "www.aireuropa.com")
 	bow.AddRequestHeader("market", "CO")
