@@ -224,7 +224,7 @@ go run vivacolombia_scraper.go
 |  Aigle Azur (FR)                       |            (To Do)                  | https://www.aigle-azur.com/                                   |
 |  Air Caraibes (FR)                     |            (To Do)                  | https://www.aircaraibes.com                                   |
 |  Air Corsica (FR)                      |            (To Do)                  | https://www.aircorsica.com                                    |
-|  Air France (FR)                       |            (To Do)                  | https://www.airfrance.com                                     |
+|  Air France (FR)                       |            (Doing)                  | https://www.airfrance.com                                     |
 |  Air Guyane (FR)                       |            (To Do)                  | http://www.airguyane.com                                      |
 |  Asl Airlines (FR)                     |            (To Do)                  | http://www.aslairlines.fr/en                                  |
 |  Atlas Atlantic Airlines (FR)          |            (To Do)                  | http://www.atlasatlantiqueairlines.com                        |
@@ -250,7 +250,7 @@ go run vivacolombia_scraper.go
 |  Aran Islands (IE)                     |            (To Do)                  | http://aerarannislands.ie                                     |
 |  Air Dolomiti (IT)                     |            (To Do)                  | https://www.airdolomiti.eu                                    |
 |  Alidaunia (IT)                        |            (To Do)                  | http://www.alidaunia.it                                       |
-|  Alitalia  (IT)                        |            (To Do)                  | https://www.alitalia.com/en_en                                |
+|  Alitalia  (IT)                        |            (Doing)                  | https://www.alitalia.com/en_en                                |
 |  Fly Ernest (IT)                       |            (To Do)                  | https://flyernest.com/en                                      |
 |  Neos (IT)                             |            (To Do)                  | https://www.neosair.it                                        |
 |  Air Baltic (LV)                       |            (To Do)                  | https://www.airbaltic.com                                     |

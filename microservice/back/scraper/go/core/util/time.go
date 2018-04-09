@@ -29,3 +29,8 @@ func MakeTimestampMilli() int64 {
 func StrTimestampMilli() string {
 	return strconv.FormatInt(MakeTimestampMilli(), 10)
 }
+
+// StrLargeTimestampMilli get current milliseconds in string
+func StrLargeTimestampMilli() string {
+	return strconv.FormatInt(time.Now().UnixNano()/1000, 10)
+}
