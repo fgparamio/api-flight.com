@@ -177,7 +177,7 @@ go run vivacolombia_scraper.go
 |  Tuifly (EU)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
-|  Air Europa Express (ES)               |            (To Do)                  | https://www.aireuropa.com                                     | 
+|  Air Europa Express (ES)               |            (Done)                   | https://www.aireuropa.com                                     | 
 |  Fly Sas (EU)                          |            (To Do)                  | https://www.flysas.com                                        | 
 |  Iceland Air (IS)                      |            (To Do)                  | https://www.icelandair.com                                    | 
 |  Aer Lingus (IE)                       |            (To Do)                  | https://www.aerlingus.com                                     | 
