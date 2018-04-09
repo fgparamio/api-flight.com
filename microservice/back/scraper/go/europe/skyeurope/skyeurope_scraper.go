@@ -24,10 +24,10 @@ func main() {
 	fm.Set("arrive", "BCN")
 	fm.Set("people", "1")
 	fm.Set("front_day", "09")
-	fm.Set("front_month", "04")
+	fm.Set("front_month", "05")
 	fm.Set("front_year", "2018")
 	fm.Set("back_day", "16")
-	fm.Set("back_month", "04")
+	fm.Set("back_month", "05")
 	fm.Set("sa", "0")
 	fm.Set("debug", "0")
 
@@ -35,7 +35,7 @@ func main() {
 
 	bow.Post("http://www.skyeurope.com/functions/ajax.php", "application/x-www-form-urlencoded; charset=UTF-8",
 		strings.NewReader("task=search&lang=en&start=MAD&arrive=BCN&people=1&front_day=09"+
-			"&front_month=04&front_year=2018&back_day=16&back_month=04&back_year=2018&sa=0&debug=0"))
+			"&front_month=05&front_year=2018&back_day=16&back_month=05&back_year=2018&sa=0&debug=0"))
 
 	fmt.Println(bow.Body())
 }

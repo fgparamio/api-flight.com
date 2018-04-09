@@ -1,13 +1,11 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"strings"
 
 	"../../core/util"
 
-	"github.com/jmoiron/jsonq"
 	"gopkg.in/headzoo/surf.v1"
 )
 
@@ -46,11 +44,7 @@ func main() {
 
 	bow.Post("https://www.vivaair.com/AsyncAvailability/SearchAsync", "application/json; charset=UTF-8", strings.NewReader(string(jsonReq)))
 
-	data := map[string]interface{}{}
-	body := strings.Replace(bow.Body(), "&#34;", "\"", -1)
-	dec := json.NewDecoder(strings.NewReader(body))
-	dec.Decode(&data)
-	jq := jsonq.NewQuery(data)
+	jq := util.ToJSONQ(bow.Body())
 
 	exampleElement, _ := jq.Object("availabilityTemplate", "OutAvailability", "0", "FareData")
 	fmt.Println("FareData", exampleElement)

@@ -124,7 +124,7 @@ go run vivacolombia_scraper.go
 |  Law -Latin American Wings (CL)        |            (Done)                   | https://www.vuelalaw.com                                      | 
 |  JetSmart (CL)                         |            (Done)                   | https://jetsmart.com                                          | 
 |  Star Peru (PE)                        |            (Done)                   | http://www.starperu.com                                       | 
-|  Rutas Aéreas de Venezuela (VE)        |            (To Do)                  | http://www.venezolana.aero                                    | 
+|  Rutas Aéreas de Venezuela (VE)        |            (Doing)                  | http://www.venezolana.aero                                    | 
 |  AeroMexico  (MX)                      |            (Done)                   | https://world.aeromexico.com                                  |
 |  TAR Aerolíneas (MX)                   |            (Done)                   | https://tarmexico.com                                         | 
 |  Flybondi (AR)                         |            (Done)                   | https://www.flybondi.com                                      |
@@ -151,7 +151,7 @@ go run vivacolombia_scraper.go
 |  Tame (EC)                             |            (Blocked)                | https://www.tame.com.ec                                       |
 |  Aserca Airlines (VE)                  |            (To Do)                  | http://www.asercaairlines.com                                 |
 |  Conviasa (VE)                         |            (To Do)                  | http://portal.conviasa.aero                                   |
-|  Avior Airlines (VE)                   |            (To Do)                  | https://www.aviorair.com                                      |
+|  Avior Airlines (VE)                   |            (Doing)                  | https://www.aviorair.com                                      |
 |  Rutaca Airlines (VE)                  |            (To Do)                  | https://www.flyrutaca.com:506                                 |
 |  Venezolana Aero (VE)                  |            (To Do)                  | http://www.venezolana.aero                                    |
 |  Laser Airlines                        |            (To Do)                  | https://www.laserairlines.com                                 |
@@ -167,9 +167,9 @@ go run vivacolombia_scraper.go
 |  Ryanair (EU)                          |            (Done)                   | https://www.ryanair.com                                       |
 |  SkyEurope (BG)                        |            (Done)                   | http://www.skyeurope.com/                                     | 
 |  Wizz Air (EU)                         |            (Done)                   | https://wizzair.com/                                          | 
-|  EasyJet (EU)                          |            (Done)                   | https://www.easyjet.com                                       |
-|  Iberia Express (ES)                   |            (Doing)                  | https://www.iberiaexpress.com                                 | 
-|  Smart Wings (CZ)                      |            (Doing)                  | https://www.smartwings.com/                                   |
+|  EasyJet (EU)                          |            (Doing)                  | https://www.easyjet.com                                       |
+|  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
+|  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   |
 |  Vueling (ES)                          |            (Done)                   | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  Dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
@@ -183,10 +183,10 @@ go run vivacolombia_scraper.go
 |  Aer Lingus (IE)                       |            (To Do)                  | https://www.aerlingus.com                                     | 
 |  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
 |  Mistral Air (IT)                      |            (To Do)                  | https://www.mistralair.it/en                                  | 
-|  Air Italy (IT)                        |            (To Do)                  | https://www.airitaly.com/it-IT                                | 
+|  Air Italy (IT)                        |            (Doing)                  | https://www.airitaly.com/it-IT                                | 
 |  BravoFly (AU)                         |            (To Do)                  | http://www.bravofly.com.au/flights                            | 
 |  Transavia (NL)                        |            (To Do)                  | https://www.transavia.com/nl-NL/home                          | 
-|  Norwegian (NO)                        |            (To Do)                  | https://www.norwegian.com                                     |
+|  Norwegian (NO)                        |            (Done)                   | https://www.norwegian.com                                     |
 |  Direct Fly (PL)                       |            (To Do)                  | http://directfly.cz                                           |
 |  Enter Air (PL)                        |            (To Do)                  | http://www.enterair.pl                                        |
 |  Blue Air (RO)                         |            (To Do)                  | https://www.blueairweb.com/en/gb                              |
