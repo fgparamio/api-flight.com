@@ -176,6 +176,8 @@ go run vivacolombia_scraper.go
 |  Blue Panorama (IT)                    |            (Done)                   | https://www.blue-panorama.com                                 | 
 |  Norwegian (NO)                        |            (Done)                   | https://www.norwegian.com                                     |
 |  Eurowings (DE)                        |            (Done)                   | https://www.eurowings.com                                     |
+|  Atlas Global (TR)                     |            (Done)                   | https://www.atlasglb.com/en                                   |
+|  Pegasus Airlines (TR)                 |            (Done)                   | https://www.flypgs.com/en                                     |
 |  EasyJet (EU)                          |            (Doing)                  | https://www.easyjet.com                                       |
 |  Air Italy (IT)                        |            (Doing)                  | https://www.airitaly.com/it-IT                                | 
 |  Iberia Express (ES)                   |            (To Do)                  | https://www.iberiaexpress.com                                 | 
@@ -195,9 +197,7 @@ go run vivacolombia_scraper.go
 |  Fly Me (SE)                           |            (To Do)                  | http://www.flyme.mv                                           |
 |  Helvetic (CH)                         |            (To Do)                  | https://www.helvetic.com                                      |
 |  Anadolu Jet (TR)                      |            (To Do)                  | https://www.anadolujet.com/tr                                 |
-|  Atlas Global (TR)                     |            (To Do)                  | https://www.atlasglb.com/en                                   |
 |  Corendon Airlines (TR)                |            (To Do)                  | https://www.corendonairlines.com                              |
-|  Pegasus Airlines (TR)                 |            (To Do)                  | https://www.flypgs.com/en                                     |
 |  Jet2 com (UK)                         |            (To Do)                  | https://www.jet2.com                                          |
 |  Fly BMI (UK)                          |            (To Do)                  | https://www.flybmi.com/                                       |
 --- 

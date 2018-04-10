@@ -1,0 +1,3361 @@
+
+<link rel="stylesheet" href="/Assets/Web/build/assets/layerslider/css/layerslider.css" type="text/css"/>
+<div id="sb-site">
+<div class="general-overlay"></div>
+<div class="search-flights-overlay"></div>
+<div class="main-header-container nxm-login-disabled">
+<header class="header">
+<div class="header__top">
+<div class="pgs-wrap clearfix">
+<a href="/" title="Ucuz Uçak Bileti" class="header__logo plain"></a>
+<div class="header__left-top-wrapper">
+<ul class="header__left-top-menu clearfix">
+<li class="home"><a href="/"><i class="icon icon--home-white"></i></a></li>
+<li>
+<a href="javascript:;" rel="nofollow" data-fancybox-href="/Newsletter/Register" title="HABERDAR OL" data-opts="{&#34;wrapCSS&#34;: &#34;fancybox--newslatter&#34;,&#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:true,&#34;closeBtn&#34;:false}" class="js-fancybox nxm-header-newsletter">
+<i class="icon icon--newsletter"></i><span class="nxm-hm-1">HABERDAR OL</span>
+</a>
+</li>
+<li>
+<a href="/iletisim/bize-yazin" title="BİZE YAZIN">
+<i class="icon icon--mail"></i><span class="nxm-hm-2">BİZE YAZIN</span>
+</a>
+</li>
+<li>
+<a href="https://book.flypgs.com/Common/ActualFlightList.jsp?activeLanguage=TR" rel="nofollow" title="KALKIŞ-VARIŞ">
+<i class="icon icon--clock"></i><span class="nxm-hm-3">KALKIŞ-VARIŞ</span>
+</a>
+</li>
+</ul>
+<a href="javascript:;" title="Menü" class="header__mobile-menu-toggle sb-toggle-left"></a>
+</div>
+<div class="header__right-top-wrapper pull-right nxm-login-mobile-parent">
+<div class="header__language js-language">
+<select class="select2 select2--language js-select js-select--mobile" data-opts="{ &#34;theme&#34;: &#34;language&#34;, &#34;templateResult&#34;: true, &#34;minimumResultsForSearch&#34;: &#34;Infinity&#34;}">
+<option value="TR" data-url="/" selected="selected"> Türkçe</option>
+<option value="EN" data-url="/en"> English</option>
+<option value="DE" data-url="/de"> Deutsch</option>
+<option value="FR" data-url="/fr"> Français</option>
+<option value="RU" data-url="/ru"> Русский</option>
+<option value="NL" data-url="/nl"> Nederlands</option>
+<option value="DA" data-url="/da"> Dansk</option>
+<option value="IT" data-url="/it"> Italiano</option>
+<option value="SV" data-url="/sv"> Svenska</option>
+<option value="ES" data-url="/es"> Español</option>
+</select>
+</div>
+<div class="header__pegasus-plus-block">
+<a href="javascript:;" class="icon icon--plus-c js_pgs-plus-block-trigger"></a>
+<div class="pgs-plus-popover">
+<a href="#" class="icon icon--modal-close popover-close"></a>
+<img class="pgs-plus-img" src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/plus/pgs-plus.png" alt="Pegasus Plus ile giriş yap, avantajlardan yararlanmaya başla!"/>
+Pegasus Plus ile giriş yap, avantajlardan yararlanmaya başla!
+</div>
+<div class="header__pegasus-plus-block-target">
+<section class="header__plus-bar js-pegasus-plus">
+<div class="clearfix header__plus-bar__top">
+<i class="icon icon--plus pull-left"></i>
+<a class="header__plus-bar-title" href="/pegasus-plus">PEGASUS PLUS</a>
+<a class="header__plus-bar-review" href="https://book.flypgs.com/Common/LoginMember.jsp?activeLanguage=TR" title="Üye Girişi">Üye Girişi</a>
+</div>
+<ul class="header__plus-bar-promo">
+<li class="header__plus-bar-promo-item is-dark">
+<img src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/plus/visual-1.png" alt="Pegasus Plus’ın avantajlarla dolu dünyasına hoş geldin!" class="header__plus-bar-promo-img"/>
+<div class="header__plus-bar-promo-title">Pegasus Plus’ın avantajlarla dolu dünyasına hoş geldin!</div>
+<p class="header__plus-bar-promo-text has-icon p-l-25 m-v-15 js-slideshow">
+<i class="icon icon--plus"></i>
+<span class="slide-item">Bol Bol UçuşPuan Kazan!</span>
+</p>
+<a href="/pegasus-plus" title="KEŞFET" class="button button--orange button--sm">
+<span class="v-a-mid inline-block text-semibold m-r-5">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</li>
+<li class="header__plus-bar-promo-item is-darker">
+<img src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/plus/visual-2.png" alt="Pegasus Plus Kart" class="header__plus-bar-promo-img"/>
+<div class="header__plus-bar-promo-title">Pegasus Plus Kart</div>
+<p class="header__plus-bar-promo-text m-v-15">
+Günlük harcamalarını Pegasus Plus Kart’la yap, kazandığın UçuşPuan’larla bedava bilet kazan!
+</p>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ing-bank-pegasus-plus-kredi-karti" title="KEŞFET" class="button button--orange button--sm">
+<span class="v-a-mid inline-block text-semibold m-r-5">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</li>
+</ul>
+</section>
+</div>
+</div>
+<div class="header__search-area">
+<a href="javascript:;" rel="nofollow" title="Ara" class="header__search-button search search-open js-search-trigger"></a>
+<div class="header__search-container">
+<form action="/" name="search" method="GET" id="search-form" data-options="{&#34;searchUrl&#34;: &#34;/arama&#34;}">
+<input id="key" name="key" type="hidden" value="frm2134"/>
+<input class="input" type="text" placeholder="flypgs.com&#39;da ara.."/>
+<button class="go-search"></button>
+</form>
+</div>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.flypgs.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.flypgs.com/arama/{query}",
+"query-input": {
+"@type": "PropertyValueSpecification",
+"valueRequired": true,
+"valueMaxlength": 100,
+"valueName": "query"
+}
+}
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="header__bot hidden-xs hidden-sm ">
+<div class="pgs-wrap">
+<div class="row no-gutter">
+<div class="col-md-9">
+<ul class="header__menu clearfix">
+<li><a href="/kampanyali-ucak-biletleri">KAMPANYALAR</a></li>
+<li data-megamenu="#pegasus-seyahat">
+<a href="/seyahat-hizmetlerimiz">
+<i class="icon icon--plane"></i>
+<span class="has-icon">SEYAHAT HİZMETLERİMİZ</span>
+</a>
+<i class="icon icon--arrow-megamenu"></i>
+</li>
+<li><a href="/bilet-islemleri">BİLET İŞLEMLERİM</a></li>
+<li data-megamenu="#faydali-bilgiler">
+<a href="javascript:;" rel="nofollow">FAYDALI BİLGİLER</a>
+<i class="icon icon--arrow-megamenu"></i>
+</li>
+<li data-megamenu="#menu-desinations">
+<a href="javascript:;" rel="nofollow">DESTİNASYONLAR</a>
+<i class="icon icon--arrow-megamenu"></i>
+</li>
+</ul>
+</div>
+<div class="col-md-3">
+<section id="nxm-login-container" data-region="">
+<section class="header__plus-bar js-pegasus-plus">
+<div class="clearfix header__plus-bar__top">
+<i class="icon icon--plus pull-left"></i>
+<a class="header__plus-bar-title" href="/pegasus-plus">PEGASUS PLUS</a>
+<a class="header__plus-bar-review" href="https://book.flypgs.com/Common/LoginMember.jsp?activeLanguage=TR" title="Üye Girişi">Üye Girişi</a>
+</div>
+<ul class="header__plus-bar-promo">
+<li class="header__plus-bar-promo-item is-dark">
+<img src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/plus/visual-1.png" alt="Pegasus Plus’ın avantajlarla dolu dünyasına hoş geldin!" class="header__plus-bar-promo-img"/>
+<div class="header__plus-bar-promo-title">Pegasus Plus’ın avantajlarla dolu dünyasına hoş geldin!</div>
+<p class="header__plus-bar-promo-text has-icon p-l-25 m-v-15">
+<i class="icon icon--plus"></i>
+<span class="slide-item">Bol Bol UçuşPuan Kazan!</span>
+</p>
+<a href="/pegasus-plus" title="KEŞFET" class="button button--orange button--sm">
+<span class="v-a-mid inline-block text-semibold m-r-5">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</li>
+<li class="header__plus-bar-promo-item is-darker">
+<img src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/plus/visual-2.png" alt="Pegasus Plus Kart" class="header__plus-bar-promo-img"/>
+<div class="header__plus-bar-promo-title">Pegasus Plus Kart</div>
+<p class="header__plus-bar-promo-text m-v-15">
+Günlük harcamalarını Pegasus Plus Kart’la yap, kazandığın UçuşPuan’larla bedava bilet kazan!
+</p>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ing-bank-pegasus-plus-kredi-karti" title="KEŞFET" class="button button--orange button--sm">
+<span class="v-a-mid inline-block text-semibold m-r-5">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</li>
+</ul>
+<div class="pgs-plus-popover">
+<a href="javascript:;" class="icon icon--modal-close popover-close"></a>
+<img class="pgs-plus-img" src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/plus/pgs-plus.png" alt="Pegasus Plus ile giriş yap, avantajlardan yararlanmaya başla!"/>
+Pegasus Plus ile giriş yap, avantajlardan yararlanmaya başla!
+</div>
+</section>
+</section>
+</div>
+</div>
+</div>
+<div class="mega-menu js-megamenu homepage">
+<div class="mega-menu__wrap" id="pegasus-seyahat">
+<div class="pgs-wrap">
+<div class="t t--fixed">
+<div class="t__row">
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--star"></i>
+</span>
+<span>Uçuş ile İlgili Hizmetlerimiz</span>
+</h3>
+<ul class="mega-menu__list p-l-40">
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/koltuk-secimi" title="Koltuk Seçimi">Koltuk Seçimi</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/online-yemek-siparisi" title="Online Yemek Siparişi">Online Yemek Siparişi</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/bagaj-hakki-satisi" title="Bagaj Hakkı Satışı">Bagaj Hakkı Satışı</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/ek-hizmetler" title="Ek Hizmetler">Ek Hizmetler</a>
+</li>
+</ul>
+</div>
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--plane-a"></i>
+</span>
+<span>Diğer Seyahat Hizmetlerimiz</span>
+</h3>
+<ul class="mega-menu__list p-l-40">
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ucus-paketleri" title="Uçuş Paketleri">Uçuş Paketleri</a>
+</li>
+<li>
+<a href="https://cars.flypgs.com/?clientID=745248&amp;lang=tr" title="Araç Kiralama" target="_blank" rel="nofollow">Araç Kiralama</a>
+</li>
+<li>
+<a href="http://hotels.flypgs.com//index.html?aid=337919&amp;label=pgs-navigation-menu&amp;lang=tr&amp;selected_currency=TRY" title="Otel Rezervasyonu" target="_blank" rel="nofollow">Otel Rezervasyonu</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/pegasus-flex" title="Pegasus Flex">Pegasus Flex</a>
+</li>
+<li>
+<a href="https://vize.flypgs.com/" title="Kolay Vize" target="_blank" rel="nofollow">Kolay Vize</a>
+</li>
+<li>
+<a href="/dubai-vize-islemleri" title="Abu Dhabi - Dubai Vize İşlemleri">Abu Dhabi - Dubai Vize İşlemleri</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/havaalani-ulasim" title="Havaalanı Ulaşım">Havaalanı Ulaşım</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/isg-lounge" title="ISG Lounge">ISG Lounge</a>
+</li>
+<li>
+<a href="http://parking.flypgs.com/tr-TR?utm_medium=referral&amp;utm_source=pegasus&amp;utm_campaign=side-banner&amp;identifier=" title="Online Otopark Rezervasyonu" target="_blank" rel="nofollow">Online Otopark Rezervasyonu</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ing-bank-pegasus-plus-kredi-karti" title="ING Bank Pegasus Plus Kredi Kartı">ING Bank Pegasus Plus Kredi Kartı</a>
+</li>
+<li>
+<a href="https://book.flypgs.com/Common/LoginMember.jsp" title="Üye Girişi" target="_blank" rel="nofollow">Üye Girişi</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/fast-track" title="Hızlı Geçiş (Fast Track)">Hızlı Geçiş (Fast Track)</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/gulf-seyahat-sigortasi" title="Gulf Seyahat Sigortası">Gulf Seyahat Sigortası</a>
+</li>
+<li>
+<a href="/tur-ve-etkinlik-rezervasyonu" title="Tur ve Etkinlik Rezervasyonu">Tur ve Etkinlik Rezervasyonu</a>
+</li>
+</ul>
+</div>
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--seated"></i>
+</span>
+<span>Atlayıp Gitsem Diyorsan</span>
+</h3>
+<ul class="mega-menu__list p-l-40">
+<li>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/sehirler" title="Şehirler">Şehirler</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/etkinlik-takvimi" title="Etkinlik Takvimi">Etkinlik Takvimi</a>
+</li>
+<li>
+<a href="http://blog.flypgs.com/" title="Pegasus Blog" target="_blank">Pegasus Blog</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/pegasus-mobil-uygulamalari" title="Pegasus Mobil Uygulamaları">Pegasus Mobil Uygulamaları</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="mega-menu__wrap p-b-80" id="faydali-bilgiler">
+<div class="pgs-wrap">
+<div class="t t--fixed mega-menu__twocell">
+<div class="t__row">
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--question"></i>
+</span>
+<span>Uçuşun için Bilgiler</span>
+</h3>
+<ul class="mega-menu__list p-l-40">
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/genel-kurallar" title="Genel Kurallar">Genel Kurallar</a>
+</li>
+<li>
+<a href="/check-in" title="Check-in">Check-in</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/ucus-noktalari" title="Uçuş Noktaları">Uçuş Noktaları</a>
+</li>
+ <li>
+<a href="https://book.flypgs.com/Common/ActualFlightList.jsp?activeLanguage=TR" title="Kalkış - Varış Bilgileri" target="_self" rel="nofollow">Kalkış - Varış Bilgileri</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/havalimanlari-online-check-in-uygunluklari" title="Havalimanları Online Check-in Uygunlukları">Havalimanları Online Check-in Uygunlukları</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/mobil-binis-karti-barkod-nedir" title="Mobil Biniş Kartı (Barkod) Nedir?">Mobil Biniş Kartı (Barkod) Nedir?</a>
+</li>
+<li>
+<a href="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=PC" title="Bagaj Takip" target="_blank" rel="nofollow">Bagaj Takip</a>
+</li>
+<li>
+<a href="https://book.flypgs.com/Common/ScheduledFlightList.jsp?activeLanguage=TR&amp;" title="Uçuş Tarifesi" target="_blank" rel="nofollow">Uçuş Tarifesi</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/seyahat-dokumanlari-kontrolu-timatic-web" title="Seyahat Dökümanları Kontrolü (Timatic)">Seyahat Dökümanları Kontrolü (Timatic)</a>
+</li>
+<li>
+<a href="/transit-ucuslarda-ne-yapmalisin" title="Transit Uçuşlarda Ne Yapmalısın?">Transit Uçuşlarda Ne Yapmalısın?</a>
+</li>
+</ul>
+</div>
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--dots"></i>
+</span>
+<span>Diğer Bilgiler</span>
+</h3>
+<ul class="mega-menu__list p-l-40">
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/is-seyahati" title="İş Seyahati">İş Seyahati</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/aile-ile-seyahat" title="Aile ile Seyahat">Aile ile Seyahat</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/yardim-gereksinimi-olan-misafirler" title="Yardım Gereksinimi Olan Misafirler">Yardım Gereksinimi Olan Misafirler</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/yolcu-haklari" title="Yolcu Hakları">Yolcu Hakları</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/ozel-hizmet-ekipman-tasima-ucretleri" title="Özel Hizmet / Ekipman Taşıma Ücretleri">Özel Hizmet / Ekipman Taşıma Ücretleri</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/havalimani-bilgileri" title="Havalimanı Bilgileri">Havalimanı Bilgileri</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/islem-rehberi" title="İşlem Rehberi">İşlem Rehberi</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/sikca-sorulan-sorular" title="Sıkça Sorulan Sorular">Sıkça Sorulan Sorular</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/zamaninda-kalkis-performansi" title="Zamanında Kalkış Performansı">Zamanında Kalkış Performansı</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/e-bulten-iptal" title="E-Bülten İptal">E-Bülten İptal</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mega-menu__wrap" id="menu-desinations">
+<div class="pgs-wrap">
+<div class="t t--fixed">
+<div class="t__row">
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--domestic"></i>
+</span>
+<span>Yurt İçi</span>
+</h3>
+<ul class="list list--yellow list--mt30">
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/antalya-ucak-bileti">Antalya Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/bodrum-mugla-ucak-bileti">Bodrum Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/izmir-ucak-bileti">İzmir Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/ankara-ucak-bileti">Ankara Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/dalaman-ucak-bileti">Dalaman Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/trabzon-ucak-bileti">Trabzon Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/ankara-cikisli-bodrum-mugla-ucak-bileti">Ankara - Bodrum Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/adana-cikisli-trabzon-ucak-bileti">Adana - Trabzon Uçak Bileti</a></li>
+</ul>
+</div>
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--abroad"></i>
+</span>
+<span>Yurt Dışı</span>
+</h3>
+<ul class="list list--yellow list--mt30">
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/viyana-ucak-bileti">Viyana Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/munih-ucak-bileti">Münih Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/dubai-ucak-bileti">Dubai Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/stuttgart-ucak-bileti">Stuttgart Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/prag-ucak-bileti">Prag Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/moskova-ucak-bileti">Moskova Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/atina-ucak-bileti">Atina Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/zurih-ucak-bileti">Zürih Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/beyrut-ucak-bileti">Beyrut Uçak Bileti</a></li>
+</ul>
+</div>
+<div class="t__cell t__cell--top">
+<h3 class="mega-menu__title m-b-15">
+<span class="mega-menu__title--i-wrap">
+<i class="icon icon--popular"></i>
+</span>
+<span>Popüler Destinasyonlar</span>
+</h3>
+<ul class="list list--yellow list--mt30">
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/amsterdam-ucak-bileti">Amsterdam Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/milano-ucak-bileti">Milan Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/paris-ucak-bileti">Paris Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/tel-aviv-ucak-bileti">Tel Aviv Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/roma-ucak-bileti">Roma Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/berlin-ucak-bileti">Berlin Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/koln-ucak-bileti">Köln Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/londra-ucak-bileti">Londra Uçak Bileti</a></li>
+<li><a target="_blank" rel="noopener" href="https://flights.flypgs.com/tr/belgrad-ucak-bileti">Belgrad Uçak Bileti</a></li>
+</ul>
+</div>
+</div>
+<a href="https://flights.flypgs.com/tr/" target="_blank" rel="noopener" class="all-flg-header">
+Tüm Uçuşlar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+<section id="zone-27004" class="zone ">
+<section id="widget-27014" class="widget">
+<div class="layerSlider-wrapper">
+<div id="layerslider" class="pgs-slider has-shadow" style="width:100%; height:620px; z-index: 0;">
+<div class="ls-slide pgs-slider__item" data-ls="duration:8000; transition2d:104; kenburnsscale:1.2; parallaxtype:2d;" style="background-color:#bee1da;">
+<!-- Desktop Begins Here -->
+<div class="ls-l" style="top:130%; left: 80%; width:347px;" data-ls="
+durationin:100;
+delayin:100;
+fadein:false;
+fadeout:false;
+durationout:7500;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="cloud cloud-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/cloud-1.png" alt=""/>
+</div>
+</div>
+<div class="ls-l" style="top:130%; left: 60%; width:136px;" data-ls="
+durationin:100;
+delayin:100;
+fadein:false;
+fadeout:false;
+durationout:9000;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="cloud cloud-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/cloud-2.png" alt=""/>
+</div>
+</div>
+<div class="ls-l" style="top:130%; left: 17%; width:347px;" data-ls="
+durationin:100;
+delayin:300;
+fadein:false;
+fadeout:false;
+durationout:9000;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="cloud cloud-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/cloud-1.png" alt=""/>
+</div>
+</div>
+<div class="ls-l" style="top:130%; left: 30%; width:136px;" data-ls="
+durationin:100;
+delayin:300;
+fadein:false;
+fadeout:false;
+durationout:9000;
+startatout:transitioninend + 0;
+offsetyout:top;
+ easingout:linear;
+">
+<div class="cloud cloud-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/cloud-2.png" alt=""/>
+</div>
+</div>
+<!-- Left -->
+<div class="ls-l ls-hide-phone" style="top:180%; left: 10%; width:214px;" data-ls="
+durationin:100;
+delayin:100;
+fadein:false;
+fadeout:false;
+durationout:9100;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+parallax:true;
+parallaxlevel:-2;
+">
+<div class="frame frame-1">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-1.png" alt=""/>
+<div class="text-wrap">
+<span>30%</span>
+</div>
+<div class="image-wrap">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-3-image.jpg" alt=""/>
+</div>
+</div>
+</div>
+<div class="ls-l" style="top:140%; left: 20%; width:100px;" data-ls="
+durationin:100;
+delayin:1300;
+fadein:false;
+fadeout:false;
+durationout:2200;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="frame frame-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-2.png" alt=""/>
+<div class="image-wrap">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-4-image.jpg" alt=""/>
+</div>
+</div>
+</div>
+<div class="ls-l" style="top:130%; left: 17%; width:100px;" data-ls="
+durationin:100;
+delayin:300;
+fadein:false;
+fadeout:false;
+durationout:4200;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="frame frame-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-2.png" alt=""/>
+<div class="image-wrap">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-5-image.jpg" alt=""/>
+</div>
+</div>
+</div>
+<!-- Right -->
+<div class="ls-l" style="top:170%; left: 93%; width:214px;" data-ls="
+durationin:100;
+delayin:1500;
+fadein:false;
+fadeout:false;
+durationout:8200;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="frame frame-1">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-1.png" alt=""/>
+<div class="text-wrap">
+<span>30%</span>
+</div>
+<div class="image-wrap">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-1-image.jpg" alt=""/>
+</div>
+</div>
+</div>
+<div class="ls-l" style="top:180%; left: 75%; width:214px;" data-ls="
+durationin:100;
+delayin:100;
+fadein:false;
+fadeout:false;
+durationout:5200;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+parallax:true;
+parallaxlevel:-3;
+">
+<div class="frame frame-1">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-1.png" alt=""/>
+<div class="text-wrap">
+<span>30%</span>
+</div>
+<div class="image-wrap">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-1-image.jpg" alt=""/>
+</div>
+</div>
+</div>
+<div class="ls-l ls-hide-phone" style="top:100%; left: 85%; width:100px;" data-ls="
+durationin:100;
+delayin:300;
+fadein:false;
+fadeout:false;
+durationout:8500;
+startatout:transitioninend + 0;
+offsetyout:top;
+easingout:linear;
+">
+<div class="frame frame-2">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-2.png" alt=""/>
+<div class="image-wrap">
+<img src="/Assets/Web/build/assets/images/animate-slider-4/frame-2-image.jpg" alt=""/>
+</div>
+</div>
+</div>
+<!-- \\\\\\\\\\\\\\\\\\\\\\\ -->
+<div class="pgs-layerSlider-rows">
+<div class="pgs-layerSlider-row pgs-slider__title-1 ls-l ls-hide-phone" style="top:120%; left:45%; margin-left:180px; width:400px;z-index:1;" data-ls="delayin:100; loopoffsety: -105sh; easingin:easeOutElastic; loopduration:600; loopcount:1; ">
+<span class="pgs-ls-animate-4 pgs-slider__title-red">İstanbul Sabiha<br/>Gökçen’den Avrupa’ya<br/>Uçmak</span>
+</div>
+<div class="pgs-layerSlider-row ls-l ls-hide-phone" style="top:123%; left:45%; margin-left:180px; width:400px;" data-ls="delayin:600; loopoffsety: -92sh; easingin:easeOutElastic; loopduration:600; loopcount:1;">
+<span class="pgs-ls-animate-4 pgs-slider__title-2">%30</span>
+</div>
+<div class="pgs-layerSlider-row ls-l ls-hide-phone" style="top:125%; left:45%; margin-left:180px; width:400px;" data-ls="delayin:600; loopoffsety: -74sh; easingin:easeOutElastic; loopduration:600; loopcount:1;">
+<span class="pgs-ls-animate-4 pgs-slider__title-3">İNDİRİMLİ</span>
+</div>
+<div class="pgs-layerSlider-row ls-l ls-hide-phone" style="top:125%; left: 45%;margin-left:180px; width:400px;" data-ls="delayin:700; loopoffsety: -60sh; easingin:easeOutElastic; loopduration:600; loopcount:1;">
+<a href="https://www.flypgs.com/kampanyali-ucak-biletleri/tum-avrupa-mobile-ozel-yuzde-30-indirimli" title="" class="button button--red-b m-t-10 m-t-sm-20 button--p-lg" style="min-width:240px;">
+<i class="icon icon--fly-w"></i><span class=" m-l-5 v-a-mid">HEMEN AL</span>
+</a>
+</div>
+</div>
+<!-- \\\\\\\\\\\\\\\\\\\\\\\ -->
+<div class="pgs-layerSlider-rows-mobile">
+<div class="pgs-layerSlider-row-mobile pgs-slider__title-1 ls-l ls-hide-desktop ls-hide-tablet" style="top:110%; left:0; width:100%;z-index:1;" data-ls="delayin:100; loopoffsety:-98sh; easingin:easeOutQuint; loopduration:600; loopcount:1;">
+<span class="pgs-ls-animate-4 pgs-slider__title-red">İstanbul Sabiha Gökçen’den<br/>Avrupa’ya Uçmak</span>
+</div>
+<div class="pgs-layerSlider-row-mobile ls-l ls-hide-desktop ls-hide-tablet" style="top:120%; left:50%; width:100%; text-align:center;" data-ls="delayin:600; loopoffsety: -108sh; easingin:easeOutQuint; loopduration:600; loopcount:1;">
+<div class="colm1">
+<span class="pgs-ls-animate-4 pgs-slider__title-2">%30</span>
+</div>
+</div>
+<div class="pgs-layerSlider-row-mobile ls-l ls-hide-desktop ls-hide-tablet" style="top:120%; left:50%; width:100%; text-align:center;" data-ls="delayin:600; loopoffsety: -99sh; easingin:easeOutQuint; loopduration:600; loopcount:1;">
+<div class="colm1">
+<span class="pgs-ls-animate-4 pgs-slider__title-3">İNDİRİMLİ</span>
+</div>
+</div>
+<div class="pgs-layerSlider-row-mobile ls-l ls-hide-desktop ls-hide-tablet" style="top:120%; left: 50%; width:100%; text-align:center;" data-ls="delayin:1600; loopoffsety: -93sh; easingin:easeOutQuint; loopduration:600; loopcount:1;">
+<a href="https://www.flypgs.com/kampanyali-ucak-biletleri/tum-avrupa-mobile-ozel-yuzde-30-indirimli" title="" class="button button--red-b" style="min-width:116px;">
+<i class="icon icon--fly-w"></i><span class=" m-l-5 v-a-mid">HEMEN AL</span>
+</a>
+</div>
+</div>
+<!-- Desktop Ends Here -->
+</div>
+<div class="ls-slide pgs-slider__item" data-ls="duration:8000;transition2d:104; kenburnsscale:1.2; parallaxtype:2d;">
+<div class="ls-l" style="width:100%; height:100%;background-image:url(&#39;https://mediap.flypgs.com/2500//files/carousel/erbil.jpg&#39;); background-position:center center; background-repeat:no-repeat; background-size:cover;">
+<div class="pgs-slider__content" style="padding-top:10px;">
+<article>
+<div class="hidden-wb-cr"><p><span class="pgs-slider__title p-t-sm-0 p-t-10"><strong><span class="pgs-slider__title p-t-sm-0 p-t-10 text-white"><strong>ERBİL</strong><br/> UÇUŞLARIMIZ BAŞLIYOR! </span> <br/></strong></span></p>
+<div class="pgs-table pgs-slider__table text-white">
+<div class="pgs-table__cell p-r-15">
+<div class="pgs-table__cell p-r-15"><span class="sup">İSTANBUL-ERBİL</span>
+<p><strong class="pgs-slider__price-sm">139<span class="sup">&#39;99</span></strong> <span class="pgs-slider__price-sm-desc">$<br/><span class="sub">&#39;dan başlayan <br/> fiyatlarla</span></span></p>
+</div>
+<div class="pgs-table__cell text-white"><span class="sup">ANKARA-ERBİL</span>
+<p><strong class="pgs-slider__price-sm">149<span class="sup">&#39;99</span></strong> <span class="pgs-slider__price-sm-desc">$<br/><span class="sub">&#39;dan başlayan <br/> fiyatlarla</span></span></p>
+</div>
+</div>
+</div></div>
+<div class="hidden-mb-cr"><p><span class="pgs-slider__title p-t-sm-0 p-t-10"><strong><span class="pgs-slider__title p-t-sm-0 p-t-10 text-white"><strong>ERBİL</strong><br/> UÇUŞLARIMIZ BAŞLIYOR! </span> <br/></strong></span></p>
+<div class="pgs-table pgs-slider__table text-white">
+<div class="pgs-table__cell p-r-15">
+<div class="pgs-table__cell p-r-15"><span class="sup">İSTANBUL-ERBİL</span>
+<p><strong class="pgs-slider__price-sm">139<span class="sup">&#39;99</span></strong> <span class="pgs-slider__price-sm-desc">$<br/><span class="sub">&#39;dan başlayan <br/> fiyatlarla</span></span></p>
+</div>
+<div class="pgs-table__cell text-white"><span class="sup">ANKARA-ERBİL</span>
+<p><strong class="pgs-slider__price-sm">149<span class="sup">&#39;99</span></strong> <span class="pgs-slider__price-sm-desc">$<br/><span class="sub">&#39;dan başlayan <br/> fiyatlarla</span></span></p>
+</div>
+</div>
+</div></div>
+<a href="https://flights.flypgs.com/tr/erbil-ucak-bileti" title="HEMEN AL" rel="noopener" target="_blank" class="button button--red-b m-t-10 m-t-sm-20 button--p-lg">
+<i class="icon icon--fly-w"></i><span class=" m-l-5 v-a-mid">HEMEN AL</span>
+</a>
+</article>
+</div>
+</div>
+</div>
+<div class="ls-slide pgs-slider__item" data-ls="duration:8000;transition2d:104; kenburnsscale:1.2; parallaxtype:2d;">
+<div class="ls-l" style="width:100%; height:100%;background-image:url(&#39;https://mediap.flypgs.com/2500//files/carousel/kiev.jpg&#39;); background-position:center center; background-repeat:no-repeat; background-size:cover;">
+<div class="pgs-slider__content" style="padding-top:10px;">
+<article>
+<div class="hidden-wb-cr"><p><span class="pgs-slider__title p-t-sm-0 p-t-50 text-white"><span class="pgs-slider__title p-t-sm-0 p-t-10 text-white"><span class="pgs-slider__title p-t-sm-0 p-t-10 text-white">KIEV&#39;E ARTIK DAHA ÇOK UÇUYORUZ!<br/></span><strong class="pgs-slider__price text-white">55<span class="sup">&#39;99 <span class="text-large">$</span><span class="desc">&#39;dan başlayan fiyatlarla</span></span></strong><br/> </span> <br/></span></p>
+<div class="pgs-table pgs-slider__table text-white"> </div></div>
+<div class="hidden-mb-cr"><p><span class="pgs-slider__title p-t-sm-0 p-t-50 text-white"><span class="pgs-slider__title p-t-sm-0 p-t-10 text-white"><span class="pgs-slider__title p-t-sm-0 p-t-10 text-white">KIEV&#39;E ARTIK DAHA ÇOK UÇUYORUZ!<br/></span><strong class="pgs-slider__price text-white">55<span class="sup">&#39;99 <span class="text-large">$</span><span class="desc">&#39;dan başlayan fiyatlarla</span></span></strong><br/> </span> <br/></span></p>
+<div class="pgs-table pgs-slider__table text-white"> </div></div>
+<a href="https://book.flypgs.com/Common/MemberRezvResults.jsp?activeLanguage=TR&amp;ADULT=1&amp;DEPPORT=ESB&amp;DEPDATE=11/04/2018&amp;DEP_DATE_OPTS=0&amp;ARRPORT=IEV&amp;RETDATE=17/04/2018&amp;RET_DATE_OPTS=0&amp;TRIPTYPE=R&amp;CURRENCY=USD&amp;clickedButton=btnSearch&amp;resetErrors" title="HEMEN AL" rel="noopener" target="_blank" class="button button--red-b m-t-10 m-t-sm-20 button--p-lg">
+<i class="icon icon--fly-w"></i><span class=" m-l-5 v-a-mid">HEMEN AL</span>
+</a>
+</article>
+</div>
+</div>
+</div>
+<div class="ls-slide pgs-slider__item" data-ls="duration:8000;transition2d:104; kenburnsscale:1.2; parallaxtype:2d;">
+<div class="ls-l" style="width:100%; height:100%;background-image:url(&#39;https://mediap.flypgs.com/2500//files/ana_sayfa_hero_banner/TR/mart_2018/car_trawler_2500x620.jpg&#39;); background-position:center center; background-repeat:no-repeat; background-size:cover;">
+<div class="pgs-slider__content" style="padding-top:10px;">
+<article>
+<div class="hidden-wb-cr"><p><span class="pgs-slider__title p-t-sm-0 p-t-50 text-white">ARAÇ KİRALAMADA <br/><strong><span style="font-size: 36px;">25</span> UÇUŞPUAN!</strong></span></p>
+<p> </p></div>
+<div class="hidden-mb-cr"><p><span class="pgs-slider__title p-t-sm-0 p-t-50 text-white">ARAÇ KİRALAMADA <br/><strong>25 UÇUŞ PUAN!</strong></span></p>
+<p> </p></div>
+<a href="http://cars.cartrawler.com/pegasus/?residenceID=TR&amp;clientID=811820" title="Hemen Kirala!" rel="noopener" target="_blank" class="button button--pale m-t-10 m-t-sm-20 button--p-lg">
+<i class="icon icon--fly-w"></i><span class=" m-l-5 v-a-mid">Hemen Kirala!</span>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/yolcu-haklari" title="YOLCU HAKLARI" class="pgs-slider__misafir-btn hidden-xs">
+<i class="icon icon--misafir m-b-5"></i>
+<span>YOLCU <br/> HAKLARI</span>
+</a>
+</div>
+</section>
+</section>
+<section class="search-flights homepage " data-language="TR" data-currency="TRY">
+<a href="#" class="online-check-in-btn">
+<img src="/Assets/Images/taze/online.png" alt=""/>
+ONLINE CHECK IN
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+<div class="hide" style="display:none" id="check" data-url="https://book.flypgs.com/Common/ICIFlightList.jsp?activeLanguage=TR&amp;TXT_PNR_NO={0}&amp;TXT_SURNAME={1}&amp;TXT_NAME={2}&amp;IS_MAIN=true"></div>
+<div class="search-flights__container">
+<div class="js-tabs" role="tabpanel">
+<div class="pgs-tabs pgs-tabs--menu pgs-tabs--full" role="tablist">
+<h1>
+<a href="#flight" role="tab" class="pgs-tabs__tab is-active search-flights__fly-btn">
+<i class="icon icon--fly-btn is-passive"></i>
+<i class="icon icon--fly-btn-grey is-active"></i><br/>
+<span class="m-2">
+Ucuz Uçak Bileti Ara</span>
+</a>
+</h1>
+<a href="#manage" role="tab" class="pgs-tabs__tab search-flights__budget-btn">
+<i class="icon icon--mng-fly is-active"></i>
+<i class="icon icon--mng-fly-black is-passive"></i><br/>Uçuşunu Yönet
+</a>
+<a href="#rental" role="tab" class="pgs-tabs__tab search-flights__budget-btn nxm-rental-tab-in" data-currency="TRY">
+<i class="icon icon--car-btn is-active"></i>
+<i class="icon icon--car-btn-black is-passive"></i><br/>Araç Kiralama
+</a>
+<a href="http://hotels.flypgs.com/index.html?aid=337919%26label=pgs-homepage-sbtab%26lang=TR%26selected_currency=TRY" target="_blank" role="link" rel="noopener" class="pgs-tabs__tab search-flights__budget-btn nxm-book-tab-in skip-tab">
+<img class="m-b-5" src="/Assets/Images/taze/otel.png" alt=""/><br/>Otel <br/> Rezervasyonu
+</a>
+</div>
+<div class="pgs-tabs__content search-flights__content white p-10-20">
+<div class="pgs-tabs__panel is-active nxm-flight_search search-flight-container" id="flight" data-url="https://book.flypgs.com/Common/" data-language="TR" data-currency="TRY">
+<form action="/" class="flight-search-form" id="fligth-searh" data-parsley-validate="true">
+<input id="key" name="key" type="hidden" value="frm101137"/>
+<div class="">
+<input checked="" type="radio" value="R" name="return" class="radio nxm-trip-type" id="return"/>
+<label class="label p-r-20" for="return"><span>Gidiş Dönüş</span></label>
+<input type="radio" value="O" name="return" class="radio nxm-trip-type" id="one-way"/>
+<label class="label" for="one-way"><span>Tek Yön </span></label>
+</div>
+<div class="pgs-passenger-place">
+<span class="block m-t-10 m-b-10">
+<select data-flow-index="1" class="js-select2-only-special select2 select2--classic select-icon--fly js-select js-select--mobile search-flight-origin select2--flat-on-mobile js_select2-mobile-popup" data-opts="{&#34;language&#34;: &#34;tr&#34;, &#34;theme&#34;: &#34;classic select-icon--fly select-icon--fly--departure select2-mobile-popup&#34;, &#34;placeholder&#34;: &#34;NEREDEN?&#34;, &#34;icon&#34; : &#34;icon--fly-departure-white&#34;, &#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: false}" data-parsley-required="true" data-parsley-errors-container=".p-origin-vld" data-parsley-error-message="Lütfen havalimanı seçiniz" data-slc-1="Son Aramalar" data-slc-2="Tüm Havalimanları"></select>
+<span class="p-origin-vld"></span>
+</span>
+<span class="block m-b-10">
+<select data-flow-index="2" class="js-select2-only-special select2 select2--classic select-icon--fly js-select js-select--mobile search-flight-destination select2--flat-on-mobile js_select2-mobile-popup" data-opts="{&#34;language&#34;: &#34;tr&#34;, &#34;theme&#34;: &#34;classic select-icon--fly select-icon--fly--arrival select2-mobile-popup&#34;, &#34;placeholder&#34;: &#34;NEREYE?&#34;, &#34;icon&#34; : &#34;icon--fly-arrival-white&#34;, &#34;indexTarget&#34; : &#34;1&#34;, &#34;closeOnSelect&#34;: false}" data-parsley-required="true" data-parsley-errors-container=".p-destination-vld" data-parsley-error-message="Lütfen havalimanı seçiniz"></select>
+<span class="p-destination-vld"></span>
+</span>
+<div class="pgs-passenger-place__swap js-tooltip" title="Gidiş, dönüş alanlarını değiştirebilirsiniz." data-tooltip-options="{&#34;theme&#34;: &#34;tooltipster-noir&#34;,&#34;trigger&#34;:&#34;hover&#34;}">
+<span class="pgs-passenger-place__swap__state pgs-passenger-place__swap__state--passive" style="display: none;"><i class="icon icon--swap-passive"></i></span>
+<span class="pgs-passenger-place__swap__state pgs-passenger-place__swap__state--active"><i class="icon icon--swap-active"></i></span>
+<span class="pgs-passenger-place__swap__state pgs-passenger-place__swap__state--loading" style="display: none;"><img src="/Assets/Web/build/assets/images/swap-loader.gif" alt=""/></span>
+</div>
+</div>
+<div class="row gutter-xs m-b-10">
+<div class="col-xs-6 nxm-departDateContainer">
+<label class="p-b-5 block" for="dp1">Gidiş tarihi</label>
+<span id="datepicker1" class="input input--datepicker input--datepicker--flat-on-mobile js_mobile-popover homepage-datepicker-block">
+<input data-flow-index="3" data-language="TR" value="11.04.2018" type="text" data-connect="#dp2" data-class="datepicker--pgs-mobile-popover" class="js-pgs-datepicker nxm-departDate" id="dp1" readonly="readonly" data-parsley-errors-container=".datepickerdp1" data-parsley-required="true"/>
+<div class="pgs-mobile-popover pgs-mobile-popover--b">
+<div class="pgs-mobile-popover__title"><span class="pgs-mobile-popover__back" data-flow-index-target="2"></span><i class="icon icon--calendar-white m-r-5"></i>NE ZAMAN?</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-0">
+<div class="pgs-passenger-block__scroll-area__wrapper">
+<div class="datepicker--pgs-mobile-popover__titles">
+<span class="datepicker--pgs-mobile-popover__title datepicker--pgs-mobile-popover__title--active">
+<i class="icon icon--fly-departure-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-departure-orange icon-mobile m-r-5"></i>
+<span>Gidiş Tarihi Seçiniz</span>
+</span>
+<span class="datepicker--pgs-mobile-popover__title">
+<i class="icon icon--fly-arrival-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-arrival-orange icon-mobile m-r-5"></i>
+<span>Dönüş Tarihi Seçiniz</span>
+</span>
+</div>
+<div id="pgs-departure-datepicker" class="js-pgs-datepicker datepicker--pgs-mobile-popover"></div>
+</div>
+</div>
+</div>
+</span>
+<span class="datepickerdp1"></span>
+</div>
+<div class="col-xs-6 nxm-returnDateContainer">
+<label class="p-b-5 block" for="dp2">Dönüş tarihi</label>
+<span id="datepicker2" class="input input--datepicker input--datepicker--flat-on-mobile js_mobile-popover homepage-datepicker-block homepage-datepicker-block--v2">
+<input data-flow-index="4" data-language="TR" value="11.04.2018" type="text" data-class="datepicker--pgs" class="js-pgs-datepicker pgs-datepicker datepicker-pointer nxm-returnDate" id="dp2" readonly="readonly" data-parsley-errors-container=".datepickerdp2" data-parsley-required="true"/>
+<div class="pgs-mobile-popover pgs-mobile-popover--b pgs-mobile-popover--c">
+<div class="pgs-mobile-popover__title"><span class="pgs-mobile-popover__back" data-flow-index-target="3"></span><i class="icon icon--calendar-white m-r-5"></i>NE ZAMAN?</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-1">
+<div class="pgs-passenger-block__scroll-area__wrapper">
+<div class="datepicker--pgs-mobile-popover__titles">
+<span class="datepicker--pgs-mobile-popover__title">
+<i class="icon icon--fly-departure-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-departure-orange icon-mobile m-r-5"></i>
+<span>Gidiş Tarihi Seçiniz</span>
+</span>
+<span class="datepicker--pgs-mobile-popover__title datepicker--pgs-mobile-popover__title--active">
+<i class="icon icon--fly-arrival-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-arrival-orange icon-mobile m-r-5"></i>
+<span>Dönüş Tarihi Seçiniz</span>
+</span>
+</div>
+<div id="pgs-arrival-datepicker" class="js-pgs-datepicker datepicker--pgs-mobile-popover"></div>
+<div class="pgs-mobile-popover__button-container">
+<a href="#" class="button button--orange button--full js_mobile-popover-done"><span class="v-a-mid inline-block text-bold">TAMAM</span></a>
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="datepickerdp2"></span>
+</div>
+</div>
+<!-- [pgs-passenger-block] starts -->
+<div class="pgs-passenger-block nxm-passenger-block">
+<div class="pgs-passenger-block__selection js_passenger-selection">
+<label for="" class="pgs-passenger-block__label">Yetişkin Yolcu</label>
+<div class="pgs-passenger-block__input">
+<span class="pgs-passenger-block__change pgs-passenger-block__change" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<input type="text" class="pgs-passenger-block__indicator nxm-guestAdult" data-max-limit="9" value="1" readonly="" data-match="adult-passenger"/>
+<span class="pgs-passenger-block__change" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+<div class="pgs-passenger-block__misc">
+<span class="pgs-passenger-block__fake-dropdown pgs-passenger-block__fake-dropdown--flat-on-mobile js_passenger-fake-dropdown">
+<span class="pgs-passenger-block__fake-dropdown__output pgs-passenger-block__fake-dropdown__output--a">
+<span class="pgs-passenger-block__fake-dropdown__rendered">
+<span class="pgs-passenger-block__fake-dropdown__value nxm-guestKids">0</span>
+</span>
+<span class="pgs-passenger-block__fake-dropdown__arrow" role="presentation"><b role="presentation"></b></span>
+</span>
+<span class="pgs-passenger-block__fake-dropdown__output pgs-passenger-block__fake-dropdown__output--b nxm-guestSoldier-container hide">
+<span class="pgs-passenger-block__fake-dropdown__rendered">
+<span class="pgs-passenger-block__fake-dropdown__value pgs-passenger-block__fake-dropdown__value--soldier">0</span>
+</span>
+<span class="pgs-passenger-block__fake-dropdown__arrow" role="presentation"><b role="presentation"></b></span>
+</span>
+<div class="pgs-passenger-block__fake-dropdown__inside pgs-mobile-popover">
+<div class="pgs-passenger-block__fake-dropdown__inside__title">
+<span class="pgs-passenger-block__fake-dropdown__inside__back"></span><i class="icon icon--seat-white m-r-5"></i>YOLCU SAYISI
+</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-2">
+<div class="pgs-passenger-block__scroll-area__wrapper">
+<ul>
+<li class="pgs-passenger-block__fake-dropdown__inside__item pgs-passenger-block__fake-dropdown__inside__item--double">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestAdult" value="1" readonly="" data-match="adult-passenger"/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b p-t-7">Yetişkin</label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+<li class="pgs-passenger-block__fake-dropdown__inside__item">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestChild" value="0" readonly=""/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b">Çocuk <span class="pgs-passenger-block__label__note">2-12 yaş</span></label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+<li class="pgs-passenger-block__fake-dropdown__inside__item">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestInfant" value="0" readonly=""/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b">Bebek <span class="pgs-passenger-block__label__note">0-2 yaş</span></label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+<li class="pgs-passenger-block__fake-dropdown__inside__item hide nxm-guestSoldier-container">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestSoldier" value="0" readonly="" data-match="soldier-passenger"/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b p-t-7">Asker</label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+</ul>
+<div class="pgs-passenger-block__fake-dropdown__inside__action">
+<a href="javascript:;" class="button button--orange button--full"><span class="v-a-mid inline-block text-bold">TAMAM</span></a>
+</div>
+</div>
+</div>
+</div>
+</span>
+</div>
+</div>
+<!-- [/pgs-passenger-block] ends -->
+<button title="UCUZ UÇUŞ ARA" type="submit" class="button button--orange button--full">
+<span class="v-a-mid inline-block text-bold m-r-10">UCUZ UÇUŞ ARA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+</form>
+</div>
+<div class="pgs-tabs__panel visuallyhidden nxm-pnr-search--form" id="manage" data-language="TR" data-ssr-code="checkin" data-url="https://book.flypgs.com/Common/PNRSearch.jsp" data-parsley-validate="true" method="POST" name="ticketing" action="https://book.flypgs.com/Common/PNRSearch.jsp">
+<form action="/check-in" data-parsley-validate="true">
+<input id="keyc" name="key" type="hidden" value="frm12758"/>
+<div class="m-b-10">
+<label class="block m-b-10">PNR veya E-Bilet Numaran (PCS)</label>
+<input type="text" class="input input--shadow js-text-upper js-only-alpha-numeric js-tr-en js-latinize nxm-pnr-search--pnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" placeholder="" maxlength="13" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="13" data-parsley-error-message="6 haneli PNR numaranızı veya 13 haneli E-Bilet numaranızı giriniz."/>
+</div>
+<div class="m-b-10">
+<label class="block m-b-10">Soyadın</label>
+<input type="text" class="input input--shadow js-only-special nxm-pnr-search--surname" placeholder="" data-parsley-required="true" maxlength="50"/>
+</div>
+<div class="m-b-10">
+<button type="submit" class="button button--orange button--iconic button--input button--full">
+<strong class="m-r-10">DEVAM</strong><i class="icon icon--double-arrow"></i>
+</button>
+</div>
+<div class="m-b-10">
+<a href="#ticket-info-layer" title="PNR, E-Bilet Numaramı Bilmiyorum" class="link link--forgot link--underline p-l-10 p-t-5 ">PNR, E-Bilet Numaramı Bilmiyorum</a>
+</div>
+</form>
+</div> <div class="pgs-tabs__panel visuallyhidden nxm-car-rental" id="rental">
+<form action="" data-parsley-validate="true" name="nxm-carrental-form" class="nxm-carrental-form" id="nxm-carrental-form" method="POST">
+<div class="block m-b-10 nxm-select-car-1">
+<select class="select2 select2--classic select-icon--car js-select js-select--mobile rent-a-car-select" data-opts="{&#34;theme&#34;: &#34;classic select-icon--car&#34;, &#34;placeholder&#34;: &#34;Bir şehir ya da havaalanı adı yazın&#34;, &#34;airport&#34;: &#34;Havaalanı&#34;,&#34;city&#34;: &#34;Şehir&#34;}" data-parsley-required="true" data-parsley-errors-container=".car-drp-field" data-parsley-error-message="Bir şehir ya da havaalanı seçiniz">
+</select>
+</div>
+<span class="car-drp-field m-b-10"> </span>
+<!-- FLEXABLE -->
+<div class="block m-b-15 ">
+<div class="nxm-face-list-chk-co">
+<input type="checkbox" name="otherPlace" class="checkbox--white nxm-other-cr-clt" id="otherPlace"/>
+<label class="label " for="otherPlace">Farklı bir araç teslim yeri</label>
+</div>
+</div>
+<div class="block m-b-10 nxm-select-car-2 hide">
+<select class="select2 select2--classic select-icon--car js-select js-select--mobile rent-a-car-select" data-opts="{&#34;theme&#34;: &#34;classic select-icon--car&#34;, &#34;placeholder&#34;: &#34;Bir şehir ya da havaalanı adı yazın&#34;, &#34;airport&#34;: &#34;Havaalanı&#34;,&#34;city&#34;: &#34;Şehir&#34;}" data-parsley-required="false" data-parsley-errors-container=".car-drp-field2" data-parsley-error-message="Bir şehir ya da havaalanı seçiniz"> </select>
+</div>
+<span class="car-drp-field2 m-b-10"></span>
+<div class="col-row nxm-fs-cd-1">
+<div class="col-6">
+<label class="label m-b-5" for="">Başlangıç Tarihi</label>
+<span class="m-b-10 input input--datepicker input--datepicker--flat-on-mobile js_mobile-popover">
+<input value="11.04.2018" type="text" data-language="TR" data-connect="#rent-dp-2" data-class="datepicker--pgs datepicker--menu" readonly="readonly" class="js-datepicker rent-dp-1" id="rent-dp-1" data-parsley-required="true" data-parsley-errors-container=".car-drt-field1"/>
+</span>
+</div>
+<div class="col-6 last-dp">
+<label class="label m-b-5" for=""><span class="opacity-hidden">.</span></label>
+<select class="select2 select2--classic select-icon--clock select2--flat-on-mobile js-select js-select--mobile js_select2-mobile-popup rent-dt-1" id="rent-dt-1" data-opts="{&#34;theme&#34;: &#34;classic select-icon--clock select2-mobile-popup rental-dp-time2&#34;, &#34;language&#34;: &#34;tr&#34;, &#34;autoComplete&#34;: false,&#34;placeholder&#34;:&#34;Başlangıç Saati&#34;,
+&#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: true, &#34;minimumResultsForSearch&#34;: &#34;Infinity&#34;}">
+<option value="00:00">00:00</option>
+<option value="00:30">00:30</option>
+<option value="01:00">01:00</option>
+<option value="01:30">01:30</option>
+<option value="02:00">02:00</option>
+<option value="02:30">02:30</option>
+<option value="03:00">03:00</option>
+<option value="03:30">03:30</option>
+<option value="04:00">04:00</option>
+<option value="04:30">04:30</option>
+<option value="05:00">05:00</option>
+<option value="05:30">05:30</option>
+<option value="06:00">06:00</option>
+<option value="06:30">06:30</option>
+<option value="07:00">07:00</option>
+<option value="07:30">07:30</option>
+<option value="08:00">08:00</option>
+<option value="08:30">08:30</option>
+<option value="09:00">09:00</option>
+<option value="09:30">09:30</option>
+<option value="10:00" selected="selected">10:00</option>
+<option value="10:30">10:30</option>
+<option value="11:00">11:00</option>
+<option value="11:30">11:30</option>
+<option value="12:00">12:00</option>
+<option value="12:30">12:30</option>
+<option value="13:00">13:00</option>
+<option value="13:30">13:30</option>
+<option value="14:00">14:00</option>
+<option value="14:30">14:30</option>
+<option value="15:00">15:00</option>
+<option value="15:30">15:30</option>
+<option value="16:00">16:00</option>
+<option value="16:30">16:30</option>
+<option value="17:00">17:00</option>
+<option value="17:30">17:30</option>
+<option value="18:00">18:00</option>
+<option value="18:30">18:30</option>
+<option value="19:00">19:00</option>
+<option value="19:30">19:30</option>
+<option value="20:00">20:00</option>
+<option value="20:30">20:30</option>
+<option value="21:00">21:00</option>
+<option value="21:30">21:30</option>
+<option value="22:00">22:00</option>
+<option value="22:30">22:30</option>
+<option value="23:00">23:00</option>
+<option value="23:30">23:30</option>
+</select>
+</div>
+</div>
+<span class="car-drt-field1 m-b-10"></span>
+<div class="col-row nxm-fs-cd-2">
+<div class="col-6">
+<label class="label m-b-5" for="">Bitiş Tarihi</label>
+<span class="input input--datepicker m-b-10">
+<input value="11.04.2018" type="text" data-class="datepicker--pgs datepicker--menu" class="js-datepicker rent-dp-2" readonly="readonly" id="rent-dp-2" data-parsley-required="true" data-parsley-errors-container=".car-drt-field2"/>
+</span>
+</div>
+<div class="col-6 last-dp">
+<label class="label m-b-5" for=""><span class="opacity-hidden">.</span></label>
+<select class="select2 select2--classic select-icon--clock js-select select2--flat-on-mobile js-select--mobile js_select2-mobile-popup rent-dt-2" id="rent-dt-2" data-opts="{&#34;theme&#34;: &#34;classic select-icon--clock select2-mobile-popup rental-dp-time&#34;, &#34;language&#34;: &#34;tr&#34;, &#34;autoComplete&#34;: false,&#34;placeholder&#34;:&#34;Başlangıç Saati&#34;,
+&#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: true, &#34;minimumResultsForSearch&#34;: &#34;Infinity&#34;}">
+<option value="00:00">00:00</option>
+<option value="00:30">00:30</option>
+<option value="01:00">01:00</option>
+<option value="01:30">01:30</option>
+<option value="02:00">02:00</option>
+<option value="02:30">02:30</option>
+<option value="03:00">03:00</option>
+<option value="03:30">03:30</option>
+<option value="04:00">04:00</option>
+<option value="04:30">04:30</option>
+<option value="05:00">05:00</option>
+<option value="05:30">05:30</option>
+<option value="06:00">06:00</option>
+<option value="06:30">06:30</option>
+<option value="07:00">07:00</option>
+<option value="07:30">07:30</option>
+<option value="08:00">08:00</option>
+<option value="08:30">08:30</option>
+<option value="09:00">09:00</option>
+<option value="09:30">09:30</option>
+<option value="10:00" selected="selected">10:00</option>
+<option value="10:30">10:30</option>
+<option value="11:00">11:00</option>
+<option value="11:30">11:30</option>
+<option value="12:00">12:00</option>
+<option value="12:30">12:30</option>
+<option value="13:00">13:00</option>
+<option value="13:30">13:30</option>
+<option value="14:00">14:00</option>
+<option value="14:30">14:30</option>
+<option value="15:00">15:00</option>
+<option value="15:30">15:30</option>
+<option value="16:00">16:00</option>
+<option value="16:30">16:30</option>
+<option value="17:00">17:00</option>
+<option value="17:30">17:30</option>
+<option value="18:00">18:00</option>
+<option value="18:30">18:30</option>
+<option value="19:00">19:00</option>
+<option value="19:30">19:30</option>
+<option value="20:00">20:00</option>
+<option value="20:30">20:30</option>
+<option value="21:00">21:00</option>
+<option value="21:30">21:30</option>
+<option value="22:00">22:00</option>
+<option value="22:30">22:30</option>
+<option value="23:00">23:00</option>
+<option value="23:30">23:30</option>
+</select>
+</div>
+</div>
+<span class="car-drt-field2 m-b-10"></span>
+<!-- DEVAM -->
+<button title="ARA" class="button button--orange button--full">
+<span class="v-a-mid inline-block text-bold m-r-10">ARA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+</form>
+</div>
+</div>
+</div>
+<a class="search-flights__disabled link link--underline link--dark text-semibold " href="/faydali-bilgiler/diger-bilgiler/yardim-gereksinimi-olan-misafirler" target="_blank" rel="noopener" title="Yardım gereksinimi olan misafirler " data-opts="{&#34;wrapCSS&#34;: &#34;fancybox--default&#34;, &#34;title&#34;:&#34;&#34;, &#34;type&#34;:&#34;inline&#34;,&#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:false,&#34;closeBtn&#34;:false}"><i class="icon icon--disabled m-r-10"></i><span>Yardım gereksinimi olan misafirler </span></a>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/yolcu-haklari" class="search-flights__guest-rights-mobile"><i class="icon icon--misafir-mobile m-r-8"></i>YOLCU HAKLARI</a>
+</div>
+</section>
+<section id="zone-26996" class="zone pgs-gre-5 ">
+<section id="widget-27012" class="widget">
+<section class="adt-services relative p-t-20 p-b-20 hidden-xs js-adt-services" id="add_services">
+<div class="pgs-wrap">
+<span class="text-semibold text-dark-gray block text-center p-t-10 p-b-30 ">SEYAHATİNİ ZENGİNLEŞTİREN HİZMETLERİMİZ	</span>
+<div class="g adt-services__list">
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="#yemek-secimi">
+<i class="icon icon--service-food"></i>
+<strong class="adt-services__item-title">YEMEK SEÇİMİ</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="#koltuk-secimi">
+<i class="icon icon--service-seat"></i>
+<strong class="adt-services__item-title">KOLTUK SEÇİMİ</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="#ek-bagaj">
+<i class="icon icon--service-luggage"></i>
+<strong class="adt-services__item-title">EK BAGAJ</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="https://cars.flypgs.com/?clientID=487885" rel="noopener" target="_blank">
+<i class="icon icon--service-car"></i>
+<strong class="adt-services__item-title">ARAÇ KİRALAMA</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="http://hotels.flypgs.com/index.html?aid=337919&amp;label=pgs-homepage-sbtab&amp;lang=tr&amp;selected_currency=TRY" rel="noopener" target="_blank">
+<i class="icon icon--service-hotel"></i>
+<strong class="adt-services__item-title">OTEL REZERVASYONU</strong>
+</a>
+</div>
+</div>
+<div class="adt-services__panel p-v-15 hidden-xs">
+<div id="yemek-secimi" class="adt-services__panel-item">
+<div class="row no-gutter row-eq-height">
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/online-yemek-siparisi" class="nxm-adt-service-img col-xs-4 adt-services__img-holder nxm-col-xs-offset-16 nxm-col-xs-offset-16" style="background-image:url(https://mediap.flypgs.com/awh/303/221//files/Ancillary_Spot__kon_Gorseller/susi_anc.jpg)">
+Uçuş Öncesi Yemek Siparişi
+</a>
+<div class="col-xs-4 adt-services__img-holder adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<h3 class="text-xlarge text-lheight text-dark-gray">Uçuş Öncesi Yemek Siparişi</h3>
+<p class="adt-services__panel-content">Sıcak yemekten, salataya, kahvaltıdan, sushiye, ravioliden, pastaya onlarca seçenek </p>
+<div class="row no-gutter p-b-10">
+<div class="col-xs-6">
+<strong class="price text-dark-gray">
+<span class="price__amount">8</span>
+<span class="price__currency">,90 TL&#39;den başlayan fiyatlar</span>
+</strong>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive pull-right" src="https://mediap.flypgs.com/awh/127/79//files/Ancillary_Spot__kon_Gorseller/ucus-oncesi-yemek-anc.jpg" alt="Uçuş Öncesi Yemek Siparişi"/>
+</div>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/online-yemek-siparisi" title="YEMEK SEÇİMİ" class="button button--orange button--sm button--p-lg">
+<span class="v-a-mid inline-block text-semibold m-r-5">DETAY</span>
+<i class="icon icon--double-arrow-xs v-a-mid"></i>
+</a>
+</div>
+<div class="col-xs-4 adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<form class="nxm-pnr-search--form" data-language="TR" data-ssr-code="CT" data-url="https://book.flypgs.com/Common/PNRSearch.jsp" data-parsley-validate="true">
+<p class="adt-services__panel-pnr-text m-t-0 m-b-10">
+Aşağıda bulunan alanlara Rezervasyon Kayıt Numaranı (PNR) ve Soyadını girerek seçim işlemine devam edebilirsin.
+</p>
+<input type="text" class="input input--shadow m-b-5 nxm-pnr-search--pnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" placeholder="Rezervasyon (PNR) Numaran" maxlength="6" data-parsley-minlength="6" data-parsley-maxlength="6" data-parsley-error-message="PNR numaranı gir, numara 6 haneli olmalıdır." data-parsley-required="true"/>
+<input type="text" class="input input--shadow nxm-pnr-search--surname m-b-5 js-only-special" placeholder="Soyadın" data-parsley-required="true" maxlength="50"/>
+<button type="submit" class="button button--orange button--lg button--p-lg nxm-pnr-search--button">
+<span class="v-a-mid inline-block text-bold">DEVAM</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+<a href="#pnr-info-layer" title="PNR Numaramı Bilmiyorum" class="link link--forgot link--underline p-l-10 js-fancybox " data-opts="{&#34;wrapCSS&#34;: &#34;pnr-info-layer&#34;,&#34;type&#34;:&#34;inline&#34;, &#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:true,&#34;closeBtn&#34;:false}">PNR Numaramı Bilmiyorum</a>
+</form>
+</div>
+</div>
+</div>
+<div id="koltuk-secimi" class="adt-services__panel-item">
+<div class="row no-gutter row-eq-height">
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/koltuk-secimi" class="nxm-adt-service-img col-xs-4 adt-services__img-holder nxm-col-xs-offset-16 nxm-col-xs-offset-16" style="background-image:url(https://mediap.flypgs.com/awh/303/221//files/Ancillary_Spot__kon_Gorseller/koltuk-spot-anc.jpg)">
+Koltuğunu Seç
+</a>
+<div class="col-xs-4 adt-services__img-holder adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<h3 class="text-xlarge text-lheight text-dark-gray">Koltuğunu Seç</h3>
+<p class="adt-services__panel-content">Hangi koltukta uçacağına sen karar ver!</p>
+<div class="row no-gutter p-b-10">
+<div class="col-xs-6">
+<strong class="price text-dark-gray">
+<span class="price__amount">10</span>
+<span class="price__currency">TL&#39;den başlayan fiyatlar</span>
+</strong>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive pull-right" src="https://mediap.flypgs.com/awh/127/79//files/Ancillary_Spot__kon_Gorseller/koltuk-anc.jpg" alt="Koltuğunu Seç"/>
+</div>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/koltuk-secimi" title="KOLTUK SEÇİMİ" class="button button--orange button--sm button--p-lg">
+<span class="v-a-mid inline-block text-semibold m-r-5">DETAY</span>
+<i class="icon icon--double-arrow-xs v-a-mid"></i>
+</a>
+</div>
+<div class="col-xs-4 adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<form class="nxm-pnr-search--form" data-language="TR" data-ssr-code="SS" data-url="https://book.flypgs.com/Common/PNRSearch.jsp" data-parsley-validate="true">
+<p class="adt-services__panel-pnr-text m-t-0 m-b-10">
+Aşağıda bulunan alanlara Rezervasyon Kayıt Numaranı (PNR) ve Soyadını girerek seçim işlemine devam edebilirsin.
+</p>
+<input type="text" class="input input--shadow m-b-5 nxm-pnr-search--pnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" placeholder="Rezervasyon (PNR) Numaran" maxlength="6" data-parsley-minlength="6" data-parsley-maxlength="6" data-parsley-error-message="PNR numaranı gir, numara 6 haneli olmalıdır." data-parsley-required="true"/>
+<input type="text" class="input input--shadow nxm-pnr-search--surname m-b-5 js-only-special" placeholder="Soyadın" data-parsley-required="true" maxlength="50"/>
+<button type="submit" class="button button--orange button--lg button--p-lg nxm-pnr-search--button">
+<span class="v-a-mid inline-block text-bold">DEVAM</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+<a href="#pnr-info-layer" title="PNR Numaramı Bilmiyorum" class="link link--forgot link--underline p-l-10 js-fancybox " data-opts="{&#34;wrapCSS&#34;: &#34;pnr-info-layer&#34;,&#34;type&#34;:&#34;inline&#34;, &#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:true,&#34;closeBtn&#34;:false}">PNR Numaramı Bilmiyorum</a>
+</form>
+</div>
+</div>
+</div>
+<div id="ek-bagaj" class="adt-services__panel-item">
+<div class="row no-gutter row-eq-height">
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/bagaj-hakki-satisi" class="nxm-adt-service-img col-xs-4 adt-services__img-holder nxm-col-xs-offset-16 nxm-col-xs-offset-16" style="background-image:url(https://mediap.flypgs.com/awh/303/221//files/Ancillary_Spot__kon_Gorseller/bagaj-spot-anc.jpg)">
+Ek Bagaj Satın Al
+</a>
+<div class="col-xs-4 adt-services__img-holder adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<h3 class="text-xlarge text-lheight text-dark-gray">Ek Bagaj Satın Al</h3>
+<p class="adt-services__panel-content">Web&#39;den al daha az öde.</p>
+<div class="row no-gutter p-b-10">
+<div class="col-xs-6">
+<strong class="price text-dark-gray">
+<span class="price__amount">5</span>
+<span class="price__currency">EUR&#39;dan başlayan fiyatlarla</span>
+</strong>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive pull-right" src="https://mediap.flypgs.com/awh/127/79//files/Ancillary_Spot__kon_Gorseller/bagaj-anc.jpg" alt="Ek Bagaj Satın Al"/>
+</div>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/bagaj-hakki-satisi" title="EK BAGAJ" class="button button--orange button--sm button--p-lg">
+<span class="v-a-mid inline-block text-semibold m-r-5">DETAY</span>
+<i class="icon icon--double-arrow-xs v-a-mid"></i>
+</a>
+</div>
+<div class="col-xs-4 adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<form class="nxm-pnr-search--form" data-language="TR" data-ssr-code="WB" data-url="https://book.flypgs.com/Common/PNRSearch.jsp" data-parsley-validate="true">
+<p class="adt-services__panel-pnr-text m-t-0 m-b-10">
+Aşağıda bulunan alanlara Rezervasyon Kayıt Numaranı (PNR) ve Soyadını girerek seçim işlemine devam edebilirsin.
+</p>
+<input type="text" class="input input--shadow m-b-5 nxm-pnr-search--pnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" placeholder="Rezervasyon (PNR) Numaran" maxlength="6" data-parsley-minlength="6" data-parsley-maxlength="6" data-parsley-error-message="PNR numaranı gir, numara 6 haneli olmalıdır." data-parsley-required="true"/>
+<input type="text" class="input input--shadow nxm-pnr-search--surname m-b-5 js-only-special" placeholder="Soyadın" data-parsley-required="true" maxlength="50"/>
+<button type="submit" class="button button--orange button--lg button--p-lg nxm-pnr-search--button">
+<span class="v-a-mid inline-block text-bold">DEVAM</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+<a href="#pnr-info-layer" title="PNR Numaramı Bilmiyorum" class="link link--forgot link--underline p-l-10 js-fancybox " data-opts="{&#34;wrapCSS&#34;: &#34;pnr-info-layer&#34;,&#34;type&#34;:&#34;inline&#34;, &#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:true,&#34;closeBtn&#34;:false}">PNR Numaramı Bilmiyorum</a>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="g adt-services__list">
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="#pegasus-flex">
+<i class="icon icon--service-flex"></i>
+<strong class="adt-services__item-title">PEGASUS FLEX</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/havaalani-ulasim">
+<i class="icon icon--service-transfer"></i>
+<strong class="adt-services__item-title">HAVAALANI ULAŞIM</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="https://www.flypgs.com/havaalani-otopark">
+<i class="icon icon--service-parking"></i>
+<strong class="adt-services__item-title">OTOPARK</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="https://vize.flypgs.com/" rel="noopener" target="_blank">
+<i class="icon icon--service-visa"></i>
+<strong class="adt-services__item-title">KOLAY VİZE</strong>
+</a>
+</div>
+<div class="g__col g__20 m-b-30">
+<a class="adt-services__item" href="https://www.flypgs.com/faydali-bilgiler/ucusun-icin-bilgiler/genel-kurallar#1344">
+<i class="icon icon--service-sport"></i>
+<strong class="adt-services__item-title">SPOR VE DİĞER EKİPMAN</strong>
+</a>
+</div>
+</div>
+<div class="adt-services__panel p-v-15 hidden-xs">
+<div id="pegasus-flex" class="adt-services__panel-item">
+<div class="row no-gutter row-eq-height">
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/pegasus-flex" class="nxm-adt-service-img col-xs-4 adt-services__img-holder nxm-col-xs-offset-16" style="background-image:url(https://mediap.flypgs.com/awh/303/221//files/Genel/Pegasus_-_Flex.jpg)">
+Pegasus Flex (Sınırsız Değişiklik Hakkı)
+</a>
+<div class="col-xs-4 adt-services__img-holder adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<h3 class="text-xlarge text-lheight text-dark-gray">Sınırsız Değişiklik Hakkı</h3>
+<p class="adt-services__panel-content">Yurt içi ya da yurt dışı fark etmez; nereye uçarsan uç, artık Pegasus Flex ile bilet seçiminde çok daha özgürsün!</p>
+<div class="row no-gutter p-b-10">
+<div class="col-xs-6">
+<strong class="price text-dark-gray">
+</strong>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive pull-right" src="https://mediap.flypgs.com/awh/127/79//files/Genel/Pegasus_-_Flex.jpg" alt="Sınırsız Değişiklik Hakkı"/>
+</div>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/pegasus-flex" title="PEGASUS FLEX" class="button button--orange button--sm button--p-lg">
+<span class="v-a-mid inline-block text-semibold m-r-5">DETAY</span>
+<i class="icon icon--double-arrow-xs v-a-mid"></i>
+</a>
+</div>
+<div class="col-xs-4 adt-services__img-holder adt-services__panel-box section-grey p-20 nxm-col-xs-offset-16">
+<h3 class="text-xlarge text-lheight text-dark-gray">Nereden alabilirim?</h3>
+<p class="adt-services__panel-content">Pegasus Flex’in kişi başı tek yön bilet için ücreti iç hatlarda 12,99 TL, dış hatlarda ise 9,99 Euro&#39;dan başlayan fiyatlarla.</p>
+<div class="row no-gutter p-b-10">
+<div class="col-xs-6">
+<strong class="price text-dark-gray">
+</strong>
+</div>
+<div class="col-xs-6">
+<img class="img-responsive pull-right" src="https://mediap.flypgs.com/awh/127/79//files/Genel/Pegasus_-_Flex.jpg" alt="Nereden alabilirim?"/>
+</div>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/pegasus-flex" title="PEGASUS FLEX" class="button button--orange button--sm button--p-lg">
+<span class="v-a-mid inline-block text-semibold m-r-5">DETAY</span>
+<i class="icon icon--double-arrow-xs v-a-mid"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="adt-services p-t-40 p-b-30 hidden-sm hidden-md hidden-lg">
+<div class="js-pgs-carousel" data-opts="{&#34;items&#34;:1, &#34;dotsContainer&#34;: &#34;#dots-services&#34;}">
+<div class="g">
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://mobile.flypgs.com/#/buy/meal/search" rel="noopener">
+<i class="icon icon--service-food"></i>
+<strong class="adt-services__item-title">YEMEK SEÇİMİ</strong>
+</a>
+</div>
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://mobile.flypgs.com/#/buy/seat/search " rel="noopener">
+<i class="icon icon--service-seat"></i>
+<strong class="adt-services__item-title">KOLTUK SEÇİMİ</strong>
+</a>
+</div>
+</div>
+<div class="g">
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://mobile.flypgs.com/#/buy/baggage/search " rel="noopener">
+<i class="icon icon--service-luggage"></i>
+<strong class="adt-services__item-title">EK BAGAJ</strong>
+</a>
+</div>
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://cars.flypgs.com/?clientID=487885" rel="noopener" target="_blank">
+<i class="icon icon--service-car"></i>
+<strong class="adt-services__item-title">ARAÇ KİRALAMA</strong>
+</a>
+</div>
+</div>
+<div class="g">
+<div class="g__col g__50">
+<a class="adt-services__item" href="http://hotels.flypgs.com/index.html?aid=337919&amp;label=pgs-homepage-sbtab&amp;lang=tr&amp;selected_currency=TRY" rel="noopener" target="_blank">
+<i class="icon icon--service-hotel"></i>
+<strong class="adt-services__item-title">OTEL REZERVASYONU</strong>
+</a>
+</div>
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/pegasus-flex">
+<i class="icon icon--service-flex"></i>
+<strong class="adt-services__item-title">PEGASUS FLEX</strong>
+</a>
+</div>
+</div>
+<div class="g">
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/havaalani-ulasim">
+<i class="icon icon--service-transfer"></i>
+<strong class="adt-services__item-title">HAVAALANI ULAŞIM</strong>
+</a>
+</div>
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://www.flypgs.com/havaalani-otopark">
+<i class="icon icon--service-parking"></i>
+<strong class="adt-services__item-title">OTOPARK</strong>
+</a>
+</div>
+</div>
+<div class="g">
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://vize.flypgs.com/" rel="noopener" target="_blank">
+<i class="icon icon--service-visa"></i>
+<strong class="adt-services__item-title">KOLAY VİZE</strong>
+</a>
+</div>
+<div class="g__col g__50">
+<a class="adt-services__item" href="https://www.flypgs.com/faydali-bilgiler/ucusun-icin-bilgiler/genel-kurallar#1344">
+<i class="icon icon--service-sport"></i>
+<strong class="adt-services__item-title">SPOR VE DİĞER EKİPMAN</strong>
+</a>
+</div>
+</div>
+</div>
+<div id="dots-services" class="owl-dots owl-dots--small m-t-20"></div>
+</section>
+</section>
+</section>
+<section id="zone-27000" class="zone gray p-v-50 pgs-gre-1 ">
+<section id="widget-27016" class="widget" style="width:% ;height:% ;">
+<div class="pgs-wrap clearfix">
+<div class="row m-b-20 m-t-20">
+<div class="city-guide__title">
+<div class="col-sm-1 col-xs-12">
+<i class="icon icon--badge-fly m-t-5"></i>
+</div>
+<div class="col-sm-11 col-xs-12">
+<h2 class="text-sm-36">Atlayıp Gitsem Diyorsan</h2>
+<span class="text-sm-18">Birbirinden farklı seyahat tüyoları ve destinasyon önerileri ile harekete geç!</span>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 col-xs-12">
+<div class="city-guide">
+<div class="city-guide__detail-img city-guide__detail-img--rogue owl-item">
+<img src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/city-guides/city-cover.jpg" alt="Şehir Rehberi" class="img-responsive"/>
+<div class="city-guide__content">
+<h2 class="h-one text-white text-center">Şehir Rehberi</h2>
+<p class="text-light text-large text-white text-center p-h-10">50’den fazla destinasyon seni bekliyor!</p>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/sehirler" title="ŞEHİR SEÇ" class="text-center link--white-no-rollover text-white m-t-30 block">
+<span class="h-two text-bold block">ŞEHİR SEÇ</span>
+<i class="icon icon--double-arrow-bottom m-t-10"></i>
+</a>
+</div>
+</div>
+<div class="js-owl-sync">
+<div class="city-guide__detail owl-carousel rol-1" id="syncSlider1">
+<div class="city-guide__detail-img owl-item" data-item="item-0">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/barselona.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Barselona" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Barselona</h2>
+<p class="h-one-sub text-white p-t-10">Barselona, eşsiz mimari eserleri görmek için olduğu kadar, keyifli caddelerde turlamak için de en doğru adres.</p>
+<a href="/sehirler/barselona-ucak-bileti" title="Barselona" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Barselona</h2>
+<p class="text-white text-light p-t-0">
+Katalanların başkenti, Madrid’den sonra İspanya’nın en büyük şehri Barselona. Yaklaşık olarak1.608.000 kişinin yaşadığı Barselona’nın kuruluşuna dair hikayelerden birinde, Roma’dan 400 yıl önce Her...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/barselona-ucak-bileti" title="Barselona" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-1">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/londra.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Londra" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Londra</h2>
+<p class="h-one-sub text-white p-t-10">Londra&#39;da; Buckhingam Palace, Big Ben, Piccadily Circus, London Eye, London Bridge ve müzeleri mutlaka ziyaret edilmeli. </p>
+<a href="/sehirler/londra-ucak-bileti" title="Londra" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Londra</h2>
+<p class="text-white text-light p-t-0">
+İki bin yıl önce Romalılar tarafından kurulmuş, XXI. yüzyılda dünyanın en önemli iş, moda, müzik ve finans merkezlerinden biri olan Londra’da on beş milyona yakın insan yaşamakta. Thames nehrinin i...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/londra-ucak-bileti" title="Londra" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-2">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/paris.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Paris" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Paris</h2>
+<p class="h-one-sub text-white p-t-10">Paris’te Louvre Müzesi’nden sanat galerine birçok adresi ziyaret edebilir, Eiffel’in tepesinden şehri izleyebilirsiniz. </p>
+<a href="/sehirler/paris-ucak-bileti" title="Paris" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Paris</h2>
+<p class="text-white text-light p-t-0">
+Bilim, kültür, sanat alanlarında dünyanın önde gelen merkezlerinden birisi olarak kabul edilen Paris, MÖ 4.000 yıllık bir tarihe sahip. Seine Nehri’nin her iki yakasına kurulmuş olan kent, Fransa&#39;n...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/paris-ucak-bileti" title="Paris" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-3">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/antalya.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Antalya" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Antalya</h2>
+<p class="h-one-sub text-white p-t-10">Antalya, Antik çağ kalıntılarına ilgi duyanlar için de mutlaka ziyaret edilmesi gereken bir kaynak. </p>
+<a href="/sehirler/antalya-ucak-bileti" title="Antalya" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Antalya</h2>
+<p class="text-white text-light p-t-0">
+Antalya Türkiye’nin en büyük yedinci şehri. Akdeniz sahili boyunca uzanan şehir tarihi mirası, doğal güzellikleri ve uçsuz bucaksız plajlarıyla Türkiye’nin turizm cenneti. Büyük turizm yatırımlarıy...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/antalya-ucak-bileti" title="Antalya" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-4">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/jeddah_sehir_rehberi.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Cidde" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Cidde</h2>
+<p class="h-one-sub text-white p-t-10">Kızıldeniz&#39;in kıyısında bulunan Cidde, geçmiş ile bugünü buluşturuyor ve kendine has kültürüyle ziyaretçilerine farklı bir seyahat deneyimi yaşatıyor.</p>
+<a href="/sehirler/cidde-ucak-bileti" title="Cidde" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Cidde</h2>
+<p class="text-white text-light p-t-0">
+Bir liman kenti olması nedeniyle Cidde, yüzyıllardır ticaretin önemli bir noktası olarak biliniyor. Kızıldeniz’in kıyısında bulunması ise Cidde’nin Suudi Arabistan’ın tatil şehri olarak anılmasını ...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/cidde-ucak-bileti" title="Cidde" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-5">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/izmir.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="İzmir" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">İzmir</h2>
+<p class="h-one-sub text-white p-t-10">İzmir, Antik dönemden kalma şehirleri, mavi bayraklı koyları, en güzel partilere ev sahipliği yapan plajları ile yaşanılası bir şehir.</p>
+<a href="/sehirler/izmir-ucak-bileti" title="İzmir" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">İzmir</h2>
+<p class="text-white text-light p-t-0">
+İstanbul ve Ankara’dan sonra Türkiye’nin üçüncü büyük metropolü olan İzmir dört milyona yaklaşan nüfusuyla, yatlar ve gemilerle çevrilmiş uzun ve dar bir körfezin başında yer almakta. Sahil boyunca...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/izmir-ucak-bileti" title="İzmir" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-6">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/roma.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Roma" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Roma</h2>
+<p class="h-one-sub text-white p-t-10">Roma’da tarihin en önemli eserlerini görebilir, dünyaca ünlü markaların en özel tasarımlarına göz atabilirsiniz. </p>
+<a href="/sehirler/roma-ucak-bileti" title="Roma" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Roma</h2>
+<p class="text-white text-light p-t-0">
+Katoliklerin ruhani lideri Papa&#39;nın yaşadığı bağımsız devlet Vatikan’ın da yer aldığı 2800 yıllık şehir. Sırasıyla ve resmi adlarıyla; eski Roma&#39;nı, Roma Krallığı&#39;nın, Roma Cumhuriyeti&#39;nin, Roma İm...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/roma-ucak-bileti" title="Roma" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-7">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/grozni-sehir-rehberi.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Grozny" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Grozny</h2>
+<p class="h-one-sub text-white p-t-10">Rusya’nın küllerinden yeniden doğan Çeçen başkenti Grozni, geçmişi geride bırakarak oluşturduğu modern şehircilik çizgisiyle dikkat çekiyor.</p>
+<a href="/sehirler/grozny-ucak-bileti" title="Grozny" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Grozny</h2>
+<p class="text-white text-light p-t-0">
+Grozni tipik bir karasal iklime sahip olsa da yılın her mevsimi yağış ihtimali de görülüyor. Grozni gezisi için en ideal zamanlar ilkbahar ve sonbahar mevsimleri. Ucuz Grozni uçak bileti arıyorsanı...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/grozny-ucak-bileti" title="Grozny" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="city-guide__detail-img owl-item" data-item="item-8">
+<img data-src="https://mediap.flypgs.com/560//files/sehirlergorsel/kastamonu.jpg" src="/Assets/Web/Base/images/city-big-placeholder.jpg" alt="Kastamonu" class="img-responsive lazyload"/>
+<div class="p-t-80 p-l-60 p-r-60 p-b-60 city-guide__rol first-rol">
+<h2 class="text-xxlarge text-white">Kastamonu</h2>
+<p class="h-one-sub text-white p-t-10">Milattan önceki yüzyıllarda da yerleşim birimi olan bir şehir; Kastamonu… </p>
+<a href="/sehirler/kastamonu-ucak-bileti" title="Kastamonu" class="button button--orange button--p-lg button--lg m-t-60">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="p-t-10 p-l-60 p-r-60 p-b-60 city-guide__rollover second-rol">
+<div class="clearfix"></div>
+<h2 class="text-xxlarge text-white p-t-21">Kastamonu</h2>
+<p class="text-white text-light p-t-0">
+Karadeniz’in çoğu şehri gibi doğa harikalarıyla dolu olan Kastamonu’ya bir de tarihi güzellikler eklenince şehir değerine değer katıyor. Sakin ve huzurlu bir tatil vadeden kentin tarihini ve doğası...
+</p>
+<hr class="hr-trans"/>
+<a href="/sehirler/kastamonu-ucak-bileti" title="Kastamonu" class="button button--orange button--p-lg button--lg m-t-20">
+<span class="v-a-mid inline-block text-bold m-r-10">KEŞFET</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="city-guide__thumbs owl-carousel rol-2" id="syncSlider2">
+<div class="slider-item city-guide__img pgs-table" data-item="item-0">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/barselona.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Barselona" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Barselona</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-1">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/londra.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Londra" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Londra</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-2">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/paris.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Paris" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Paris</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-3">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/antalya.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Antalya" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Antalya</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-4">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/jeddah_sehir_rehberi.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Cidde" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Cidde</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-5">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/izmir.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="İzmir" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">İzmir</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-6">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/roma.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Roma" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Roma</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-7">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/grozni-sehir-rehberi.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Grozny" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Grozny</span>
+</div>
+</div>
+<div class="slider-item city-guide__img pgs-table" data-item="item-8">
+<img data-src="https://mediap.flypgs.com/awh/108/108//files/sehirlergorsel/kastamonu.jpg" src="/Assets/Web/Base/images/placeholder.jpg" alt="Kastamonu" class="img-responsive lazyload"/>
+<div class="city-guide__wrap pgs-table__cell v-a-mid text-center">
+<span class="city-guide__name block">Kastamonu</span>
+</div>
+</div>
+</div>
+</div>
+<div id="dotsGuides" class="owl-dots owl-dots--guides owl-dots--small"></div>
+<div id="navsGuides" class="owl-navs owl-navs--guides m-t-20"></div>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/sehirler" title="TÜM ŞEHİRLER İÇİN TIKLA" class="button button--light-gray button--p-lg button--full m-b-20 all-city">
+<span class="v-a-mid inline-block text-bold m-r-10">TÜM ŞEHİRLER İÇİN TIKLA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div class="col-sm-6 col-xs-12">
+<div class="row no-gutter">
+<div class="pgs-events">
+<img src="https://cdnp.flypgs.com/Assets/Web/build/assets/images/events/cover.png" alt="ETKİNLİK TAKVİMİ" class="img-responsive"/>
+<div class="pgs-events__content p-30 m-b-10">
+<div class="title">
+<i class="icon icon--star-orange"></i>
+<span class="text-normal text-bold text-white p-l-20">ETKİNLİK TAKVİMİ</span>
+</div>
+<div class="text">
+<h2 class="text-xlarge text-white text-bold">Hadi Ne Duruyorsun!</h2>
+<p class="text-white h-one-sub m-t-5">Onlarca güzel şehirde yüzlerce etkinlik keşfedilmeyi bekliyor. </p>
+</div>
+<div class="pgs_events_form nxm-event-detail--container">
+<div class="col-sm-3 col-xs-12 col-no-gutter">
+<span class="block m-t-10 m-b-10">
+<select id="nxm-eventLocation" class="js-select2-only-special select2 select2--classic js-select js-select--mobile select2--flat-on-mobile js_select2-mobile-popup" data-opts="{ &#34;theme&#34;: &#34;classic select2-mobile-popup&#34;, &#34;placeholder&#34;:&#34; NEREDE&#34;, &#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: true}">
+<option value="-1" data-slug="-1">NEREDE</option>
+<option value="00000000-0000-0000-0000-000000000000" data-slug="Farketmez">Farketmez</option>
+<option value="38d84a48-6c5b-c95d-6847-08d4d34e90e3" data-slug="abu-dabi">Abu Dabi</option>
+<option value="ca1d420d-e19e-4996-a42e-30dbb887fff3" data-slug="adana">Adana</option>
+<option value="02336090-1064-cbca-ce43-08d369126896" data-slug="alanya-–-gazipasa">Alanya – Gazipaşa</option>
+<option value="100c011b-6752-c3b5-082f-08d369d8409d" data-slug="almaata">Almaata</option>
+<option value="09d85c4c-83d3-cda8-4fca-08d36917ff81" data-slug="amman">Amman</option>
+<option value="1e00338d-6863-4430-b399-418aee5b281e" data-slug="amsterdam">Amsterdam</option>
+<option value="3e3a1cf5-94ce-4ddf-a1e6-f21dc40bea9b" data-slug="antalya">Antalya</option>
+<option value="b6e67f56-6cd3-451b-9035-90cbc43c23d3" data-slug="atina">Atina</option>
+<option value="98e45581-42d8-476f-8256-441deb3d4838" data-slug="bahreyn">Bahreyn</option>
+<option value="e7484ca3-9b8c-442f-a676-c3774520cfd7" data-slug="barselona">Barselona</option>
+<option value="229ccdd2-f16b-45ad-8754-d5f573195572" data-slug="basel">Basel</option>
+<option value="048fb06a-9cd8-4a7e-8f77-5b43ee5b41e3" data-slug="belgrad">Belgrad</option>
+<option value="a092f015-c7f0-4cf9-9cd5-c4465476d3fa" data-slug="berlin">Berlin</option>
+<option value="d5ad84db-9da3-44fa-9d75-7f7876cd0e02" data-slug="beyrut">Beyrut</option>
+<option value="60ecbf6a-2e6b-4998-9455-bc705bc66f19" data-slug="bodrum">Bodrum</option>
+<option value="aaedff29-d2ad-467c-84f4-088065a8017f" data-slug="bologna">Bologna</option>
+<option value="15443a94-024c-44f8-84ee-6752ef7dae59" data-slug="bruksel">Brüksel</option>
+<option value="72d7aeb1-8814-4797-bcd8-91e89e413bf9" data-slug="budapeste">Budapeşte</option>
+<option value="267cc36d-5979-4d7c-be19-42626d8bbee2" data-slug="cenevre">Cenevre</option>
+<option value="9aa9a8bb-e11d-c89f-8285-08d4e3a55c8e" data-slug="cidde">Cidde</option>
+<option value="0a09ea9e-0932-4262-ba04-d84872aeea4c" data-slug="doha">Doha</option>
+<option value="ec443661-9691-4975-8700-5558cdf2f4f4" data-slug="dubai">Dubai</option>
+<option value="0f151121-597d-4197-8ada-88550bee35f1" data-slug="dusseldorf">Düsseldorf</option>
+<option value="ba7a163e-6235-4cd8-b9f0-f3db02a00c67" data-slug="edremit">Edremit</option>
+<option value="80ddd17a-ed4e-475b-9a32-171e084cbac7" data-slug="frankfurt">Frankfurt</option>
+<option value="249a915c-69a4-c88f-5198-08d30c48daa6" data-slug="gaziantep">Gaziantep</option>
+<option value="72309a9c-9e34-4460-9455-975829fe5c09" data-slug="hamburg">Hamburg</option>
+<option value="163d719f-1cb8-4533-9fce-b8453a652a39" data-slug="hatay">Hatay</option>
+<option value="a01a58f7-f642-47c0-b6b3-76602fabb403" data-slug="hurghada">Hurghada</option>
+<option value="ab63f110-9c5e-48b4-83b9-76ce718bcd22" data-slug="istanbul">İstanbul</option>
+<option value="d0c6226e-d59b-4897-9488-86a5dc67e8f8" data-slug="izmir">İzmir</option>
+<option value="0fca17b8-cb63-4237-99a5-3d9029714eae" data-slug="kibris">Kıbrıs</option>
+<option value="d7f8e364-80a1-4cc9-9437-dd865ef17548" data-slug="kopenhag">Kopenhag</option>
+<option value="6f247adf-653a-4f86-9a81-c0f37145ac55" data-slug="koln">Köln</option>
+<option value="5522f106-f92b-4fbe-80b1-24e2430dc46c" data-slug="kuveyt">Kuveyt</option>
+<option value="7e6c9205-ebb5-40e2-8c54-d93a314e975b" data-slug="londra">Londra</option>
+<option value="7f5bb70f-2f7a-cc04-6873-08d369b11850" data-slug="lviv">Lviv</option>
+<option value="6c93773c-9fc1-490a-9d8a-2d2e63bdd7a5" data-slug="lyon">Lyon</option>
+<option value="a686db12-2a85-ce0f-77d6-08d30b6a23c3" data-slug="madrid">Madrid</option>
+<option value="e477a8fe-1049-cbb0-4424-08d4e3b8ef61" data-slug="manchester">Manchester</option>
+<option value="0be9435c-baed-43cd-9e69-cdb606108573" data-slug="mardin">Mardin</option>
+<option value="8c0e36eb-fd5c-413d-8851-0da8482360ed" data-slug="marsilya">Marsilya</option>
+<option value="dd376624-5546-4464-81de-85f8c9d4468f" data-slug="milano">Milano</option>
+<option value="9fc4cd16-bd04-4cc4-b646-89fe39ec744f" data-slug="moskova">Moskova</option>
+<option value="5f78ba78-5afd-4805-bf0a-05bdc2e87944" data-slug="munih">Münih</option>
+ <option value="87f33c42-b408-46fa-bd5a-333febc339a0" data-slug="nevsehir">Nevşehir</option>
+<option value="507af994-92c8-c941-7226-08d4d4b771f1" data-slug="nijniy-novgorod">Nijniy Novgorod</option>
+<option value="a9c165eb-f984-4031-b1b6-c196d474eacf" data-slug="nurnberg">Nürnberg</option>
+<option value="35581b87-cbb9-4319-a9c7-248f0026dc9b" data-slug="oslo">Oslo</option>
+<option value="c18f9930-7b8e-499d-a595-8a5a8cd55275" data-slug="paris">Paris</option>
+<option value="1a7f8d23-a10f-40fb-a035-476371844eb3" data-slug="prag">Prag</option>
+<option value="4d55a1bc-1e24-43af-8f76-ac3b0c144f42" data-slug="pristine">Priştine</option>
+<option value="aad69c89-aed9-4c14-afc1-e85329f56530" data-slug="roma">Roma</option>
+<option value="5b8cc970-a292-4532-a808-9df17616f8ef" data-slug="samsun">Samsun</option>
+<option value="406008ab-e78c-4079-8465-5b5578b81944" data-slug="saraybosna">Saraybosna</option>
+<option value="a87ee1d1-4e94-4273-b6ed-58a7eacaf934" data-slug="sharm-el-sheikh">Sharm El Sheikh</option>
+<option value="9a9dcb7b-d6cf-4a6d-8080-68501e9c1b38" data-slug="stockholm">Stockholm</option>
+<option value="c0c0cd2e-7ceb-423d-a7ff-21dfbb92d4ec" data-slug="stuttgart">Stuttgart</option>
+<option value="8928d6f7-8431-4a91-b5cc-4e62a7b4a69e" data-slug="tahran">Tahran</option>
+<option value="a595f5b7-201f-4ecf-9155-30a4d6934b76" data-slug="tel-aviv">Tel Aviv</option>
+<option value="762e9cdb-b676-4ae5-b516-fb9322b17696" data-slug="tiflis">Tiflis</option>
+<option value="2a740929-0176-4a18-ad51-d61a087d503d" data-slug="tiran">Tiran</option>
+<option value="6b8511fb-498b-4d71-acd9-f0de2c41703f" data-slug="trabzon">Trabzon</option>
+<option value="072794b2-de68-426c-ac0c-175d47fb6cd3" data-slug="uskup">Üsküp</option>
+<option value="b406efee-7504-4e48-baf1-ab40e99289b2" data-slug="van">Van</option>
+<option value="3cd226c8-9d68-4308-8f99-22ef91936035" data-slug="viyana">Viyana</option>
+<option value="465908b2-b699-c05a-2675-08d4d4c42c9c" data-slug="volgograd">Volgograd</option>
+<option value="c0eb653e-0fb1-4b00-b268-eb2964ec2dde" data-slug="zurih">Zürih</option>
+</select>
+</span>
+</div>
+<div class="col-sm-6 col-xs-12 col-no-mobile-gutter">
+<span class="block m-t-10 m-b-10">
+<select id="nxm-eventType" class="js-select2-only-special select2 select2--classic js-select js-select--mobile select2--flat-on-mobile js_select2-mobile-popup" data-opts="{ &#34;theme&#34;: &#34;classic select2-mobile-popup&#34;, &#34;placeholder&#34;: &#34;NASIL BİR ETKİNLİK&#34;, &#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: true}">
+<option value="-1" data-slug="-1">NASIL BİR ETKİNLİK</option>
+<option value="557c4a1f-560a-ca02-a079-08d30bb67694" data-slug="farketmez">Farketmez</option>
+<option value="2e84464f-2318-c22f-a4cf-08d30bb683a5" data-slug="festival">Festival</option>
+<option value="28a0eb76-733b-c669-1570-08d30bb691a5" data-slug="karnaval">Karnaval</option>
+<option value="2ce74dfe-50d3-cc17-d12f-08d30bb6c1a2" data-slug="moda">Moda</option>
+<option value="9db654cd-a6b5-c618-3321-08d277d5dfe2" data-slug="sanatsal">Sanatsal</option>
+<option value="a34c8efc-c2a7-cb1e-ce2b-08d30bb6bb29" data-slug="spor">Spor</option>
+</select>
+</span>
+</div>
+<div class="col-sm-3 col-xs-12 col-no-gutter">
+<a href="javascript:void(0)" data-url="/etkinlikler" title="ARA" class="nxm-eventSearch button button--orange button--lg button--full m-t-10 pull-right">
+<span class="v-a-mid inline-block text-bold">ARA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="zone-26999" class="zone white p-v-50 pgs-gre-2 ">
+<section id="widget-27011" class="widget">
+<div class="pgs-wrap">
+<div id="portlets-25745" class="owl-navs owl-navs--campaign"></div>
+<div class="js-pgs-carousel" data-opts="{&#34;margin&#34;:20,&#34;dotsContainer&#34;: &#34;#portlets--25745&#34;,&#34;navContainer&#34;:&#34;#portlets-25745&#34;, &#34;nav&#34;:true,&#34;responsiveClass&#34;:true,&#34;loop&#34;:true, &#34;responsive&#34;:{&#34;0&#34;:{&#34;items&#34;:1},&#34;450&#34;:{&#34;items&#34;:2},&#34;800&#34;:{&#34;items&#34;:4}}}">
+<div class="slider-item text-center">
+<h2 class="text-light title title--bordered m-b-20">Zamanında Kalkış Performansı</h2>
+<div class="campaigns__desc-container ">
+<span class="text-dark-gray text-medium-2">Mart 2018</span>
+<div class="text-dark-gray">
+Web sitesinde zamanında kalkış oranlarını tereddütsüzce yayınlayan ilk şirket Pegasus Havayolları&#39;dır
+</div>
+</div>
+<div class="campaigns__img-container m-t-30">
+<img data-src="https://mediap.flypgs.com/awh/140/140//files/zamaninda_kalkis/zamaninda_kalkis_mart-2018.jpg" src="/Assets/Web/Base/images/portlet-placeholder.jpg" alt="Zamanında Kalkış Performansı" class="lazyload"/>
+</div>
+<a href="http://www.flypgs.com/pegasus-ile-ucus/zamaninda-kalkis-performansi.aspx" title="Zamanında Kalkış Performansı" class="button button--orange button--p-lg button--sm">
+<span class="v-a-mid inline-block text-bold m-r-10">Tıkla</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="slider-item text-center">
+<h2 class="text-light title title--bordered m-b-20">Seyahat evraklarını Timatic ile kontrol et!</h2>
+<div class="campaigns__desc-container ">
+<span class="text-dark-gray text-medium-2">Evrakların ile ilgili tüm bilgileri tek tıkla flypgs.com’da</span>
+<div class="text-dark-gray">
+Pegasus, IATA işbirliğiyle Türkiye’de ilk defa misafirlerine vizeler, vergiler, yanlarında olması gereken evraklar gibi bilgi...
+</div>
+</div>
+<div class="campaigns__img-container m-t-30">
+<img data-src="https://mediap.flypgs.com/awh/140/140//files/TimaticWeb_Sari.png" src="/Assets/Web/Base/images/portlet-placeholder.jpg" alt="Seyahat evraklarını Timatic ile kontrol et!" class="lazyload"/>
+</div>
+<a href="https://www.flypgs.com/faydali-bilgiler/ucusun-icin-bilgiler/seyahat-dokumanlari-kontrolu-timatic-web" title="Seyahat evraklarını Timatic ile kontrol et!" class="button button--orange button--p-lg button--sm">
+<span class="v-a-mid inline-block text-bold m-r-10">Keşfet!</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="slider-item text-center">
+<h2 class="text-light title title--bordered m-b-20">flypgs.com Magazine</h2>
+<div class="campaigns__desc-container ">
+<span class="text-dark-gray text-medium-2">flypgs.com Magazine’i Online Okuyabilirsin!</span>
+<div class="text-dark-gray">
+Seyahat trendlerinden kültür sanata, farklı destinasyonlarla ilgili ilham verici yazılardan Pegasus’un güncel haberlerine uza...
+</div>
+</div>
+<div class="campaigns__img-container m-t-30">
+<img data-src="https://mediap.flypgs.com/awh/140/140//files/PGS-MAG/MART-140X140__002_.jpg" src="/Assets/Web/Base/images/portlet-placeholder.jpg" alt="flypgs.com Magazine" class="lazyload"/>
+</div>
+<a href="https://www.flypgs.com/pegasus-hakkinda/pegasus-magazine" title="flypgs.com Magazine" class="button button--orange button--p-lg button--sm">
+<span class="v-a-mid inline-block text-bold m-r-10">Hemen Oku!</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="slider-item text-center">
+<h2 class="text-light title title--bordered m-b-20">Mobil uygulamamızı hala indirmedin mi?</h2>
+<div class="campaigns__desc-container ">
+<span class="text-dark-gray text-medium-2">Ücretsiz mobil uygulamalarımızı hemen indirin.</span>
+<div class="text-dark-gray">
+Pegasus&#39;un yeni nesil tasarım ve en güncel teknolojilerle geliştirilmiş mobil uygulamaları ile seyahat planlamak parmağınızın...
+</div>
+</div>
+<div class="campaigns__img-container m-t-30">
+<img data-src="https://mediap.flypgs.com/awh/140/140//Files/Dummy/image04.png" src="/Assets/Web/Base/images/portlet-placeholder.jpg" alt="Mobil uygulamamızı hala indirmedin mi?" class="lazyload"/>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/pegasus-mobil-uygulamalari" title="Mobil uygulamamızı hala indirmedin mi?" class="button button--orange button--p-lg button--sm">
+<span class="v-a-mid inline-block text-bold m-r-10">Hemen İndir!</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="slider-item text-center">
+<h2 class="text-light title title--bordered m-b-20">Pegasus&#39;la uçmanın 4 akıllı yolu!</h2>
+<div class="campaigns__desc-container ">
+<span class="text-dark-gray text-medium-2">Herkese göre bir paket var.</span>
+<div class="text-dark-gray">
+İhtiyaçlarına, uçuş alışkanlıklarına ve farklı fiyat seçeneklerine göre oluşturulan 4 akıllı uçuş paketiyle seyahatine nasıl ...
+</div>
+</div>
+<div class="campaigns__img-container m-t-30">
+<img data-src="https://mediap.flypgs.com/awh/140/140//files/Genel/paketler.png" src="/Assets/Web/Base/images/portlet-placeholder.jpg" alt="Pegasus&#39;la uçmanın 4 akıllı yolu!" class="lazyload"/>
+</div>
+<a href="https://www.flypgs.com/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ucus-paketleri" title="Pegasus&#39;la uçmanın 4 akıllı yolu!" class="button button--orange button--p-lg button--sm">
+<span class="v-a-mid inline-block text-bold m-r-10">Paketleri Gör</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+<div class="slider-item text-center">
+<h2 class="text-light title title--bordered m-b-20">Seçim Özgürlüğü Pegasus&#39;ta</h2>
+<div class="campaigns__desc-container ">
+<span class="text-dark-gray text-medium-2">İhtiyacın kadarını öde, rahat rahat uç.</span>
+<div class="text-dark-gray">
+İhtiyaçlarına, uçuş alışkanlıklarına ve farklı fiyat seçeneklerine ek hizmetlerini seç, seyahatine nasıl başlayacağına sen ka...
+</div>
+</div>
+<div class="campaigns__img-container m-t-30">
+<img data-src="https://mediap.flypgs.com/awh/140/140//files/Genel/ek_hizmetler_gorsel_301215-2-.jpg" src="/Assets/Web/Base/images/portlet-placeholder.jpg" alt="Seçim Özgürlüğü Pegasus&#39;ta" class="lazyload"/>
+</div>
+<a href="https://www.flypgs.com/faydali-bilgiler/ucusun-icin-bilgiler/ek-hizmetler" title="Seçim Özgürlüğü Pegasus&#39;ta" class="button button--orange button--p-lg button--sm">
+<span class="v-a-mid inline-block text-bold m-r-10">Ek hizmetleri keşfet!</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+<div id="portlets--25745" class="owl-dots owl-dots--small m-t-20"></div>
+</div>
+</section>
+</section>
+<section id="zone-26997" class="zone gray p-v-50 pgs-gre-3 ">
+<section id="widget-27010" class="widget">
+<div class="pgs-wrap">
+<div class="row nxm-sub-eq">
+<article class="col-sm-4">
+<div class="nxm-sub-blog pgs-bottom-section pgs-bottom-section--bg" style="background-image:url(https://cdnp.flypgs.com/files/pegasus-blog-yenilendi.jpg)">
+<div class="pgs-bottom-section__desc">
+</div>
+<a href="https://blog.flypgs.com" title="Hemen Keşfet!" class="button button--orange button--p-lg button--sm pgs-bottom-section__action">
+<span class="v-a-mid inline-block text-bold m-r-10">Hemen Keşfet!</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</article>
+<article class="col-sm-4">
+<div class="pgs-bottom-section pgs-bottom-section--white">
+<h2 class="pgs-bottom-section__title">Duyurular</h2>
+<ul class="pgs-bottom-section__list">
+<li><a href="/basin-odasi/duyurular/duyuru-detay/antalya-havalimani-dis-hat-terminal-degisikligi" title="Antalya Havalimanı Dış Hat Terminal Değişikliği">Antalya Havalimanı Dış Hat Terminal Değişikliği</a></li>
+<li><a href="/basin-odasi/duyurular/duyuru-detay/check-in-ve-boarding-kapanma-sureleri-ile-kabin-bagaji-ozellikleri-hakkinda" title="Check-in Kapanma Süreleri ve Kabin Bagajı Kuralları Hakkında">Check-in Kapanma Süreleri ve Kabin Bagajı Kuralları Hakkında</a></li>
+<li><a href="/basin-odasi/duyurular/duyuru-detay/ucak-ici-duty-free-hizmetine-ara-verme-hakkinda" title="Uçak İçi Duty Free Hizmetine Ara Verme Hakkında">Uçak İçi Duty Free Hizmetine Ara Verme Hakkında</a></li>
+<li><a href="/basin-odasi/duyurular/duyuru-detay/kredi-karti-ile-islem-yapacak-misafirlerimizin-dikkatine" title="Kredi Kartı ile İşlem Yapacak Misafirlerimizin Dikkatine">Kredi Kartı ile İşlem Yapacak Misafirlerimizin Dikkatine</a></li>
+</ul>
+<a href="/basin-odasi/duyurular" title="Tümünü Görüntüle" class="button button--orange button--p-lg button--sm pgs-bottom-section__action">
+<span class="v-a-mid inline-block text-bold m-r-10">Tümünü Görüntüle</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</article>
+<article class="col-sm-4">
+<div class="pgs-bottom-section pgs-bottom-section--white">
+<h2 class="pgs-bottom-section__title">Basın Odası</h2>
+<ul class="pgs-bottom-section__list">
+<li><a href="/basin-bultenleri/pegasusun-yeni-ucagi-geldi" title="Pegasus’un yeni uçağı geldi">Pegasus’un yeni uçağı geldi</a></li>
+<li><a href="/basin-bultenleri/pegasus-ucuslari-masterpass-guvencesinde" title="Pegasus uçuşları Masterpass™ güvencesinde!">Pegasus uçuşları Masterpass™ güvencesinde!</a></li>
+<li><a href="/basin-bultenleri/pegasus-2017de-misafir-sayisini-yuzde-15-artirdi-yili-53-milyar-tl-ciro-ile-kapatti" title="Pegasus 2017’de misafir sayısını yüzde 15 artırdı, yılı 5,3 milyar TL ciro ile kapattı">Pegasus 2017’de misafir sayısını yüzde 15 artırdı, yılı 5,3 milyar TL ciro ile kapattı</a></li>
+<li><a href="/basin-bultenleri/pegasusun-yeni-airbus-a320neo-ucagi-eylul-masal-geldi" title="Pegasus’un yeni Airbus A320neo uçağı “Eylül Masal” geldi">Pegasus’un yeni Airbus A320neo uçağı “Eylül Masal” geldi</a></li>
+</ul>
+<a href="/basin-odasi/bultenler" title="Tümünü Görüntüle" class="button button--orange button--p-lg button--sm pgs-bottom-section__action">
+<span class="v-a-mid inline-block text-bold m-r-10">Tümünü Görüntüle</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</article>
+</div>
+</div>
+</section>
+</section>
+<section id="zone-27001" class="zone clearfix white pgs-gre-4 ">
+<section id="widget-27006" class="widget">
+<section class="clearfix homepage-banner">
+<div class="relative">
+<div class="js-pgs-carousel" data-opts="{&#34;items&#34;:1,&#34;dotsContainer&#34;: &#34;#dotsBanner&#34;,&#34;navContainer&#34;:&#34;#navsBanner&#34;, &#34;nav&#34;:true,&#34;autoplay&#34;: true, &#34;loop&#34;: true, &#34;autoplayHoverPause&#34;: true}">
+<div class="slider-item" data-autoplay-timeout="5000">
+<a href="http://parking.flypgs.com/tr-TR?utm_medium=referral&amp;utm_source=pegasus&amp;utm_campaign=main_bottom_banner">
+<img class="homepage-banner__img lazyload" data-sizes="auto" data-src="https://mediap.flypgs.com/2000//files/ana_sayfa_alt_banner/Parkcloud/2000x337_Turkish.jpg" data-srcset="https://mediap.flypgs.com/600//files/ana_sayfa_alt_banner/Parkcloud/2000x337_Turkish.jpg 600w, https://mediap.flypgs.com/900//files/ana_sayfa_alt_banner/Parkcloud/2000x337_Turkish.jpg 900w, https://mediap.flypgs.com/1200//files/ana_sayfa_alt_banner/Parkcloud/2000x337_Turkish.jpg 1200w,https://mediap.flypgs.com/2000//files/ana_sayfa_alt_banner/Parkcloud/2000x337_Turkish.jpg 2000w" src="/Assets/Web/Base/images/placeholder.jpg" alt="Parkcloud"/>
+</a>
+</div>
+<div class="slider-item" data-autoplay-timeout="5000">
+<a href="https://fasttrack.flypgs.com/">
+<img class="homepage-banner__img lazyload" data-sizes="auto" data-src="https://mediap.flypgs.com/2000//files/ana_sayfa_alt_banner/fast_track_misafir.jpg" data-srcset="https://mediap.flypgs.com/600//files/ana_sayfa_alt_banner/fast_track_misafir.jpg 600w, https://mediap.flypgs.com/900//files/ana_sayfa_alt_banner/fast_track_misafir.jpg 900w, https://mediap.flypgs.com/1200//files/ana_sayfa_alt_banner/fast_track_misafir.jpg 1200w,https://mediap.flypgs.com/2000//files/ana_sayfa_alt_banner/fast_track_misafir.jpg 2000w" src="/Assets/Web/Base/images/placeholder.jpg" alt="Fasttrack"/>
+</a>
+</div>
+<div class="slider-item" data-autoplay-timeout="5000">
+<a href="https://vize.flypgs.com/">
+<img class="homepage-banner__img lazyload" data-sizes="auto" data-src="https://mediap.flypgs.com/2000//files/ana_sayfa_alt_banner/vize_alt_banner_2.jpg" data-srcset="https://mediap.flypgs.com/600//files/ana_sayfa_alt_banner/vize_alt_banner_2.jpg 600w, https://mediap.flypgs.com/900//files/ana_sayfa_alt_banner/vize_alt_banner_2.jpg 900w, https://mediap.flypgs.com/1200//files/ana_sayfa_alt_banner/vize_alt_banner_2.jpg 1200w,https://mediap.flypgs.com/2000//files/ana_sayfa_alt_banner/vize_alt_banner_2.jpg 2000w" src="/Assets/Web/Base/images/placeholder.jpg" alt="Vize"/>
+</a>
+</div>
+</div>
+<div id="dotsBanner" class="owl-dots owl-dots--light owl-dots--small owl-dots--in"></div>
+<div id="navsBanner" class="owl-navs owl-navs--wrap owl-navs--light owl-navs--v-center hidden-xs"></div>
+</div>
+</section>
+</section>
+</section>
+<div class="pgs-wrap footer-ticket-links">
+<div class="row">
+<ul>
+<li><a href="https://flights.flypgs.com/tr/sitemap/ulkeler/page-1" class="" target="_blank" rel="noopener" title="Ülkeler"><span>Ülkeler</span></a></li>
+<li><a href="https://flights.flypgs.com/tr/sitemap/sehirler/page-1" class="" target="_blank" rel="noopener" title="Şehirler"><span>Şehirler</span></a></li>
+<li><a href="https://flights.flypgs.com/tr/sitemap/ulke-ulke-rotalar/page-1" class="" target="_blank" rel="noopener" title="Ülke Ülke Rotalar"><span>Ülke Ülke Rotalar</span></a></li>
+<li><a href="https://flights.flypgs.com/tr/sitemap/sehir-sehir-rotalar/page-1" class="" target="_blank" rel="noopener" title="Şehir Şehir Rotalar"><span>Şehir Şehir Rotalar</span></a></li>
+<li><a href="https://flights.flypgs.com/tr/sitemap/ulke-sehir-rotalar/page-1" class="" target="_blank" rel="noopener" title="Ülke Şehir Rotalar"><span>Ülke Şehir Rotalar</span></a></li>
+<li><a href="https://flights.flypgs.com/tr/sitemap/sehirlerden-ucuslar/page-1" class="" target="_blank" rel="noopener" title="Şehirlerden Uçuşlar"><span>Şehirlerden Uçuşlar</span></a></li>
+<li><a href="https://flights.flypgs.com/tr/sitemap/ulkelerden-ucuslar/page-1" class="" target="_blank" rel="noopener" title="Ülkelerden Uçuşlar"><span>Ülkelerden Uçuşlar</span></a></li>
+</ul>
+</div>
+</div>
+<section class="footer footer--site-menu">
+<div class="pgs-wrap p-v-50">
+<div class="row">
+<div class="clearfix col-sm-6">
+<div class="col-sm-6 col-xs-6">
+<ul class="footer__list-1">
+<li>
+<a class="link link--white" href="/pegasus-hakkinda/neden-pegasus" title="Pegasus Hakkında" target="_blank">Pegasus Hakkında</a>
+</li>
+<li>
+<a class="link link--white" href="https://www.flypgs.com/kariyer/insan-kaynaklari-politikamiz" title="Kariyer" target="_self">Kariyer</a>
+</li>
+<li>
+<a class="link link--white" href="http://www.pegasuscargo.com/default.aspx" title="Pegasus Kargo" target="_blank" rel="nofollow">Pegasus Kargo</a>
+</li>
+<li>
+<a class="link link--white" href="/basin-odasi" title="Basın Odası" target="_self">Basın Odası</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-6 col-xs-6">
+<ul class="footer__list-1">
+<li>
+<a class="link link--white" href="http://www.pegasusyatirimciiliskileri.com/tr" title="Bilgi Toplumu Hizmetleri/Yatırımcı İlişkileri" target="_blank" rel="nofollow">Bilgi Toplumu Hizmetleri/Yatırımcı İlişkileri</a>
+</li>
+<li>
+<a class="link link--white" href="/faydali-bilgiler/diger-bilgiler/sikca-sorulan-sorular" title="Sıkça Sorulan Sorular" target="_self">Sıkça Sorulan Sorular</a>
+</li>
+<li>
+<a class="link link--white" href="https://www.flypgs.com/iletisim/cagri-merkezi" title="İletişim" target="_self">İletişim</a>
+</li>
+<li>
+<a class="link link--white" href="/pegasus-hakkinda/flypgscom-magazine" title="flypgs.com Magazine" target="_self">flypgs.com Magazine</a>
+</li>
+</ul>
+</div>
+<div class="clearfix col-sm-12">
+<h2 class="footer__title p-b-20 p-t-40 p-t-sm-30">Ücretsiz İndir!</h2>
+<a href="https://app.adjust.com/7tj1qj" target="_blank" rel="noopener"> <img src="/Assets/Images/store/appstore/tr/tr.png" alt="Ücretsiz İndir!"/></a>
+<a href="https://app.adjust.com/cw4rxr" class="m-l-10" target="_blank" rel="noopener"><img src="/Assets/Images/store/playstore/tr/tr.png" alt="Ücretsiz İndir!"/></a>
+</div>
+</div>
+<div class="col-sm-6">
+<h2 class="footer__title p-b-20 p-t-sm-0 p-t-40">Kampanyalardan Haberdar ol</h2>
+<div class="newsletter">
+<form class="relative clearfix nxm-newsletter-form" action="/NewsLetter/Register" data-parsley-validate="true" method="POST" name="newsletter">
+<input id="key" name="key" type="hidden" value="frm329"/>
+<div class="col-sm-6 col-no-mobile-gutter col-no-gutter-padding-right m-b-5">
+<input class="input input--darkness input--xs js-only-special nxm-firstname" name="first_name" id="first_name" placeholder="Adın" type="text" data-parsley-required="true"/>
+</div>
+<div class="col-sm-6 col-no-mobile-gutter col-no-gutter-padding-left">
+<input class="input input--darkness input--xs js-only-special nxm-lastname" name="last_name" id="last_name" placeholder="Soyadın" type="text" data-parsley-required="true"/>
+</div>
+<div class="clearfix"></div>
+<div class="col-xs-12 col-no-gutter m-t-5 m-b-10 m-t-sm-0">
+<input id="input-mail" autocapitalize="none" class="input input--mail nxm-email" placeholder="E-posta adresini gir." type="text" data-parsley-required="true" data-parsley-type="email" data-parsley-errors-container="#nxm-nws-error"/>
+<button title="" class="button button--orange send-btn" data-error="E-Bülten bilgilerin kaydedilirken hata oluştu, lütfen daha sonra tekrar deneyin.">
+<i class="icon icon--double-arrow v-a-mid"></i>
+</button>
+<div id="nxm-nws-error"></div>
+</div>
+<div class="block m-b-10">
+<input type="checkbox" name="newsletter_agree" class="checkbox--dark" id="newsletter_agree" data-parsley-required="true" data-parsley-error-message="Lütfen kuralları okuyup onaylayın"/>
+<label class="label p-r-20 text-soft-gray4" for="newsletter_agree">
+Gizlilik <a href="/gizlilik" target="_blank">Kuralları’nda</a> belirtilen şartlar uyarınca Pegasus ve <a href="javascript:void(0);" rel="nofollow" title="Golf Sigorta A.Ş., Booking.com B.V., DealBroker B.V., Etrawler, ING Bank A.Ş., Otokoç Otomotiv Tic. ve San. A.Ş., ParkCloud Ltd., Worldwide Turizm Seyahat A.Ş, Yeni Karamürsel Turizm Ltd.Şti, İstanbul Sabiha Gökçen Uluslararası Havalimanı)," class="js-tooltip" data-tooltip-options="{&#34;theme&#34;: &#34;tooltipster-noir&#34;, &#34;trigger&#34;:&#34;hover&#34;}">iş ortakları</a> adına, benimle iletişime geçilmesine ve Pegasus tarafından kişisel verilerimin işlenmesine izin veriyorum. </label>
+</div>
+</form>
+</div>
+<h2 class="footer__title p-b-20 p-t-40 p-t-sm-30">Pegasus&#39;u Takip et</h2>
+<a class="link--hover-act pgs-blg" href="https://blog.flypgs.com/" target="blog" rel="nofollow"><i class="icon icon--blogp footer--social m-b-10"></i></a>
+<a class="link--hover-act" href="https://www.facebook.com/PegasusHavayollari/" target="facebook" rel="nofollow"><i class="icon icon--fb footer--social m-b-10"></i></a>
+<a class="link--hover-act" href="http://twitter.com/ucurbenipegasus" target="twitter" rel="nofollow"><i class="icon icon--tt footer--social m-b-10"></i></a>
+<a class="link--hover-act" href="https://www.youtube.com/pegasusairlines" target="youtube"><i class="icon icon--ytb footer--social m-b-10"></i></a>
+<a class="link--hover-act" href="http://instagram.com/pegasusairlines" target="instagram" rel="nofollow"><i class="icon icon--ins footer--social m-b-10"></i></a>
+<a class="link--hover-act" href="https://tr.foursquare.com/ucurbenipegasus" target="foursquare" rel="nofollow"><i class="icon icon--fsq footer--social m-b-10"></i></a>
+<a class="link--hover-act" href="https://plus.google.com/+PegasusHavayolları/" target="google" rel="nofollow"><i class="icon icon--gp footer--social m-b-10"></i></a>
+</div>
+</div>
+</div>
+</section>
+<section class="footer footer--popular">
+<div class="pgs-wrap p-v-50">
+<div class="row">
+<!-- COL 1 -->
+<div class="col-sm-6">
+<h2 class="footer__title p-b-20"><i class="icon icon--fly-red m-r-15"></i>Popüler Şehirler</h2>
+<!-- POPULAR SEHİRLER LIST -->
+<div class="row">
+<div class="col-xs-6">
+<h2 class=" p-b-20 text-regular text-normal text-white">YURT İÇİ</h2>
+<ul class="footer__list-2">
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/izmir-ucak-bileti" title="İzmir Uçak Bileti">İzmir Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/kayseri-ucak-bileti" title="Kayseri Uçak Bileti">Kayseri Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/diyarbakir-ucak-bileti" title="Diyarbakır Uçak Bileti">Diyarbakır Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-ucak-bileti" title="İstanbul Uçak Bileti">İstanbul Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/adana-ucak-bileti" title="Adana Uçak Bileti">Adana Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/ankara-ucak-bileti" title="Ankara Uçak Bileti">Ankara Uçak Bileti</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-6">
+<h2 class=" p-b-20 text-regular text-normal text-white">YURT DIŞI</h2>
+<ul class="footer__list-2">
+<li>
+<a class="link link--grey" href="https://www.flypgs.com/sehirler/kibris-ucak-bileti" title="Kıbrıs Uçak Bileti">Kıbrıs Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/beyrut-ucak-bileti" title="Beyrut Uçak Bileti">Beyrut Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/kopenhag-ucak-bileti" title="Kopenhag Uçak Bileti">Kopenhag Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/londra-ucak-bileti" title="Londra Uçak Bileti">Londra Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/paris-ucak-bileti" title="Paris Uçak Bileti">Paris Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/amsterdam-ucak-bileti" title="Amsterdam Uçak Bileti">Amsterdam Uçak Bileti</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- COL 2 -->
+<div class="col-sm-6 p-t-sm-0 p-t-30">
+<h2 class="footer__title p-b-20"><i class="icon icon--fly-red m-r-15"></i>Popüler Uçak Biletleri</h2>
+<!-- POPULAR UÇAK BİLETLERİ -->
+<div class="row">
+<div class="col-xs-6">
+<h2 class=" p-b-20 text-regular text-normal text-white">YURT İÇİ</h2>
+<ul class="footer__list-2">
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-cikisli-antalya-ucak-bileti" title="İstanbul – Antalya Uçak Bileti">İstanbul – Antalya Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/izmir-cikisli-istanbul-ucak-bileti" title="İzmir – İstanbul Uçak Bileti">İzmir – İstanbul Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/antalya-cikisli-istanbul-ucak-bileti" title="Antalya – İstanbul Uçak Bileti">Antalya – İstanbul Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/adana-cikisli-istanbul-ucak-bileti" title="Adana - İstanbul Uçak Bileti">Adana - İstanbul Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-cikisli-ankara-ucak-bileti" title="İstanbul – Ankara Uçak Bileti">İstanbul – Ankara Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/trabzon-cikisli-istanbul-ucak-bileti" title="Trabzon – İstanbul Uçak Bileti">Trabzon – İstanbul Uçak Bileti</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-6">
+<h2 class=" p-b-20 text-regular text-normal text-white">YURT DIŞI</h2>
+<ul class="footer__list-2">
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/amsterdam-cikisli-istanbul-ucak-bileti" title="Amsterdam – İstanbul Uçak Bileti">Amsterdam – İstanbul Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-cikisli-dusseldorf-ucak-bileti" title="İstanbul – Düsseldorf Uçak Bileti">İstanbul – Düsseldorf Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-cikisli-amsterdam-ucak-bileti" title="İstanbul – Amsterdam Uçak Bileti">İstanbul – Amsterdam Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/koln-cikisli-istanbul-ucak-bileti" title="Köln – İstanbul Uçak Bileti">Köln – İstanbul Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-cikisli-paris-ucak-bileti" title="İstanbul - Paris Uçak Bileti">İstanbul - Paris Uçak Bileti</a>
+</li>
+<li>
+<a class="link link--grey" href="https://flights.flypgs.com/tr/istanbul-cikisli-koln-ucak-bileti" title="İstanbul – Köln Uçak Bileti">İstanbul – Köln Uçak Bileti</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="footer footer--cr">
+<div class="pgs-wrap p-t-30 p-b-30">
+<div class="feature-text p-b-20 m-b-20" style="border-bottom: solid 1px #eceaea;">
+<h2> Pegasus’ta Uçak Bileti Demek Özgürlük Demek!</h2>
+<p> Herkes istediği yere özgürce ulaşabilsin diye, ucuz uçak bileti kampanyalarıyla 2005 yılında hizmet sunmaya başlayan Pegasus Hava Yolları, kurulduğundan beri milyonlarca kişi için uçmanın en ekonomik yolu oldu. “Uçmak herkesin hakkı!” mottosuyla hareket eden Pegasus, eskiden bir lüks olarak görülen uçak seyahatini, yaptığı ucuz uçak bileti uygulamaları herkes için pratik ve hızlı bir ulaşıma dönüştürdü. Dünyanın farklı köşelerini keşfetmek için ucuz uçak bileti arayan herkes, Pegasus sayesinde en ucuz uçak biletlerini bulabiliyor ve Pegasus’un uçuş ağı içindeki her yere özgürce gidebiliyor.</p>
+<p>
+Pegasus’ta yılın her dönemi farklı uçak bileti kampanyaları hazırlanıyor. Neden? Keşfetmeyi sevenler, sevdiklerini görmek isteyenler, işi olanlar, memleketini özleyenler, tatile çıkanlar, festivale katılanlar, yemekleri yerinde yemek isteyenler, uçmayı sevenler; yani hayatın her anını özgürce yaşayanlar, pratik bir şekilde en ucuz uçak biletlerini bulabilsin diye.
+</p>
+<h2>
+Pegasus’ta uçak biletleri ne kadar?
+</h2>
+<p>
+Ücretler gitmeyi düşündüğün yerlere göre değişiyor. En uygun uçak bileti fiyatlarının adresi ise hiçbir zaman değişmiyor: flypgs.com
+</p>
+<p>
+&#34;Nasıl ucuz uçak bileti alınır?&#34; sorusuna güvenli, konforlu, pratik, keyifli ve ekonomik çözümler üreten Pegasus, isteyen herkesi, onlarca ülkeye ve yüzlerce noktaya uçuruyor. Kullanıcı odaklı mobil uygulamaları ve uygun uçak bileti fiyatlarıyla Pegasus; Avrupa, Asya, Afrika, Orta Doğu ve Uzak Doğu’yu birbirine bağlıyor. Türkiye’nin her bölgesine uçakla seyahati mümkün kılan ve tüm uçuş ağını sürekli genişleten Pegasus, en ucuz yurt dışı ve yurt içi uçak bileti fiyatlarıyla birçok şehri kısa sürede ulaşılabilir kılıyor.
+</p>
+<p>
+En ucuz uçak bileti ile nereye gidersin? Pegasus ile istediğin her yere; keyifli, güvenli ve ekonomik bir şekilde... Pegasus ihtiyaç duymadığın hiçbir şey için senden ücret beklemez. Koltuk seçimi, bagaj hakkı ve yemekler, senin tercihine bağlı olur. İstersen koltuğunu seçersin, dilersen bagaj hakkı alırsın, tercih edersen lezzetli ve zengin menüden yemek sipariş edersin. İstemezsen en ucuz uçak bileti fiyatlarıyla uçarsın. Pegasus’ta ihtiyaç duymadığın hiçbir şeyi ödemezsin.
+</p>
+<p>Pegasus Flex uygulamasıyla uçak biletinde istediğin kadar değişiklik yapabilirsin. Gittiğin noktalarda araç kiralama hizmetine ihtiyaç duyarsan ya da seyahat sigortası yaptırmak istersen Pegasus sana yardıma hazır! Havalimanında uçuş işlemlerinden çok daha kısa mı sürsün istiyorsun? Pegasus Fast Track, tam da aradığın uygulama. Seyahat planların için tavsiyelere mi ihtiyacın var? Pegasus Blog’da gezi trendlerini takip edebilirsin. Gezgin bir ruha sahipsen ve özgürlüğüne düşkünsen burada aradığın her şeyi bulacaksın; çünkü Pegasus’ta uçak bileti demek özgürlük demek!</p>
+</div>
+<ul class="footer__bottom-menu clearfix p-b-40">
+<li><a href="/faydali-bilgiler/ucusun-icin-bilgiler/genel-kurallar" target="_self">Genel Kurallar</a></li>
+<li><a href="/gizlilik" target="_self">Gizlilik</a></li>
+<li><a href="/uyumluluk" target="_self">Uyumluluk</a></li>
+<li><a href="/faydali-bilgiler/ucusun-icin-bilgiler/yolcu-haklari" target="_self">Yolcu Hakları</a></li>
+<li><a href="/faydali-bilgiler/diger-bilgiler/site-haritasi" target="_self">Site Haritası</a></li>
+<li><a href="/faydali-bilgiler/diger-bilgiler/islem-rehberi" target="_self">İşlem Rehberi</a></li>
+</ul>
+<div class="clearfix">
+<div class="pgs-table pgs-table--full">
+<div class="pgs-table__cell v-a-mid footer__logo-sec">
+<a class="icon icon--pgs-logo m-r-20" href="/"></a>
+</div>
+<div class="pgs-table__cell v-a-mid">
+<span class="hidden-xs">Pegasus Hava Taşımacılığı A.Ş. Tüm Hakları Saklıdır © 2005 - 2018</span>
+</div>
+<div class="pgs-table__cell v-a-mid text-right footer__right">
+<i class="icon icon--iata m-r-15"></i>
+<span>Üyesidir</span>
+</div>
+</div>
+<span class="text-center block m-t-35 visible-xs">Pegasus Hava Taşımacılığı A.Ş. Tüm Hakları Saklıdır © 2005 - 2018</span>
+</div>
+</div>
+</section>
+<a id="scrollMore" class="hidden-xs" href="#" title="SAYFAYI KAYDIRIN" rel="nofollow">
+<span class="go-down">
+<span class="text-white">SAYFAYI KAYDIRIN</span>
+<i class="icon icon--arrow-down-a"></i>
+</span>
+<span class="go-up">
+<i class="icon icon--arrow-up-a"></i>
+<span class="text-white">SAYFAYI KAYDIRIN</span>
+</span>
+</a>
+<section class="search-flights search-flights-layer search-flights--left-module hidden-xs " data-language="TR" data-currency="TRY">
+<a href="#" class="search-flights__button no-show"><i class="icon icon--search-flight-ear-closed"></i><i class="icon icon--search-flight-ear-closed-b"></i><span>UÇUŞ ARA</span></a>
+<div class="search-flights__container">
+<div class="js-tabs" role="tabpanel">
+<div class="pgs-tabs pgs-tabs--menu pgs-tabs--full" role="tablist">
+<a href="#flight-side" role="tab" class="pgs-tabs__tab is-active search-flights__fly-btn">
+<i class="icon icon--fly-btn is-passive"></i>
+<i class="icon icon--fly-btn-grey is-active"></i><br/>Uçuş Ara
+</a>
+<a href="#manage" role="tab" class="pgs-tabs__tab search-flights__budget-btn">
+<i class="icon icon--mng-fly is-active"></i>
+<i class="icon icon--mng-fly-black is-passive"></i><br/>Uçuşunu Yönet
+</a>
+<a href="#rent-side" role="tab" class="pgs-tabs__tab search-flights__budget-btn nxm-rental-tab-in" data-currency="TRY">
+<i class="icon icon--car-btn is-active"></i>
+<i class="icon icon--car-btn-black is-passive"></i><br/>Araç Kiralama
+</a>
+<a href="http://hotels.flypgs.com/index.html?aid=337919%26label=pgs-homepage-sbtab%26lang=TR%26selected_currency=TRY" target="_blank" role="link" rel="noopener" class="pgs-tabs__tab search-flights__budget-btn nxm-book-tab-in skip-tab">
+<img class="m-b-5" src="/Assets/Images/taze/otel.png" alt=""/><br/>Otel <br/> Rezervasyonu
+</a>
+</div>
+<div class="pgs-tabs__content search-flights__content white p-10-20" style="overflow: visible;">
+<div class="pgs-tabs__panel is-active nxm-flight_search search-flight-container" id="flight-side" data-url="https://book.flypgs.com/Common/" data-language="TR" data-currency="TRY">
+<form action="/" class="flight-search-form" id="fligth-searh-layer" data-parsley-validate="true">
+<input id="key" name="key" type="hidden" value="frm111972"/>
+ <input checked="" type="radio" value="R" name="return-layer" class="radio nxm-trip-type" id="return-layer"/>
+<label class="label p-r-20" for="return-layer">Gidiş Dönüş</label>
+<input type="radio" value="O" name="return-layer" class="radio nxm-trip-type" id="one-way-layer"/>
+<label class="label" for="one-way-layer">Tek Yön</label>
+<div class="pgs-passenger-place">
+<span class="block m-t-10 m-b-10">
+<select data-flow-index="1" class="js-select2-only-special select2 select2--classic select-icon--fly js-select js-select--mobile search-flight-origin select2--flat-on-mobile js_select2-mobile-popup" data-opts="{&#34;language&#34;: &#34;tr&#34;, &#34;theme&#34;: &#34;classic select-icon--fly select-icon--fly--departure select2-mobile-popup&#34;, &#34;placeholder&#34;: &#34;NEREDEN?&#34;, &#34;icon&#34; : &#34;icon--fly-departure-white&#34;, &#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: false}" data-parsley-required="true" data-parsley-errors-container=".p-origin-vld-l" data-parsley-error-message="Lütfen havalimanı seçiniz" data-slc-1="Son Aramalar" data-slc-2="Tüm Havalimanları"></select>
+<span class="p-origin-vld-l"></span>
+</span>
+<span class="block m-b-10">
+<select data-flow-index="2" class="js-select2-only-special select2 select2--classic select-icon--fly js-select js-select--mobile search-flight-destination select2--flat-on-mobile js_select2-mobile-popup" data-opts="{&#34;language&#34;: &#34;tr&#34;, &#34;theme&#34;: &#34;classic select-icon--fly select-icon--fly--arrival select2-mobile-popup&#34;, &#34;placeholder&#34;: &#34;NEREYE?&#34;, &#34;icon&#34; : &#34;icon--fly-arrival-white&#34;, &#34;indexTarget&#34; : &#34;1&#34;, &#34;closeOnSelect&#34;: false}" data-parsley-required="true" data-parsley-errors-container=".p-destination-vld-l" data-parsley-error-message="Lütfen havalimanı seçiniz"></select>
+<span class="p-destination-vld-l"></span>
+</span>
+<div class="pgs-passenger-place__swap js-tooltip" title="Gidiş, dönüş alanlarını değiştirebilirsiniz." data-tooltip-options="{&#34;theme&#34;: &#34;tooltipster-noir&#34;,&#34;trigger&#34;:&#34;hover&#34;}">
+<span class="pgs-passenger-place__swap__state pgs-passenger-place__swap__state--passive" style="display:none;"><i class="icon icon--swap-passive"></i></span>
+<span class="pgs-passenger-place__swap__state pgs-passenger-place__swap__state--active"><i class="icon icon--swap-active"></i></span>
+<span class="pgs-passenger-place__swap__state pgs-passenger-place__swap__state--loading" style="display:none;"><img src="/Assets/Web/build/assets/images/swap-loader.gif" alt=""/></span>
+</div>
+</div>
+<div class="row gutter-xs m-b-10">
+<div class="col-xs-6 nxm-departDateContainer">
+<label class="p-b-5 block" for="dp1l">Gidiş tarihi</label>
+<span id="datepicker1l" class="input input--datepicker input--datepicker--flat-on-mobile js_mobile-popover homepage-datepicker-block">
+<input data-flow-index="3" data-language="TR" value="11.04.2018" type="text" data-connect="#dp2l" data-class="datepicker--pgs-mobile-popover" class="js-pgs-datepicker nxm-departDate" id="dp1l" readonly="readonly" data-parsley-errors-container=".datepickerdp1l" data-parsley-required="true"/>
+<div class="pgs-mobile-popover pgs-mobile-popover--b">
+<div class="pgs-mobile-popover__title"><span class="pgs-mobile-popover__back" data-flow-index-target="2"></span><i class="icon icon--calendar-white m-r-5"></i>NE ZAMAN?</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-0">
+<div class="pgs-passenger-block__scroll-area__wrapper">
+<div class="datepicker--pgs-mobile-popover__titles">
+<span class="datepicker--pgs-mobile-popover__title datepicker--pgs-mobile-popover__title--active">
+<i class="icon icon--fly-departure-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-departure-orange icon-mobile m-r-5"></i>
+<span>Gidiş Tarihi Seçiniz</span>
+</span>
+<span class="datepicker--pgs-mobile-popover__title">
+<i class="icon icon--fly-arrival-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-arrival-orange icon-mobile m-r-5"></i>
+<span>Dönüş Tarihi Seçiniz</span>
+</span>
+</div>
+<div id="pgs-departure-datepickerl" class="js-pgs-datepicker datepicker--pgs-mobile-popover"></div>
+</div>
+</div>
+</div>
+</span>
+<span class="datepickerdp1l"></span>
+</div>
+<div class="col-xs-6 nxm-returnDateContainer">
+<label class="p-b-5 block" for="dp2l">Dönüş tarihi</label>
+<span id="datepicker2l" class="input input--datepicker input--datepicker--flat-on-mobile js_mobile-popover homepage-datepicker-block homepage-datepicker-block--v2">
+<input data-flow-index="4" data-language="TR" value="11.04.2018" type="text" data-class="js-pgs-datepicker pgs-datepicker datepicker-pointer" class="datepicker-pointer nxm-returnDate" id="dp2l" readonly="readonly" data-parsley-errors-container=".datepickerdp2l" data-parsley-required="true"/>
+<div class="pgs-mobile-popover pgs-mobile-popover--b pgs-mobile-popover--c">
+<div class="pgs-mobile-popover__title"><span class="pgs-mobile-popover__back" data-flow-index-target="3"></span><i class="icon icon--calendar-white m-r-5"></i>NE ZAMAN?</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-1">
+<div class="pgs-passenger-block__scroll-area__wrapper">
+<div class="datepicker--pgs-mobile-popover__titles">
+<span class="datepicker--pgs-mobile-popover__title">
+<i class="icon icon--fly-departure-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-departure-orange icon-mobile m-r-5"></i>
+<span>Gidiş Tarihi Seçiniz</span>
+</span>
+<span class="datepicker--pgs-mobile-popover__title datepicker--pgs-mobile-popover__title--active">
+<i class="icon icon--fly-arrival-white icon-desktop m-r-5"></i>
+<i class="icon icon--fly-arrival-orange icon-mobile m-r-5"></i>
+<span>Dönüş Tarihi Seçiniz</span>
+</span>
+</div>
+<div id="pgs-arrival-datepickerl" class="js-pgs-datepicker datepicker--pgs-mobile-popover"></div>
+<div class="pgs-mobile-popover__button-container">
+<a href="#" class="button button--orange button--full js_mobile-popover-done"><span class="v-a-mid inline-block text-bold">TAMAM</span></a>
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="datepickerdp2l"></span>
+</div>
+</div>
+<!-- [pgs-passenger-block] starts -->
+<div class="pgs-passenger-block nxm-passenger-block">
+<div class="pgs-passenger-block__selection js_passenger-selection">
+<label for="" class="pgs-passenger-block__label">Yetişkin Yolcu</label>
+<div class="pgs-passenger-block__input">
+<span class="pgs-passenger-block__change pgs-passenger-block__change" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<input type="text" class="pgs-passenger-block__indicator nxm-guestAdult" data-max-limit="9" value="1" readonly="" data-match="adult-passenger"/>
+<span class="pgs-passenger-block__change" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+<div class="pgs-passenger-block__misc">
+<span class="pgs-passenger-block__fake-dropdown pgs-passenger-block__fake-dropdown--flat-on-mobile js_passenger-fake-dropdown">
+<span class="pgs-passenger-block__fake-dropdown__output pgs-passenger-block__fake-dropdown__output--a">
+<span class="pgs-passenger-block__fake-dropdown__rendered">
+<span class="pgs-passenger-block__fake-dropdown__value nxm-guestKids">0</span>
+</span>
+<span class="pgs-passenger-block__fake-dropdown__arrow" role="presentation"><b role="presentation"></b></span>
+</span>
+<span class="pgs-passenger-block__fake-dropdown__output pgs-passenger-block__fake-dropdown__output--b nxm-guestSoldier-container hide">
+<span class="pgs-passenger-block__fake-dropdown__rendered">
+<span class="pgs-passenger-block__fake-dropdown__value pgs-passenger-block__fake-dropdown__value--soldier">0</span>
+</span>
+<span class="pgs-passenger-block__fake-dropdown__arrow" role="presentation"><b role="presentation"></b></span>
+</span>
+<div class="pgs-passenger-block__fake-dropdown__inside pgs-mobile-popover">
+<div class="pgs-passenger-block__fake-dropdown__inside__title">
+<span class="pgs-passenger-block__fake-dropdown__inside__back"></span><i class="icon icon--seat-white m-r-5"></i>YOLCU SAYISI
+</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-2">
+<div class="pgs-passenger-block__scroll-area__wrapper">
+<ul>
+<li class="pgs-passenger-block__fake-dropdown__inside__item pgs-passenger-block__fake-dropdown__inside__item--double">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestAdult" value="1" readonly="" data-match="adult-passenger"/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b p-t-7">Yetişkin</label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+<li class="pgs-passenger-block__fake-dropdown__inside__item">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestChild" value="0" readonly=""/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b">Çocuk <span class="pgs-passenger-block__label__note">2-12 yaş</span></label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+<li class="pgs-passenger-block__fake-dropdown__inside__item">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestInfant" value="0" readonly=""/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b">Bebek <span class="pgs-passenger-block__label__note">0-2 yaş</span></label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+<li class="pgs-passenger-block__fake-dropdown__inside__item hide nxm-guestSoldier-container">
+<div class="pgs-passenger-block__selection pgs-passenger-block__selection--b js_passenger-selection">
+<div class="pgs-passenger-block__input pgs-passenger-block__input--b">
+<input type="text" class="pgs-passenger-block__indicator pgs-passenger-block__indicator--b nxm-guestSoldier" value="0" readonly="" data-match="soldier-passenger"/>
+</div>
+<label for="" class="pgs-passenger-block__label pgs-passenger-block__label--b p-t-7">Asker</label>
+<div class="pgs-passenger-block__changers">
+<span class="pgs-passenger-block__change pgs-passenger-block__change pgs-passenger-block__change--b" data-function="decrease"><i class="icon icon--minus-white"></i></span>
+<span class="pgs-passenger-block__change pgs-passenger-block__change--b" data-function="increase"><i class="icon icon--plus-white"></i></span>
+</div>
+</div>
+</li>
+</ul>
+<div class="pgs-passenger-block__fake-dropdown__inside__action">
+<a href="javascript:;" class="button button--orange button--full"><span class="v-a-mid inline-block text-bold">TAMAM</span></a>
+</div>
+</div>
+</div>
+</div>
+</span>
+</div>
+</div>
+<!-- [/pgs-passenger-block] ends -->
+<button title="UCUZ UÇUŞ ARA" type="submit" class="button button--orange button--full">
+<span class="v-a-mid inline-block text-bold m-r-10">UCUZ UÇUŞ ARA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+</form>
+</div>
+<div class="pgs-tabs__panel visuallyhidden nxm-pnr-search--form" id="manage" data-language="TR" data-ssr-code="checkin" data-url="https://book.flypgs.com/Common/PNRSearch.jsp" data-parsley-validate="true" method="POST" name="ticketing" action="https://book.flypgs.com/Common/PNRSearch.jsp">
+<form action="/check-in" data-parsley-validate="true">
+<input id="keyl" name="key" type="hidden" value="frm121005"/>
+<div class="m-b-10">
+<label class="block m-b-10">PNR veya E-Bilet Numaran (PCS)</label>
+<input type="text" class="input input--shadow js-text-upper js-only-alpha-numeric js-tr-en js-latinize nxm-pnr-search--pnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" placeholder="" maxlength="13" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="13" data-parsley-error-message="6 haneli PNR numaranızı veya 13 haneli E-Bilet numaranızı giriniz."/>
+</div>
+<div class="m-b-10">
+<label class="block m-b-10">Soyadın</label>
+<input type="text" class="input input--shadow js-only-special nxm-pnr-search--surname" placeholder="" data-parsley-required="true" maxlength="50"/>
+</div>
+<div class="m-b-10">
+<button type="submit" class="button button--orange button--iconic button--input button--full">
+<strong class="m-r-10">DEVAM</strong><i class="icon icon--double-arrow"></i>
+</button>
+</div>
+<div class="m-b-10">
+<a href="#pnr-info-layer" title="PNR, E-Bilet Numaramı Bilmiyorum" class="link link--forgot link--underline p-l-10 p-t-5 js-fancybox" data-opts="{&#34;wrapCSS&#34;: &#34;pnr-info-layer&#34;,&#34;type&#34;:&#34;inline&#34;, &#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:true,&#34;closeBtn&#34;:false}">PNR, E-Bilet Numaramı Bilmiyorum</a>
+</div>
+</form>
+</div> <div class="pgs-tabs__panel visuallyhidden nxm-car-rental" id="rent-side">
+<form action="" data-parsley-validate="true" name="nxm-carrental-form" class="nxm-carrental-form" id="nxm-carrental-form" method="POST">
+<div class="block m-b-10 nxm-select-car-1">
+<select class="select2 select2--classic select-icon--car js-select js-select--mobile rent-a-car-select" data-opts="{&#34;theme&#34;: &#34;classic select-icon--car&#34;, &#34;placeholder&#34;: &#34;Bir şehir ya da havaalanı adı yazın&#34;, &#34;airport&#34;: &#34;Havaalanı&#34;,&#34;city&#34;: &#34;Şehir&#34;}" data-parsley-required="true" data-parsley-errors-container=".car-drp2-field" data-parsley-error-message="Bir şehir ya da havaalanı seçiniz"></select>
+</div>
+<span class="car-drp2-field m-b-10"> </span>
+<!-- FLEXABLE -->
+<div class="block m-b-15 ">
+<div class="nxm-face-list-chk-co">
+<input type="checkbox" name="otherPlace2" class="checkbox--white nxm-other-cr-clt" id="otherPlace2"/>
+<label class="label " for="otherPlace2">Farklı bir araç teslim yeri</label>
+</div>
+</div>
+<div class="block m-b-10 nxm-select-car-2 hide">
+<select class="select2 select2--classic select-icon--car js-select js-select--mobile rent-a-car-select" data-opts="{&#34;theme&#34;: &#34;classic select-icon--car&#34;, &#34;placeholder&#34;: &#34;Bir şehir ya da havaalanı adı yazın&#34;, &#34;airport&#34;: &#34;Havaalanı&#34;,&#34;city&#34;: &#34;Şehir&#34;}" data-parsley-required="false" data-parsley-errors-container=".car-drp2-field2" data-parsley-error-message="Bir şehir ya da havaalanı seçiniz"> </select>
+</div>
+<span class="car-drp2-field2 m-b-10"></span>
+<div class="col-row">
+<div class="col-6">
+<label class="label m-b-5" for="rent-adp-1">Başlangıç Tarihi</label>
+<span class="m-b-10 input input--datepicker input--datepicker--flat-on-mobile js_mobile-popover">
+<input value="11.04.2018" type="text" data-language="TR" data-connect="#rent-adp-2" data-class="datepicker--pgs datepicker--menu" readonly="readonly" class="js-datepicker rent-dp-1" id="rent-adp-1" data-parsley-required="true" data-parsley-errors-container=".car-drt2-field1"/>
+</span>
+</div>
+<div class="col-6 last-dp">
+<label class="label m-b-5" for=""><span class="opacity-hidden">.</span></label>
+<select class="select2 select2--classic select-icon--clock select2--flat-on-mobile js-select js-select--mobile js_select2-mobile-popup rent-dt-1" id="rent-dt-1" data-opts="{&#34;theme&#34;: &#34;classic select-icon--clock select2-mobile-popup rental-dp-time2&#34;, &#34;language&#34;: &#34;tr&#34;, &#34;autoComplete&#34;: false,&#34;placeholder&#34;:&#34;Başlangıç Saati&#34;,
+&#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: true, &#34;minimumResultsForSearch&#34;: &#34;Infinity&#34;}">
+<option value="00:00">00:00</option>
+<option value="00:30">00:30</option>
+<option value="01:00">01:00</option>
+<option value="01:30">01:30</option>
+<option value="02:00">02:00</option>
+<option value="02:30">02:30</option>
+<option value="03:00">03:00</option>
+<option value="03:30">03:30</option>
+<option value="04:00">04:00</option>
+<option value="04:30">04:30</option>
+<option value="05:00">05:00</option>
+<option value="05:30">05:30</option>
+<option value="06:00">06:00</option>
+<option value="06:30">06:30</option>
+<option value="07:00">07:00</option>
+<option value="07:30">07:30</option>
+<option value="08:00">08:00</option>
+<option value="08:30">08:30</option>
+<option value="09:00">09:00</option>
+<option value="09:30">09:30</option>
+<option value="10:00" selected="selected">10:00</option>
+<option value="10:30">10:30</option>
+<option value="11:00">11:00</option>
+<option value="11:30">11:30</option>
+<option value="12:00">12:00</option>
+<option value="12:30">12:30</option>
+<option value="13:00">13:00</option>
+<option value="13:30">13:30</option>
+<option value="14:00">14:00</option>
+<option value="14:30">14:30</option>
+<option value="15:00">15:00</option>
+<option value="15:30">15:30</option>
+<option value="16:00">16:00</option>
+<option value="16:30">16:30</option>
+<option value="17:00">17:00</option>
+<option value="17:30">17:30</option>
+<option value="18:00">18:00</option>
+<option value="18:30">18:30</option>
+<option value="19:00">19:00</option>
+<option value="19:30">19:30</option>
+<option value="20:00">20:00</option>
+<option value="20:30">20:30</option>
+<option value="21:00">21:00</option>
+<option value="21:30">21:30</option>
+<option value="22:00">22:00</option>
+<option value="22:30">22:30</option>
+<option value="23:00">23:00</option>
+<option value="23:30">23:30</option>
+</select>
+</div>
+</div>
+<span class="car-drt2-field1 m-b-10"></span>
+<div class="col-row">
+<div class="col-6">
+<label class="label m-b-5" for="rent-adp-2">Bitiş Tarihi</label>
+<span class="input input--datepicker m-b-10">
+<input value="11.04.2018" type="text" data-class="datepicker--pgs datepicker--menu" class="js-datepicker rent-dp-2" readonly="readonly" id="rent-adp-2" data-parsley-required="true" data-parsley-errors-container=".car-drt2-field2"/>
+</span>
+</div>
+<div class="col-6 last-dp">
+<label class="label m-b-5" for=""><span class="opacity-hidden">.</span></label>
+<select class="select2 select2--classic select-icon--clock js-select select2--flat-on-mobile js-select--mobile js_select2-mobile-popup rent-dt-2" id="rent-dt-2" data-opts="{&#34;theme&#34;: &#34;classic select-icon--clock select2-mobile-popup rental-dp-time&#34;, &#34;language&#34;: &#34;tr&#34;, &#34;autoComplete&#34;: false,&#34;placeholder&#34;:&#34;Başlangıç Saati&#34;,
+&#34;indexTarget&#34; : &#34;0&#34;, &#34;closeOnSelect&#34;: true, &#34;minimumResultsForSearch&#34;: &#34;Infinity&#34;}">
+<option value="00:00">00:00</option>
+<option value="00:30">00:30</option>
+<option value="01:00">01:00</option>
+<option value="01:30">01:30</option>
+<option value="02:00">02:00</option>
+<option value="02:30">02:30</option>
+<option value="03:00">03:00</option>
+<option value="03:30">03:30</option>
+<option value="04:00">04:00</option>
+<option value="04:30">04:30</option>
+<option value="05:00">05:00</option>
+<option value="05:30">05:30</option>
+<option value="06:00">06:00</option>
+<option value="06:30">06:30</option>
+<option value="07:00">07:00</option>
+<option value="07:30">07:30</option>
+<option value="08:00">08:00</option>
+<option value="08:30">08:30</option>
+<option value="09:00">09:00</option>
+<option value="09:30">09:30</option>
+<option value="10:00" selected="selected">10:00</option>
+<option value="10:30">10:30</option>
+<option value="11:00">11:00</option>
+<option value="11:30">11:30</option>
+<option value="12:00">12:00</option>
+<option value="12:30">12:30</option>
+<option value="13:00">13:00</option>
+<option value="13:30">13:30</option>
+<option value="14:00">14:00</option>
+<option value="14:30">14:30</option>
+<option value="15:00">15:00</option>
+<option value="15:30">15:30</option>
+<option value="16:00">16:00</option>
+<option value="16:30">16:30</option>
+<option value="17:00">17:00</option>
+<option value="17:30">17:30</option>
+<option value="18:00">18:00</option>
+<option value="18:30">18:30</option>
+<option value="19:00">19:00</option>
+<option value="19:30">19:30</option>
+<option value="20:00">20:00</option>
+<option value="20:30">20:30</option>
+<option value="21:00">21:00</option>
+<option value="21:30">21:30</option>
+<option value="22:00">22:00</option>
+<option value="22:30">22:30</option>
+<option value="23:00">23:00</option>
+<option value="23:30">23:30</option>
+</select>
+</div>
+</div>
+<span class="car-drt2-field2 m-b-10"></span>
+<!-- DEVAM -->
+<button title="ARA" class="button button--orange button--full">
+<span class="v-a-mid inline-block text-bold m-r-10">ARA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+</form>
+</div>
+</div>
+</div>
+<a class="search-flights__disabled link link--underline link--dark text-semibold js-fancybox" href="/faydali-bilgiler/diger-bilgiler/yardim-gereksinimi-olan-misafirler" target="_blank" rel="noopener" title="Yardım gereksinimi olan misafirler " data-opts="{&#34;wrapCSS&#34;: &#34;fancybox--default&#34;, &#34;title&#34;:&#34;&#34;, &#34;type&#34;:&#34;inline&#34;,&#34;width&#34;:&#34;auto&#34;,&#34;autoSize&#34;:false,&#34;closeBtn&#34;:false}"><i class="icon icon--disabled m-r-10"></i><span>Yardım gereksinimi olan misafirler </span></a>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/yolcu-haklari" class="search-flights__guest-rights-mobile"><i class="icon icon--misafir-mobile m-r-8"></i>YOLCU HAKLARI</a>
+</div>
+</section>
+<div class="online-check-popup" id="check_in">
+<div class="online-check-popup-overlay"></div>
+<div class="online-check-popup-in check-in-form-container">
+<div class="close">×</div>
+<form action="/check-in" data-parsley-validate="true">
+<div class="homeIcon">
+<img src="/Assets/Images/taze/online.png" alt=""/>
+</div>
+<div class="online-check-popup-info">
+<div class="title">Online check-in yap, havaalanında sıra bekleme.</div>
+<div class="des">Aşağıdaki bilgileri doldurarak online check-in yapabilirsiniz.</div>
+</div>
+<label class="block m-b-10">Rezervasyon (PNR) Numaran</label>
+<div class="block m-b-10">
+<div class="inputIcon"><img src="/Assets/Images/taze/ticket.png" alt=""/></div>
+<input placeholder="" type="text" class="input input--shadow checkInPnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" maxlength="6" data-parsley-required="true" data-parsley-maxlength="6" data-parsley-minlength="6" data-parsley-error-message="PNR numaranı gir, numara 6 haneli olmalıdır."/>
+</div>
+<label class="block m-b-10">Adın</label>
+<div class="block m-b-10">
+<div class="inputIcon"><img src="/Assets/Images/taze/user.png" alt=""/></div>
+<input placeholder="" type="text" class="input input--shadow checkInName m-b-15 js-only-special" maxlength="50" data-parsley-required="true"/>
+</div>
+<label class="block m-b-10">Soyadın</label>
+<div class="block m-b-10">
+<div class="inputIcon"><img src="/Assets/Images/taze/user-card.png" alt=""/></div>
+<input placeholder="" type="text" class="input input--shadow checkInSurname m-b-20 js-only-special" maxlength="50" data-parsley-required="true"/>
+</div>
+<!-- DEVAM -->
+<button title="" class="button button--orange button--full m-t-10">
+<span class="v-a-mid inline-block text-bold m-r-10">DEVAM</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+<a class="online-check-popup-link link--dark link--underline inline-block m-t-20" href="/faydali-bilgiler/ucusun-icin-bilgiler/havalimanlari-online-check-in-uygunluklari"><img class="icon m-r-5" src="/Assets/Images/taze/info.png" alt=""/>Havalimanları Online Check-in Uygunlukları</a>
+</form>
+</div>
+</div>
+<div class="js_mobile-popover online-check-in-mobile">
+<div class="pgs-passenger-block__fake-dropdown__inside pgs-mobile-popover">
+<div class="pgs-passenger-block__fake-dropdown__inside__title">
+<span class="pgs-passenger-block__fake-dropdown__inside__back js_mobile-popover-done"></span>
+<img src="/Assets/Images/taze/online.png" alt=""/>
+<span class="m-l-10">
+ONLINE CHECK-IN
+</span>
+</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-2">
+<div class="pgs-passenger-block__scroll-area__wrapper check-in-form-container">
+<form action="/check-in" data-parsley-validate="true">
+<div class="online-check-popup-in">
+<div class="online-check-popup-info">
+<div class="title">Online check-in yap, havaalanında sıra bekleme.</div>
+<div class="des">Aşağıdaki bilgileri doldurarak online check-in yapabilirsiniz.</div>
+</div>
+<label class="block m-b-10">Rezervasyon (PNR) Numaran</label>
+<div class="block m-b-10">
+<div class="inputIcon">
+<img src="/Assets/Images/taze/ticket.png" alt=""/>
+</div>
+<input placeholder="" type="text" class="input input--shadow checkInPnr js-tr-en js-text-upper js-latinize js-only-alpha-numeric" maxlength="6" data-parsley-required="true" data-parsley-maxlength="6" data-parsley-minlength="6" data-parsley-error-message="PNR numaranı gir, numara 6 haneli olmalıdır."/>
+</div>
+<label class="block m-b-10">Adın</label>
+<div class="block m-b-10">
+<div class="inputIcon">
+<img src="/Assets/Images/taze/user.png" alt=""/>
+</div>
+<input placeholder="" type="text" class="input input--shadow checkInName m-b-15 js-only-special" maxlength="50" data-parsley-required="true"/>
+</div>
+<label class="block m-b-10">Soyadın</label>
+<div class="block m-b-10">
+<div class="inputIcon">
+<img src="/Assets/Images/taze/user-card.png" alt=""/>
+</div>
+<input type="text" class="input input--shadow checkInSurname m-b-20 js-only-special" maxlength="50" data-parsley-required="true"/>
+</div>
+<div class="nxm-btn-frm-post">
+<button type="submit" class="button button--orange button--full">
+<span class="v-a-mid inline-block text-bold m-r-10">DEVAM</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+</div>
+<a class="online-check-popup-link link--dark link--underline inline-block m-t-20" href="/faydali-bilgiler/ucusun-icin-bilgiler/havalimanlari-online-check-in-uygunluklari"><img class="icon m-r-5" src="Assets/Images/taze/info.png" alt=""/>Havalimanları Online Check-in Uygunlukları</a>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="js_mobile-popover car-rental-popup-mobile">
+<div class="pgs-passenger-block__fake-dropdown__inside pgs-mobile-popover">
+<div class="pgs-passenger-block__fake-dropdown__inside__title">
+<span class="pgs-passenger-block__fake-dropdown__inside__back js_mobile-popover-done"></span>
+Bir şehir ya da havaalanı seçiniz
+</div>
+<div class="pgs-passenger-block__scroll-area scroll-area-2 ">
+<div class="pgs-passenger-block__scroll-area__wrapper car-rental-popup-mobile-search ">
+<form action="" data-parsley-validate="true" class="nxm-mobile-car-rental" data-nores="Aradığınız kriterlere göre sonuç bulunamadı">
+<div class="pgs-mobile-popover-cnt">
+<div class="block nxm-sr-p-m">
+<input placeholder="Bir şehir ya da havaalanı adı yazın" type="text" class="input " maxlength="30" data-parsley-required="true" data-parsley-maxlength="30" data-parsley-minlength="2" data-parsley-error-message="Bir şehir ya da havaalanı adı yazın"/>
+</div>
+<div class="nxm-btn-frm-post">
+<button type="submit" class="button button--orange button--full">
+<span class="v-a-mid inline-block text-bold m-r-10">ARA</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</button>
+</div>
+</div>
+</form>
+<div class="nxm-car-rental-mobile-result">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="remodal flight-notification " data-remodal-id="flight-notification" data-remodal-options="modifier:darkness warning-modal,hashTracking: false">
+<div class="remodal-warning-content">
+<div class="close-remodal">
+<a href="#" title="" rel="nofollow" class="icon icon--modal-close" data-remodal-action="close"></a>
+</div>
+<div class="remodal-regular-title clearfix">
+<span class="icon--crosslink-g" style=""></span>
+<span class="msg-title"></span>
+</div>
+<div class="remodal-regular-intro"></div>
+<div class="page-action clearfix">
+<ul class="page-action__list">
+<li class="pull-left"><a href="#" rel="nofollow" class="button button--orange binder-visa hidden">VİZE ALMAK İSTİYORUM</a></li>
+<li class="pull-left"><a href="#" rel="nofollow" data-remodal-action="close" class="button button--orange binder-go hidden">DEVAM</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="remodal warning-modal" data-remodal-id="fvmsg" data-remodal-options="modifier:darkness warning-modal,hashTracking: false">
+<div class="remodal-warning-content">
+<div class="close-remodal">
+<a href="#" title="" rel="nofollow" class="icon icon--modal-close" data-remodal-action="close"></a>
+</div>
+<div class="remodal-regular-title error">
+</div>
+<p class="remodal-regular-intro msg-type-1 hidden">
+Lütfen en az bir yetişkin yolcu seçimi yapınız.
+</p>
+<p class="remodal-regular-intro msg-type-2 hidden">
+İzin verilen yolcu sayısı olan 9’dan fazla yolcu seçtin. Lütfen maksimum 9 yolcu seçin.	</p>
+<p class="remodal-regular-intro msg-type-3 hidden">
+Lütfen bebek sayısı kadar yetişkin sayısı seçiniz
+</p>
+<div class="page-action clearfix">
+<ul class="page-action__list">
+<li class="pull-left"><a href="#" rel="nofollow" data-remodal-action="close" class="button button--orange">TAMAM</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="remodal warning-modal" data-remodal-id="show-message" data-remodal-options="modifier:darkness warning-modal,hashTracking: false">
+<div class="remodal-warning-content">
+<div class="close-remodal">
+<a href="#" title="" rel="nofollow" class="icon icon--modal-close" data-remodal-action="close"></a>
+</div>
+<div class="remodal-regular-title success">
+</div>
+<p class="remodal-regular-intro"></p>
+<div class="page-action clearfix">
+<ul class="page-action__list">
+<li class="pull-left"><a href="#" rel="nofollow" data-remodal-action="close" class="button button--orange">TAMAM</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="remodal warning-modal" data-remodal-id="alternate-serach" data-remodal-options="modifier:darkness warning-modal,hashTracking: false">
+<div class="remodal-warning-content">
+<div class="close-remodal">
+<a href="#" title="" rel="nofollow" class="icon icon--modal-close" data-remodal-action="close"></a>
+</div>
+<div class="remodal-regular-title error">
+Merhaba,
+</div>
+<p class="remodal-regular-intro">Uçuş arama servisin şu an meşgul gibi gözüküyor. Dilersen sayfayı tekrar yenile veya aşağıdaki linkten alternatif uçuş arama sayfamızdan devam et.</p>
+<div class="page-action clearfix">
+<ul class="page-action__list">
+<li class="pull-left"><a href="javascript:void(0)" rel="nofollow" onclick="window.location.reload();" data-remodal-action="close" class="button button--orange">Sayfayı yenile</a></li>
+<li class="pull-left m-l-10"><a href="https://book.flypgs.com/Common/MemberRezvEntry.jsp" rel="nofollow" data-remodal-action="close" class="button button--orange">Alternatif uçuş arama</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="disabled-guest-layer" style="display:none">
+<div class="fancybox--default modal-small">
+<div class="pgs-modal p-b-30">
+<div class="pgs-modal--header">
+<div class="col-xs-12 col-not-gutter">
+<a href="javascript:$.fancybox.close();" title="" class="icon icon--modal-close pull-right m-t-10"></a>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="pgs-modal--content p-l-20 p-r-20">
+<div class="pgs-modal--absolute">
+<div class="pgs-modal--title">
+<i class="icon icon--ds-bg"></i>
+<h2 class="text-30 text-dark text-bold p-t-5">YARDIM GEREKSİNİMİ<br/>OLAN MİSAFİRLER</h2>
+<p class="text-18 text-black text-light m-5">
+Yardım gereksinimi olan misafirler kural ve koşulları için aşağıdaki butona tıklayınız
+</p>
+</div>
+</div>
+</div>
+<div class="pgs-modal--footer">
+<a href="/faydali-bilgiler/diger-bilgiler/yardim-gereksinimi-olan-misafirler" title="DETAYLI BİLGİ İÇİN TIKLAYIN" class="button button--orange button--p-lg button--lg m-t-30 m-l-20" rel="nofollow">
+<span class="v-a-mid inline-block text-bold m-r-10">DETAYLI BİLGİ İÇİN TIKLAYIN</span>
+<i class="icon icon--double-arrow-sm v-a-mid"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<nav class="sb-slidebar sb-left">
+<div class="mobile-menu">
+<div class="mobile-menu__head">
+<div class="mobile-menu__head-links">
+<a href="/"><i class="icon icon--home-white"></i></a>
+<a href="/iletisim/haberdar-ol" title="HABERDAR OL"><span>HABERDAR OL</span></a>
+<a href="/iletisim/bize-yazin" title="BİZE YAZIN"><span>BİZE YAZIN</span></a>
+<a href="https://book.flypgs.com/Common/ActualFlightList.jsp?activeLanguage=TR" title="KALKIŞ-VARIŞ"><span>KALKIŞ-VARIŞ</span></a>
+</div>
+</div>
+<div class="mobile-menu__content">
+<div class="mobile-menu__wrap">
+<ul class="mobile-menu__list js-collapse-group" data-collapsable="true">
+<li><a href="/kampanyali-ucak-biletleri" title="KAMPANYALAR">KAMPANYALAR</a></li>
+<li>
+<a class="mobile-menu__seyahat" href="/seyahat-hizmetlerimiz">SEYAHAT HİZMETLERİMİZ</a>
+<ul class="mobile-menu__sub-list">
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#menu-1" href="#" rel="nofollow">Uçuş ile İlgili Hizmetlerimiz</a>
+<ul id="menu-1">
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/koltuk-secimi" title="Koltuk Seçimi">Koltuk Seçimi</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/bagaj-hakki-satisi" title="Bagaj Hakkı Satışı">Bagaj Hakkı Satışı</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/online-yemek-siparisi" title="Online Yemek Siparişi">Online Yemek Siparişi</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/ucus-ile-ilgili-hizmetlerimiz/ek-hizmetler" title="Ek Hizmetler">Ek Hizmetler</a>
+</li>
+</ul>
+</li>
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#menu-2" href="#" rel="nofollow">Diğer Seyahat Hizmetlerimiz</a>
+<ul id="menu-2">
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ucus-paketleri" title="Uçuş Paketleri">Uçuş Paketleri</a>
+</li>
+<li>
+<a href="https://cars.flypgs.com/?clientID=745248&amp;lang=tr" title="Araç Kiralama" target="_blank">Araç Kiralama</a>
+</li>
+<li>
+<a href="http://hotels.flypgs.com//index.html?aid=337919&amp;label=pgs-navigation-menu&amp;lang=tr&amp;selected_currency=TRY" title="Otel Rezervasyonu" target="_blank">Otel Rezervasyonu</a>
+</li>
+<li>
+<a href="https://vize.flypgs.com/" title="Kolay Vize" target="_blank">Kolay Vize</a>
+</li>
+<li>
+ <a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/havaalani-ulasim" title="Havaalanı Ulaşım">Havaalanı Ulaşım</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/ing-bank-pegasus-plus-kredi-karti" title="ING Bank Pegasus Plus Kredi Kartı">ING Bank Pegasus Plus Kredi Kartı</a>
+</li>
+<li>
+<a href="https://book.flypgs.com/Common/LoginMember.jsp" title="Üye Girişi" target="_blank">Üye Girişi</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/isg-lounge" title="ISG Lounge">ISG Lounge</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/pegasus-flex" title="Pegasus Flex">Pegasus Flex</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/fast-track" title="Hızlı Geçiş (Fast Track)">Hızlı Geçiş (Fast Track)</a>
+</li>
+<li>
+<a href="/dubai-vize-islemleri" title="Abu Dhabi - Dubai Vize İşlemleri">Abu Dhabi - Dubai Vize İşlemleri</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/diger-seyahat-hizmetlerimiz/gulf-seyahat-sigortasi" title="Gulf Seyahat Sigortası">Gulf Seyahat Sigortası</a>
+</li>
+<li>
+<a href="/tur-ve-etkinlik-rezervasyonu" title="Tur ve Etkinlik Rezervasyonu">Tur ve Etkinlik Rezervasyonu</a>
+</li>
+<li>
+<a href="http://parking.flypgs.com/tr-TR?utm_medium=referral&amp;utm_source=pegasus&amp;utm_campaign=side-banner&amp;identifier=" title="Online Otopark Rezervasyonu" target="_blank">Online Otopark Rezervasyonu</a>
+</li>
+</ul>
+</li>
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#menu-3" href="#" rel="nofollow">Atlayıp Gitsem Diyorsan</a>
+<ul id="menu-3">
+<li>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/sehirler" title="Şehirler">Şehirler</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/etkinlik-takvimi" title="Etkinlik Takvimi">Etkinlik Takvimi</a>
+</li>
+<li>
+<a href="http://blog.flypgs.com/" title="Pegasus Blog" target="_blank">Pegasus Blog</a>
+</li>
+<li>
+<a href="/seyahat-hizmetlerimiz/atlayip-gitsem-diyorsan/pegasus-mobil-uygulamalari" title="Pegasus Mobil Uygulamaları">Pegasus Mobil Uygulamaları</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/bilet-islemleri" title="BİLET İŞLEMLERİM">BİLET İŞLEMLERİM</a></li>
+<li>
+<a class="mobile-menu">Faydalı Bilgiler</a>
+<ul class="mobile-menu__sub-list">
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#informationMenu-1" href="#" rel="nofollow">Uçuşun için Bilgiler</a>
+<ul id="informationMenu-1">
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/genel-kurallar" title="Genel Kurallar">Genel Kurallar</a>
+</li>
+<li>
+<a href="/check-in" title="Check-in">Check-in</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/ucus-noktalari" title="Uçuş Noktaları">Uçuş Noktaları</a>
+</li>
+<li>
+<a href="https://book.flypgs.com/Common/ActualFlightList.jsp?activeLanguage=TR" title="Kalkış - Varış Bilgileri" target="_self" rel="noopener">Kalkış - Varış Bilgileri</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/havalimanlari-online-check-in-uygunluklari" title="Havalimanları Online Check-in Uygunlukları">Havalimanları Online Check-in Uygunlukları</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/mobil-binis-karti-barkod-nedir" title="Mobil Biniş Kartı (Barkod) Nedir?">Mobil Biniş Kartı (Barkod) Nedir?</a>
+</li>
+<li>
+<a href="https://wtrweb.worldtracer.aero/WorldTracerWeb/pax.do?airlineCode=PC" title="Bagaj Takip" target="_blank" rel="noopener">Bagaj Takip</a>
+</li>
+<li>
+<a href="https://book.flypgs.com/Common/ScheduledFlightList.jsp?activeLanguage=TR&amp;" title="Uçuş Tarifesi" target="_blank" rel="noopener">Uçuş Tarifesi</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/seyahat-dokumanlari-kontrolu-timatic-web" title="Seyahat Dökümanları Kontrolü (Timatic)">Seyahat Dökümanları Kontrolü (Timatic)</a>
+</li>
+<li>
+<a href="/transit-ucuslarda-ne-yapmalisin" title="Transit Uçuşlarda Ne Yapmalısın?">Transit Uçuşlarda Ne Yapmalısın?</a>
+</li>
+</ul>
+</li>
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#informationMenu-2" href="#" rel="nofollow">Diğer Bilgiler</a>
+<ul id="informationMenu-2">
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/is-seyahati" title="İş Seyahati">İş Seyahati</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/aile-ile-seyahat" title="Aile ile Seyahat">Aile ile Seyahat</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/yardim-gereksinimi-olan-misafirler" title="Yardım Gereksinimi Olan Misafirler">Yardım Gereksinimi Olan Misafirler</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/ucusun-icin-bilgiler/yolcu-haklari" title="Yolcu Hakları">Yolcu Hakları</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/ozel-hizmet-ekipman-tasima-ucretleri" title="Özel Hizmet / Ekipman Taşıma Ücretleri">Özel Hizmet / Ekipman Taşıma Ücretleri</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/havalimani-bilgileri" title="Havalimanı Bilgileri">Havalimanı Bilgileri</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/islem-rehberi" title="İşlem Rehberi">İşlem Rehberi</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/sikca-sorulan-sorular" title="Sıkça Sorulan Sorular">Sıkça Sorulan Sorular</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/zamaninda-kalkis-performansi" title="Zamanında Kalkış Performansı">Zamanında Kalkış Performansı</a>
+</li>
+<li>
+<a href="/faydali-bilgiler/diger-bilgiler/e-bulten-iptal" title="E-Bülten İptal">E-Bülten İptal</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a class="mobile-menu" href="#">DESTİNASYONLAR</a>
+<ul class="mobile-menu__sub-list">
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#dest-1" href="#" rel="nofollow">Yurt İçi</a>
+<ul id="dest-1">
+<li>
+<a href="https://flights.flypgs.com/tr/antalya-ucak-bileti" title="Antalya Uçak Bileti" target="_blank" rel="noopener">Antalya Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/bodrum-mugla-ucak-bileti" title="Bodrum Uçak Bileti" target="_blank" rel="noopener">Bodrum Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/izmir-ucak-bileti" title="İzmir Uçak Bileti" target="_blank" rel="noopener">İzmir Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/ankara-ucak-bileti" title="Ankara Uçak Bileti" target="_blank" rel="noopener">Ankara Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/dalaman-ucak-bileti" title="Dalaman Uçak Bileti" target="_blank" rel="noopener">Dalaman Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/trabzon-ucak-bileti" title="Trabzon Uçak Bileti" target="_blank" rel="noopener">Trabzon Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/ankara-cikisli-bodrum-mugla-ucak-bileti" title="Ankara - Bodrum Uçak Bileti" target="_blank" rel="noopener">Ankara - Bodrum Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/adana-cikisli-trabzon-ucak-bileti" title="Adana - Trabzon Uçak Bileti" target="_blank" rel="noopener">Adana - Trabzon Uçak Bileti</a>
+</li>
+</ul>
+</li>
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#dest-2" href="#" rel="nofollow">Yurt Dışı</a>
+<ul id="dest-2">
+<li>
+<a href="https://flights.flypgs.com/tr/viyana-ucak-bileti" title="Viyana Uçak Bileti" target="_blank" rel="noopener">Viyana Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/munih-ucak-bileti" title="Münih Uçak Bileti" target="_blank" rel="noopener">Münih Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/dubai-ucak-bileti" title="Dubai Uçak Bileti" target="_blank" rel="noopener">Dubai Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/stuttgart-ucak-bileti" title="Stuttgart Uçak Bileti" target="_blank" rel="noopener">Stuttgart Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/prag-ucak-bileti" title="Prag Uçak Bileti" target="_blank" rel="noopener">Prag Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/moskova-ucak-bileti" title="Moskova Uçak Bileti" target="_blank" rel="noopener">Moskova Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/atina-ucak-bileti" title="Atina Uçak Bileti" target="_blank" rel="noopener">Atina Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/zurih-ucak-bileti" title="Zürih Uçak Bileti" target="_blank" rel="noopener">Zürih Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/beyrut-ucak-bileti" title="Beyrut Uçak Bileti" target="_blank" rel="noopener">Beyrut Uçak Bileti</a>
+</li>
+</ul>
+</li>
+<li class="has-submenu">
+<a class="collapsable collapsed" data-target="#dest-3" href="#" rel="nofollow">Popüler Destinasyonlar</a>
+<ul id="dest-3">
+<li>
+<a href="https://flights.flypgs.com/tr/amsterdam-ucak-bileti" title="Amsterdam Uçak Bileti" target="_blank" rel="noopener">Amsterdam Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/milano-ucak-bileti" title="Milan Uçak Bileti" target="_blank" rel="noopener">Milan Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/paris-ucak-bileti" title="Paris Uçak Bileti" target="_blank" rel="noopener">Paris Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/tel-aviv-ucak-bileti" title="Tel Aviv Uçak Bileti" target="_blank" rel="noopener">Tel Aviv Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/roma-ucak-bileti" title="Roma Uçak Bileti" target="_blank" rel="noopener">Roma Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/berlin-ucak-bileti" title="Berlin Uçak Bileti" target="_blank" rel="noopener">Berlin Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/koln-ucak-bileti" title="Köln Uçak Bileti" target="_blank" rel="noopener">Köln Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/londra-ucak-bileti" title="Londra Uçak Bileti" target="_blank" rel="noopener">Londra Uçak Bileti</a>
+</li>
+<li>
+<a href="https://flights.flypgs.com/tr/belgrad-ucak-bileti" title="Belgrad Uçak Bileti" target="_blank" rel="noopener">Belgrad Uçak Bileti</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="clearfix lang-holder">
+<div class="header__language js-language">
+<select class="select2 select2--language js-select js-select--mobile" data-opts="{&#34;theme&#34;: &#34;language&#34;, &#34;templateResult&#34;: true, &#34;minimumResultsForSearch&#34;: &#34;Infinity&#34;}">
+<option value="TR" data-url="/" selected="selected"> Türkçe</option>
+<option value="EN" data-url="/en"> English</option>
+<option value="DE" data-url="/de"> Deutsch</option>
+<option value="FR" data-url="/fr"> Français</option>
+<option value="RU" data-url="/ru"> Русский</option>
+<option value="NL" data-url="/nl"> Nederlands</option>
+<option value="DA" data-url="/da"> Dansk</option>
+<option value="IT" data-url="/it"> Italiano</option>
+<option value="SV" data-url="/sv"> Svenska</option>
+<option value="ES" data-url="/es"> Español</option>
+</select>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<div class="fancybox--form modal-small" id="pnr-info-layer" style="display: none;">
+<div class="pgs-modal">
+<div class="pgs-modal--header pgs-modal--header__orange pgs-table">
+<div class="pgs-table__cell v-a-mid p-l-30 p-r-30">
+<span class="pgs-modal--header__orange--title pull-left">PNR Numarası Nedir?</span>
+<a href="javascript:$.fancybox.close();" title="" class="icon icon--modal-close pull-right m-t-15"></a>
+</div>
+</div>
+<div class="pgs-modal--content pgs-modal--content__white p-l-20 p-r-20">
+<div class="row">
+<div class="col-sm-5">
+<p class="text-soft-gray4 text-13 p-t-20">
+PNR(Passenger Name Record)kodu, Yolcu İsim Kaydı’nın kısaltmasıdır. Daha çok rezervasyon numarası olarak bilinir. İnternetten bir bilet rezerve ettiğinde ya da satın aldığında sana verilir. Rakamlar ve harflerden oluşur. Bu numara ile havaalanlarında biletin çıktısını alabilir, değiştirme ve iptal işlemlerini yapabilirsin. Kısaca uçuş bilgilerine ulaşabilmek için en kolay yoldur.	PNR kodu internetten bilet aldığında e-mail yoluyla sana gönderiliyor.	</p>
+</div>
+<div class="col-sm-7 col-no-gutter m-t-30">
+<img src="https://cdnp.flypgs.com/assets/Web/build/assets/images/content/pnr-promo.png" class="img-responsive pull-right" alt="PNR Numarası Nedir?"/>
+</div>
+</div>
+</div>
+<div class="pgs-modal--footer">
+</div>
+</div>
+</div>
+<div class="remodal pegasus-pnr-ebilet" data-remodal-id="ticket-info-layer" data-remodal-options="modifier:darkness pegasus-pnr-ebilet-modal">
+<div class="nxm-remodal">
+<div class="nxm-remodal__header">
+<h2 class="nxm-remodal__header__title nxm-remodal__header__title--long">PNR Numarası ve E-Bilet Nedir?</h2>
+<a href="#" title="" class="nxm-remodal__close" data-remodal-action="close"></a>
+</div>
+<div class="nxm-remodal__content">
+<div class="clearfix pnr-content">
+<div class="row">
+<div class="col-sm-6">
+<div class="pnr-content__img">
+<img src="/Assets/Web/build/assets/images/flight-summary.jpg" alt="PNR Numarası Nedir?"/>
+</div>
+<h2>PNR Numarası Nedir?</h2>
+<p>PNR(Passenger Name Record)kodu, Yolcu İsim Kaydı’nın kısaltmasıdır. Daha çok rezervasyon numarası olarak bilinir. İnternetten bir bilet rezerve ettiğinde ya da satın aldığında sana verilir. Rakamlar ve harflerden oluşur. Bu numara ile havaalanlarında biletin çıktısını alabilir, değiştirme ve iptal işlemlerini yapabilirsin. Kısaca uçuş bilgilerine ulaşabilmek için en kolay yoldur.	</p>
+<p>PNR kodu internetten bilet aldığında e-mail yoluyla sana gönderiliyor.	</p>
+</div>
+<div class="col-sm-6">
+<div class="pnr-content__img">
+<img src="/Assets/Web/build/assets/images/ebilet.jpg" alt="E-Bilet Nedir?"/>
+<span class="pnr-content__arrow"></span>
+</div>
+<h2>E-Bilet Nedir?</h2>
+<p>Belge numaranız PC ile başlar ve 13 hanelidir. Bu numarayı bilet işlemlerinizi gerçekleştirmek için kullanabilirsiniz. </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script id="hb-more-years" type="text/x-handlebars-template">
+<div class="row">
+<span class="why-pegasus__year_title">
+{{#each years}}
+<strong>{{year}}</strong>
+<span>{{year}}</span>
+{{/each}}
+</span>
+<div class="col-sm-6 col-xs-12 text-right why-pegasus__vline-full">
+{{#each years}}
+{{#if isLeft}}
+<div class="why-pegasus__col--leftside-bg">
+<p>
+{{text}}
+</p>
+</div>
+{{/if}}
+<div class="clearfix"></div>
+{{/each}}
+</div>
+<div class="col-sm-6 col-xs-12 text-right">
+{{#each years}}
+{{#if isRight}}
+<div class="why-pegasus__col--rightside-bg m-t-sm-80">
+<p>
+{{text}}
+</p>
+</div>
+{{/if}}
+<div class="clearfix"></div>
+{{/each}}
+</div>
+</div>
+</script>
+<div class="remodal warning-modal" data-remodal-id="ie8Modal" data-remodal-options="modifier:darkness warning-modal">
+<div class="remodal-warning-content">
+<div class="close-remodal">
+<a href="#" title="" class="icon icon--modal-close" data-remodal-action="close"></a>
+</div>
+<div class="remodal-regular-title error">
+Hatırlatma:
+</div>
+<p class="remodal-regular-intro">Flypgs.com&#39;u daha iyi görüntüleyebilmeniz için tarayıcınızı ileri bir sürümü ile güncellemeniz gerekmektedir.</p>
+<div class="page-action clearfix">
+<ul class="page-action__list">
+<li class="pull-left"><a href="#" class="button button--orange" data-remodal-action="close">TAMAM</a></li>
+</ul>
+</div>
+</div>
+</div>
+<input type="text" value="" class="hidden" id="render-block"/>
+<div id="transLock"></div>
+<script type="text/javascript" src="/Assets/Web/build/assets/scripts/vendors/modernizr.min.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/Assets/Web/build/assets/scripts/vendors/selectivizr-min.js"></script>
+<script type="text/javascript" src="/Assets/Web/build/assets/scripts/vendors/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="/legacy?v=7JLGZIynwlLIdTSUZyALmruLxYM-3EA6d1xQ5ZcWvFs1"></script>
+<script src="/framework?v=5yd-joAe_XHltOoUhFhLCGr3c5vegwjEewmRaZOlQ-s1"></script>
+<script src="/srcf?v=QYsMjchNlsQoJ04GhYn0IbLjRoh32q6-8N_aTvmkQpU1"></script>
+<script src="/srcs?v=MsYOTrLC2Jx_6KkYm7ut-HLqN8jTw0SczOXRCE-uqbw1"></script>
+<script src="/site?v=gDdXgFw3z-GDnuze4Sb7z2q_OBzSQzX1HzlG1e0ZD1c1"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script src="/framework?v=5yd-joAe_XHltOoUhFhLCGr3c5vegwjEewmRaZOlQ-s1"></script>
+<script src="/srcf?v=QYsMjchNlsQoJ04GhYn0IbLjRoh32q6-8N_aTvmkQpU1"></script>
+<script src="/srcs?v=MsYOTrLC2Jx_6KkYm7ut-HLqN8jTw0SczOXRCE-uqbw1"></script>
+<script src="/site?v=gDdXgFw3z-GDnuze4Sb7z2q_OBzSQzX1HzlG1e0ZD1c1" defer=""></script>
+<!--<![endif]-->
+<script src="/Assets/Web/Base/Script/vendors/lazysizes.min.js" async=""></script>
+<input id="client-user-id" type="hidden" name="client-user-id" value=""/>
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+(function (w, d, s, l, i) {
+window.checkMobile = function() {
+var a = navigator.userAgent || navigator.vendor || window.opera;
+return /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4));
+};
+i = ((window.checkMobile()) ? 'GTM-MVHL32' : 'GTM-5L6RN7');
+w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', '');
+</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+Pgs.Redirection = [{"Title":"Havalimanı","Brand":"Sabiha Gökçen","Company":"ISG","Domain":"www.sabihagokcen.aero"},{"Title":"Otobüs","Brand":"Havaş","Company":"Havaş","Domain":"www.havas.net"},{"Title":"Otobüs","Brand":"Akmis","Company":"Akmis","Domain":"www.akmisseyahat.com.tr"},{"Title":"Hızlı Geçiş","Brand":"İSG ","Company":"İSG","Domain":"fasttrack.flypgs.com"},{"Title":"Dubai Online Vize","Brand":"World Wide Services","Company":"Worldwide Turizm Seyahat A.Ş","Domain":"worldwide-s.net"},{"Title":"Otel Rezervasyon","Brand":"Booking.com","Company":"Booking.com B.V.","Domain":"hotels.flypgs.com"},{"Title":"Seyahat Sigortası","Brand":"AIG Sigorta","Company":"AIG Sigorta A.Ş.","Domain":"travelguard.biz"},{"Title":"Online Otopark","Brand":"ParkCloud","Company":"ParkCloud Ltd.","Domain":"parking.flypgs.com"},{"Title":"Araç Kiralama","Brand":"Cartrawler","Company":"ETRAWLER","Domain":"cars.flypgs.com"},{"Title":"Çok Uluslu Bankacılık","Brand":"ING Bank","Company":"ING Bank A.Ş.","Domain":"ingbank.com.tr"},{"Title":"Online Vize Hizmeti","Brand":"Vizehome","Company":"Yeni Karamürsel Turizm Ltd.Şti","Domain":"vize.flypgs.com"},{"Title":"Online Tur&Etkinlik","Brand":"DealBroker","Company":"DealBroker BV","Domain":"deals.flypgs.com"}]
+Pgs.RedirectText = {Pattern: '{0} sitesine yönlendiriliyorsunuz', Text :'Lütfen bekle yönlendiriliyorsun.'};
+</script>
+<script type="text/javascript">
+Pgs.Messages = [{"DepPort":"EBL","ArrPort":"EBL","Content":"<p>Türkiye Cumhuriyeti, 10 Şubat 2016 tarihinden itibaren Irak Normal ve Resmi pasaport sahibi vatandaşlarına yönelik ülkeye girişlerde vize uygulamaya başlayacaktır. Bu pasaport sahipleri geçerli bir Schengen, ABD, İngiltere ve İrlanda ülkelerinden birinin vizesi veya geçerli ikamet iznine sahip olmaları durumunda www.evisa.gov.tr web sitesi üzerinden e-vizelerini alabileceklerdir.</p>\n<p>Bu gereklilikleri taşımayan tüm Irak pasaport sahipleri Türkiye’ye girişte konsolosluk vizesine tabidir.</p>","Title":"Erbil","Adult":1,"Child":0,"Infant":0,"Soldier":0,"Type":"All","VisaLink":"https://vize.flypgs.com"},{"DepPort":"BGW","ArrPort":"BGW","Content":"<p>Türkiye Cumhuriyeti, 10 Şubat 2016 tarihinden itibaren Irak Normal ve Resmi pasaport sahibi vatandaşlarına yönelik ülkeye girişlerde vize uygulamaya başlayacaktır. Bu pasaport sahipleri geçerli bir Schengen, ABD, İngiltere ve İrlanda ülkelerinden birinin vizesi veya geçerli ikamet iznine sahip olmaları durumunda www.evisa.gov.tr web sitesi üzerinden e-vizelerini alabileceklerdir.</p>\n<p>Bu gereklilikleri taşımayan tüm Irak pasaport sahipleri Türkiye’ye girişte konsolosluk vizesine tabidir.</p>","Title":"Bağdat","Adult":1,"Child":0,"Infant":0,"Soldier":0,"Type":"All"},{"DepPort":"","ArrPort":"BEG","Content":"<p>Belgrad ülke makamlarından alınan bilgiye göre bu parkur için tek yön bilet düzenlenemez. Lütfen konuyla ilgili çağrı merkezimizden (0888 228 12 12) bilgi alınız. Seyahatinize izin verilmemesi halinde havayolumuz sorumlu olmayacaktır.</p>","Title":"Belgrad","Adult":1,"Child":0,"Infant":0,"Soldier":0,"Type":"Oneway"},{"DepPort":"","ArrPort":"SKP","Content":"<p>Üsküp ülke makamlarından alınan bilgiye göre bu parkur için tek yön bilet düzenlenemez. Lütfen konuyla ilgili çağrı merkezimizden (0888 228 12 12) bilgi alınız. Seyahatinize izin verilmemesi halinde havayolumuz sorumlu olmayacaktır.</p>","Title":"Üsküp","Adult":1,"Child":0,"Infant":0,"Soldier":0,"Type":"Oneway"},{"DepPort":"ECN","ArrPort":"","Content":"<p><span style=\"text-decoration: underline;\"><strong>Kıbrıs’ta vatani görevini yapan ve Kıbrıs’ta görevli tüm askeri personele Kıbrıs çıkışlı uçuşlarda</strong> </span>havalimanı vergisinde indirim uygulanmaktadır. İndirimden faydalanan misafirlerimizin check-in esnasında <span style=\"text-decoration: underline;\"><strong>asker kimliklerinin yanı sıra hudut geçiş belgelerini</strong> </span>ibraz etmeleri zorunludur. Belge ibraz edemeyen misafirlerin seyahatleri için, uçuş günü geçerli ücretler ile yeni bilet satın almaları gerekmektedir.<br />Seyahatinize izin verilmemesi halinde havayolumuz sorumlu olmayacaktır.</p>","Title":"Lefkoşa- Kuzey Kıbrıs","Adult":0,"Child":0,"Infant":0,"Soldier":1,"Type":"All"},{"DepPort":"","ArrPort":"PRN","Content":"<p>Kosova ülke makamlarından alınan bilgiye göre bu parkur için tek yön bilet düzenlenemez. Lütfen konuyla ilgili çağrı merkezimizden (0888 228 12 12) bilgi alınız. Seyahatinize izin verilmemesi halinde havayolumuz sorumlu olmayacaktır.</p>","Title":"Priştine","Adult":1,"Child":0,"Infant":0,"Soldier":0,"Type":"Oneway"},{"DepPort":"","ArrPort":"TLV","Content":"<p>VIZE ye tabi olan ülke vatandaşlarının gidiş – dönüş biletlerinin bulunmasi gerekmektedir. Lütfen konuyla ilgili çağrı merkezimizden (0888 228 12 12) bilgi alınız.</p>\n<p>Seyahatinize izin verilmemesi halinde havayolumuz sorumlu olmayacaktır.</p>","Title":"Tel Aviv","Adult":1,"Child":0,"Infant":0,"Soldier":0,"Type":"All"},{"DepPort":"","ArrPort":"BEY","Content":"<p>Lübnan ülke makamından alınan bilgiye göre Türkiye ‘den ve İsviçre veya Avrupa Ekonomik Alana üye devletlerden çıkış yaparak bu parkurda seyahat eden Suriye vatandaşların pasaportlarının içinde birer adet yasal giriş ve çıkış damgası olmalıdır. Aksi takdirde seyahatinize izin verilmemesi durumunda havayolumuz sorumlu olmayacaktır. * EEA ( Avrupa Ekonomik Alanı) Avusturya , Belçika , Bulgaristan , Hırvatistan, Kıbrıs , Çek Cum . , Danimarka, Estonya, Finlandiya , Fransa , Almanya, Yunanistan, Macaristan , İzlanda, İrlanda ( Cum. ) İtalya, Letonya , Lihtenştayn , Litvanya Lüksemburg , Malta, Hollanda , Norveç , Polonya , Portekiz , Romanya , Slovakya, Slovenya , İspanya, İsveç , Birleşik Krallık</p>","Title":"Lübnan - Beyrut","Adult":0,"Child":0,"Infant":0,"Soldier":0,"Type":"All"},{"DepPort":"","ArrPort":"DXB","Content":"<p>Değerli Misafirimiz, Birleşik Arap Emirlikleri'ne giriş için geçerli bir vizeniz olması gerekmektedir. \"BAE vizesi almak istiyorum\" butonuna tıklayarak Pegasus misafirlerine özel koşullarla vize ön başvurusu yapabilirsiniz.<br /></p>\n<p><br /></p>","Title":"Bilgilendirme: Dubai","Adult":0,"Child":0,"Infant":0,"Soldier":0,"Type":"All","VisaLink":"https://www.flypgs.com/dubai-vize-islemleri"},{"DepPort":"","ArrPort":"AUH","Content":"<p>Değerli Misafirimiz, Birleşik Arap Emirlikleri'ne giriş için geçerli bir vizeniz olması gerekmektedir. \"BAE vizesi almak istiyorum\" butonuna tıklayarak Pegasus misafirlerine özel koşullarla vize ön başvurusu yapabilirsiniz.</p>","Title":"Bilgilendirme: Abu Dhabi","Adult":0,"Child":0,"Infant":0,"Soldier":0,"Type":"All","VisaLink":"https://www.flypgs.com/dubai-vize-islemleri"},{"DepPort":"","ArrPort":"CPH","Content":"<p>Kopenhag Havalimanı pasaport geçiş noktasındaki detaylı kontrollerin yarattığı yoğunluk nedeniyle, kontuar check-in işlemlerinizi uçuşunuza en geç 1 saat kala tamamlamaya özen gösteriniz. Havalimaninda bulunan kontuarlarimiz ucusunuza 1 saat kala kapanacaktir.</p>\n<p>İyi uçuşlar dileriz.</p>","Title":"Kopenhag Havalimanı Kontuar Kapanma Süresi Hakkında","Adult":0,"Child":0,"Infant":0,"Soldier":0,"Type":"All"}]
+</script>
+<!-- LayerSlider script files -->
+<script src="/Assets/Web/build/assets/layerslider/js/greensock.js" type="text/javascript"></script>
+<script src="/Assets/Web/build/assets/layerslider/js/layerslider.transitions.js" type="text/javascript"></script>
+<script src="/Assets/Web/build/assets/layerslider/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+<script>
+$(document).ready(function () {
+// Calling LayerSlider on the target element
+$('#layerslider').layerSlider({
+type: 'responsive',
+sliderVersion: '6.0.0',
+responsiveUnder: 1,
+layersContainer: 0,
+slideBGSize: 'auto',
+fullSizeMode: 'fitheight',
+allowRestartOnResize: true,
+skin: 'borderlessdark3d',
+globalBGColor: 'transparent',
+hoverBottomNav: false,
+slideOnSwipe: true,
+skinsPath: '/Assets/Web/build/assets/layerslider/skins/'
+});
+});
+</script>
+
+
+
