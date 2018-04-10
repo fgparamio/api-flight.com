@@ -172,7 +172,7 @@ go run vivacolombia_scraper.go
 |  Smart Wings (CZ)                      |            (To Do)                  | https://www.smartwings.com/                                   |
 |  Vueling (ES)                          |            (Done)                   | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
-|  Dba (DE)                              |            (To Do)                  | https://www.alternativeairlines.com/dba                       |
+|  Dba (DE)                              |            (Done)                   | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
 |  Tuifly (EU)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 

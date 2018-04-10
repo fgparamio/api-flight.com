@@ -47,7 +47,6 @@ func main() {
 }
 
 func getSecurityToken(body string) string {
-
 	position := strings.Index(body, "SecurityToken")
 	token := body[position+15 : position+61]
 	fmt.Println(token)
