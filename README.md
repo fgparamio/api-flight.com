@@ -174,14 +174,14 @@ go run vivacolombia_scraper.go
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  Dba (DE)                              |            (Done)                   | https://www.alternativeairlines.com/dba                       |
 |  Germanwings (DE)                      |            (Done)                   | https://www.eurowings.com                                     | 
-|  Tuifly (EU)                           |            (To Do)                  | https://en.tuifly.com                                         | 
+|  Tuifly (EU)                           |            (Done)                   | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
 |  Air Europa Express (ES)               |            (Done)                   | https://www.aireuropa.com                                     | 
 |  Fly Sas (EU)                          |            (To Do)                  | https://www.flysas.com                                        | 
 |  Iceland Air (IS)                      |            (To Do)                  | https://www.icelandair.com                                    | 
 |  Aer Lingus (IE)                       |            (Done)                   | https://www.aerlingus.com                                     | 
-|  Blue Panorama (IT)                    |            (To Do)                  | https://www.blue-panorama.com                                 | 
+|  Blue Panorama (IT)                    |            (Done)                   | https://www.blue-panorama.com                                 | 
 |  Mistral Air (IT)                      |            (To Do)                  | https://www.mistralair.it/en                                  | 
 |  Air Italy (IT)                        |            (Doing)                  | https://www.airitaly.com/it-IT                                | 
 |  BravoFly (AU)                         |            (To Do)                  | http://www.bravofly.com.au/flights                            | 
