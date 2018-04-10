@@ -173,7 +173,7 @@ go run vivacolombia_scraper.go
 |  Vueling (ES)                          |            (Done)                   | http://www.vueling.com                                        | 
 |  Condor Airlines (DE)                  |            (To Do)                  | https://www.condor.com                                        | 
 |  Dba (DE)                              |            (Done)                   | https://www.alternativeairlines.com/dba                       |
-|  Germanwings (DE)                      |            (To Do)                  | https://www.eurowings.com                                     | 
+|  Germanwings (DE)                      |            (Done)                   | https://www.eurowings.com                                     | 
 |  Tuifly (EU)                           |            (To Do)                  | https://en.tuifly.com                                         | 
 |  Niki (AT)                             |            (To Do)                  | https://www.opodo.com/flights/airline/HG/niki                 | 
 |  Volotea (ES)                          |            (To Do)                  | http://www.volotea.com/es                                     | 
@@ -190,7 +190,7 @@ go run vivacolombia_scraper.go
 |  Direct Fly (PL)                       |            (To Do)                  | http://directfly.cz                                           |
 |  Enter Air (PL)                        |            (To Do)                  | http://www.enterair.pl                                        |
 |  Blue Air (RO)                         |            (To Do)                  | https://www.blueairweb.com/en/gb                              |
-|  Eurowings (DE)                        |            (To Do)                  | https://www.eurowings.com                                     |
+|  Eurowings (DE)                        |            (Done)                   | https://www.eurowings.com                                     |
 |  Sky Express (RU)                      |            (To Do)                  | http://www.skyexpress.ru                                      |
 |  Fly Me (SE)                           |            (To Do)                  | http://www.flyme.mv                                           |
 |  Helvetic (CH)                         |            (To Do)                  | https://www.helvetic.com                                      |
